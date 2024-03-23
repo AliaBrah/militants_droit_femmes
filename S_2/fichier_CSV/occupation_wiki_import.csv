@@ -1,0 +1,608 @@
+occupation,occupationLabel,occupationDescription
+http://www.wikidata.org/entity/Q33999,actor,"person who acts in a dramatic or comic production and works in film, television, theatre, or radio"
+http://www.wikidata.org/entity/Q36834,composer,person who is an author of music in any form
+http://www.wikidata.org/entity/Q130857,disc jockey,person who plays recorded music for an audience
+http://www.wikidata.org/entity/Q177220,singer,person singing for a listening audience
+http://www.wikidata.org/entity/Q488205,singer-songwriter,"musician who writes, composes and sings own songs"
+http://www.wikidata.org/entity/Q855091,guitarist,musician who plays the guitar
+http://www.wikidata.org/entity/Q2405480,voice actor,"person who provides voice-overs for a character in films, animation, video games, or in other media"
+http://www.wikidata.org/entity/Q10798782,television actor,actor who performs on television
+http://www.wikidata.org/entity/Q28692502,women's rights activist,person who advocates women's rights
+http://www.wikidata.org/entity/Q55960555,recording artist,"person, musician who performs music for recordings"
+http://www.wikidata.org/entity/Q36180,writer,person who uses written words to communicate ideas and to produce literary works
+http://www.wikidata.org/entity/Q1930187,journalist,"person who collects, writes, and distributes news and other information"
+http://www.wikidata.org/entity/Q8125919,political adviser,professional who promotes the election of certain candidates or the interests of certain groups
+http://www.wikidata.org/entity/Q15253558,activist,"person working with promoting or impeding, or causing social, political, economic, or environmental change"
+http://www.wikidata.org/entity/Q15958642,political writer,profession
+http://www.wikidata.org/entity/Q15980158,non-fiction writer,author who writes non-fiction texts
+http://www.wikidata.org/entity/Q322170,suffragette,member of the Woman's Social and Political Union who advocated for women's right to vote
+http://www.wikidata.org/entity/Q333634,translator,person who translates written text from one language to another
+http://www.wikidata.org/entity/Q1231865,pedagogue,person working in the academic field of pedagogy
+http://www.wikidata.org/entity/Q6430706,critic,professional who makes a living communicating their opinions and assessments of various forms of creative work
+http://www.wikidata.org/entity/Q169470,physicist,scientist who does research in physics
+http://www.wikidata.org/entity/Q864380,biographer,person who creates biographies
+http://www.wikidata.org/entity/Q864503,biologist,scientist studying living organisms
+http://www.wikidata.org/entity/Q1622272,university teacher,person teaching at a university
+http://www.wikidata.org/entity/Q3400985,academic,person who works as a teacher or researcher at a university or other higher education institution
+http://www.wikidata.org/entity/Q4964182,philosopher,person with an extensive knowledge of philosophy
+http://www.wikidata.org/entity/Q34074720,feminist,person who supports or (and) practices feminism
+http://www.wikidata.org/entity/Q1234713,theologian,person who studies theology
+http://www.wikidata.org/entity/Q4263842,literary critic,cultural journalist who reviews new literary books
+http://www.wikidata.org/entity/Q6625963,novelist,writer of novels
+http://www.wikidata.org/entity/Q11774202,essayist,person who writes essays
+http://www.wikidata.org/entity/Q11499147,political activist,activist wanting political change
+http://www.wikidata.org/entity/Q2306091,sociologist,scientist working in sociology
+http://www.wikidata.org/entity/Q214917,playwright,person who writes plays
+http://www.wikidata.org/entity/Q12144794,prose writer,person who writes in prose
+http://www.wikidata.org/entity/Q82955,politician,person involved in politics; person who holds or seeks positions in government
+http://www.wikidata.org/entity/Q37226,teacher,"person who helps others to acquire knowledge, competences or values"
+http://www.wikidata.org/entity/Q27532437,suffragist,activist advocating for the women's right to vote
+http://www.wikidata.org/entity/Q49757,poet,person who writes poetry
+http://www.wikidata.org/entity/Q1086863,columnist,"someone who writes for publication in a series, creating an article that usually offers commentary and opinions"
+http://www.wikidata.org/entity/Q1607826,editor,person who edits texts or publications; for book editor use Q124634523; for journal editor use Q124634459
+http://www.wikidata.org/entity/Q4182927,stockbroker,professional who buys and sells shares and other securities for both retail and institutional clients
+http://www.wikidata.org/entity/Q2730732,equestrian,sportsperson who rides horses
+http://www.wikidata.org/entity/Q4144610,alpine skier,sportsperson taking part in alpine skiing competitions
+http://www.wikidata.org/entity/Q4270517,skier,person who performs skiing
+http://www.wikidata.org/entity/Q10349745,racing automobile driver,occupation driving an automobile in competition
+http://www.wikidata.org/entity/Q10833314,tennis player,sportsperson who plays tennis
+http://www.wikidata.org/entity/Q13219447,sports journalist,person who reports on sports events in the media
+http://www.wikidata.org/entity/Q13219587,figure skater,sportsperson who takes part in figure skating tournaments
+http://www.wikidata.org/entity/Q3155377,Islamicist,orientalist specialised in the study of Islam
+http://www.wikidata.org/entity/Q4853732,children's writer,writer of literature targeted primarily at children
+http://www.wikidata.org/entity/Q18844224,science fiction writer,person who writes works of science fiction
+http://www.wikidata.org/entity/Q113469341,writer of feminist science fiction,
+http://www.wikidata.org/entity/Q28389,screenwriter,"writer who writes for films, TV shows, comics and games"
+http://www.wikidata.org/entity/Q201788,historian,scholar who deals with the exploration and presentation of history
+http://www.wikidata.org/entity/Q106568011,magazine editor,editor of a magazine
+http://www.wikidata.org/entity/Q6051619,opinion journalist,journalist who makes no claim of objectivity
+http://www.wikidata.org/entity/Q40348,lawyer,professional who practices law
+http://www.wikidata.org/entity/Q380075,advocate,profession in the field of law
+http://www.wikidata.org/entity/Q974144,educator,"occupation which teaches others knowledge, skills, and habits"
+http://www.wikidata.org/entity/Q1476215,human rights activist,person who acts to protect human rights
+http://www.wikidata.org/entity/Q131512,farmer,"person engaged in agriculture, raising living organisms for food or raw materials"
+http://www.wikidata.org/entity/Q188094,economist,professional in the discipline of economics
+http://www.wikidata.org/entity/Q3578589,environmentalist,someone who supports the goals of the environmental movement
+http://www.wikidata.org/entity/Q42973,architect,"person trained to plan and design buildings, and oversee their construction"
+http://www.wikidata.org/entity/Q16323111,peace activist,activist focused on avoiding war
+http://www.wikidata.org/entity/Q15978337,social critic,critic focused on social issues
+http://www.wikidata.org/entity/Q3242115,revolutionary,person who participates in a revolution
+http://www.wikidata.org/entity/Q12359071,anarchist,person practicing anarchism
+http://www.wikidata.org/entity/Q2504617,romanist,scholar specialising in Romance studies
+http://www.wikidata.org/entity/Q13418253,philologist,person who practices philology
+http://www.wikidata.org/entity/Q14467526,linguist,language scholar specialized in linguistics
+http://www.wikidata.org/entity/Q39631,physician,professional who practices medicine
+http://www.wikidata.org/entity/Q105186,pharmacist,healthcare professional who practices in pharmacy
+http://www.wikidata.org/entity/Q512314,socialite,person of prominence in upper class society
+http://www.wikidata.org/entity/Q12362622,philanthropist,person known for philanthropic work
+http://www.wikidata.org/entity/Q2746259,party chair,presiding officer of a political party
+http://www.wikidata.org/entity/Q15627169,trade unionist,person involved in trade unions; member or supporter of a trade union
+http://www.wikidata.org/entity/Q18814623,autobiographer,person who wrote their autobiography
+http://www.wikidata.org/entity/Q182436,librarian,curator of a library
+http://www.wikidata.org/entity/Q54128,domestic worker,person who works within the scope of a residence
+http://www.wikidata.org/entity/Q58428578,linguistic rights activist,"person who, individually or with others, acts to promote or protect some variation of linguistic rights"
+http://www.wikidata.org/entity/Q1021386,civil rights advocate,advocate for civil rights
+http://www.wikidata.org/entity/Q12859263,orator,public speaker; for conference speaker use Q100742049
+http://www.wikidata.org/entity/Q30242234,freedom fighter,person who takes part in a resistance movement against an oppressive political or social establishment
+http://www.wikidata.org/entity/Q47004387,theosophist,practitioner of Theosophy
+http://www.wikidata.org/entity/Q21507004,sex educator,profession involving facilitating people or partners to explore and understand their sexuality
+http://www.wikidata.org/entity/Q15949613,short story writer,author or writer of short stories
+http://www.wikidata.org/entity/Q2516866,publisher,person heading a publishing company or who publishes media
+http://www.wikidata.org/entity/Q947873,television presenter,person who introduces or hosts television programs
+http://www.wikidata.org/entity/Q1792450,art historian,humanist who is engaged in history of art
+http://www.wikidata.org/entity/Q578109,television producer,occupation within video production for TV
+http://www.wikidata.org/entity/Q5780518,communicator,occupation
+http://www.wikidata.org/entity/Q8246794,blogger,person who writes or records a blog
+http://www.wikidata.org/entity/Q17125263,YouTuber,person that produces videos on YouTube
+http://www.wikidata.org/entity/Q19251029,media critic,critic of media in multiple formats
+http://www.wikidata.org/entity/Q3621491,archaeologist,person studying human activity in the past
+http://www.wikidata.org/entity/Q17488316,prehistorian,archaeologist who is engaged in prehistory
+http://www.wikidata.org/entity/Q16533,judge,official who presides over court proceedings
+http://www.wikidata.org/entity/Q185351,jurist,"legal scholar or academic, a professional who studies, teaches, and develops law"
+http://www.wikidata.org/entity/Q901402,geographer,scholar whose area of study is geography
+http://www.wikidata.org/entity/Q1734662,cartographer,person preparing geographical maps
+http://www.wikidata.org/entity/Q9149093,mountaineer,person who climbs mountains
+http://www.wikidata.org/entity/Q11900058,explorer,person who by means of travel searches out new information
+http://www.wikidata.org/entity/Q1780490,communard,members and supporters of the short-lived 1871 Paris Commune
+http://www.wikidata.org/entity/Q9379869,lecturer,"knowledgeable person who gives informative talks, as opposed to ceremonial or persuasive"
+http://www.wikidata.org/entity/Q482980,author,"a writer of a book, article, or document (subclass : literary works: writer [Q36180])"
+http://www.wikidata.org/entity/Q211346,psychiatrist,physician who specializes in psychiatry
+http://www.wikidata.org/entity/Q4773904,anthropologist,person with an extensive knowledge of anthropology
+http://www.wikidata.org/entity/Q3579035,travel writer,person who writes travel literature
+http://www.wikidata.org/entity/Q593644,chemist,scientist trained in the study of chemistry
+http://www.wikidata.org/entity/Q66035178,textile worker,person working in the textile industry or engaged in textile crafts
+http://www.wikidata.org/entity/Q185196,midwife,medical professional wo practices obstetrics as a health science
+http://www.wikidata.org/entity/Q10732476,art collector,person who collects art
+http://www.wikidata.org/entity/Q205375,inventor,"person that devises a new device, method, composition, or process"
+http://www.wikidata.org/entity/Q1238570,political scientist,expert in or student of political science
+http://www.wikidata.org/entity/Q19509201,LGBTQI+ rights activist,"person campaigning in favour of, or otherwise an active supporter of LGBT rights issues"
+http://www.wikidata.org/entity/Q483501,artist,person who engages in any form of artistic creation or practice
+http://www.wikidata.org/entity/Q1028181,painter,artist who practices painting
+http://www.wikidata.org/entity/Q7016454,new media artist,artist who primarily uses (new) media art in their work
+http://www.wikidata.org/entity/Q10774753,performance artist,person who practices performance art (not to be confused with performing arts)
+http://www.wikidata.org/entity/Q21550489,conceptual artist,artist involved with conceptual arts
+http://www.wikidata.org/entity/Q186360,nurse,type of health care provider
+http://www.wikidata.org/entity/Q16003550,pacifist,person commited to pacifism
+http://www.wikidata.org/entity/Q158852,conductor,person who directs a musical group during a performance
+http://www.wikidata.org/entity/Q765778,organist,musician who plays any type of organ
+http://www.wikidata.org/entity/Q2526255,film director,person who directs a film
+http://www.wikidata.org/entity/Q18510179,abolitionist,social activist seeking end of slavery
+http://www.wikidata.org/entity/Q1420621,media proprietor,profession
+http://www.wikidata.org/entity/Q2961975,business executive,"person responsible for running a business, or an aspect of it"
+http://www.wikidata.org/entity/Q105434600,high civil servant,public official with executive rank and functions
+http://www.wikidata.org/entity/Q61048378,climate activist,person who is intensively and perceptibly committed to preventing harmful climate change
+http://www.wikidata.org/entity/Q8178443,librettist,author of the libretto (words) of an opera or a similar extended musical composition
+http://www.wikidata.org/entity/Q462390,docent,person who teaches at universities and educational institutions
+http://www.wikidata.org/entity/Q212980,psychologist,"professional who evaluates, diagnoses, treats, and studies behavior and mental processes"
+http://www.wikidata.org/entity/Q115088092,international forum participant,participant in an international conference or forum
+http://www.wikidata.org/entity/Q7458488,sex columnist,writer of a newspaper or magazine column about sex
+http://www.wikidata.org/entity/Q2259451,stage actor,actor who performs live before an in-person audience
+http://www.wikidata.org/entity/Q33231,photographer,person who takes photographs
+http://www.wikidata.org/entity/Q662729,public figure,famous person who is often written about in newspapers and magazines or is often on television or the radio
+http://www.wikidata.org/entity/Q1281618,sculptor,artist specializing in sculpture
+http://www.wikidata.org/entity/Q24698392,anti-imperialist,person espousing anti-imperialism
+http://www.wikidata.org/entity/Q59924426,oil painter,profession
+http://www.wikidata.org/entity/Q15994177,political theorist,person who develops theories of politics
+http://www.wikidata.org/entity/Q270389,news presenter,person who presents news during a news program
+http://www.wikidata.org/entity/Q2722764,radio personality,person who has an on-air position in radio broadcasting
+http://www.wikidata.org/entity/Q13590141,presenter,"person who hosts an event; for television presenters, use Q947873"
+http://www.wikidata.org/entity/Q2462658,manager,person whose job is to manage something
+http://www.wikidata.org/entity/Q1397808,resistance fighter,fighter of a resistance movement
+http://www.wikidata.org/entity/Q10800557,film actor,actor who appears in films
+http://www.wikidata.org/entity/Q1413170,bookbinder,person who physically creates and repairs books by attaching pages to a spine
+http://www.wikidata.org/entity/Q3391743,visual artist,artist involved with the visual arts
+http://www.wikidata.org/entity/Q15296811,drawer,person who makes drawings (artist/cartoonist/drafter/illustrator)
+http://www.wikidata.org/entity/Q18074503,installation artist,artist specialized in installation art
+http://www.wikidata.org/entity/Q639669,musician,"person who composes, conducts or performs music"
+http://www.wikidata.org/entity/Q3580098,specialized educator,
+http://www.wikidata.org/entity/Q121594,professor,academic title at universities and other education and research institutions
+http://www.wikidata.org/entity/Q3410028,psychoanalyst,psychiatrist or psychotherapist who specializes in psychoanalysis
+http://www.wikidata.org/entity/Q245068,comedian,"person who seeks to entertain an audience, primarily by making them laugh"
+http://www.wikidata.org/entity/Q17505902,watercolorist,artist who works in watercolors
+http://www.wikidata.org/entity/Q381353,woman of letters,cultivated and influential female writer
+http://www.wikidata.org/entity/Q488111,pornographic actor,person who performs sex acts in pornographic films
+http://www.wikidata.org/entity/Q14915751,prostitute,person who has sex for money
+http://www.wikidata.org/entity/Q2095549,aircraft pilot,person controlling an aircraft in flight
+http://www.wikidata.org/entity/Q11774156,memoirist,type of autobiographer
+http://www.wikidata.org/entity/Q124153083,aviation writer,profession
+http://www.wikidata.org/entity/Q81096,engineer,professional practitioner of engineering
+http://www.wikidata.org/entity/Q82594,computer scientist,one who studies or practises computer science
+http://www.wikidata.org/entity/Q3455803,director,director of a creative work
+http://www.wikidata.org/entity/Q170790,mathematician,person with an extensive knowledge of mathematics
+http://www.wikidata.org/entity/Q1326886,electrical engineer,professional practicioner of electrical engineering
+http://www.wikidata.org/entity/Q15319501,social scientist,scientist working in the field of social sciences
+http://www.wikidata.org/entity/Q18939491,diarist,person who writes a personal journal
+http://www.wikidata.org/entity/Q43845,businessperson,person involved in activities for the purpose of generating revenue
+http://www.wikidata.org/entity/Q3501317,fashion designer,one who designs clothing and related items
+http://www.wikidata.org/entity/Q774306,surgeon,physician with surgical specialty
+http://www.wikidata.org/entity/Q19842050,pediatric surgeon,medical profession
+http://www.wikidata.org/entity/Q16145150,music teacher,profession and academic title
+http://www.wikidata.org/entity/Q18805,naturalist,"person who studies and knows a lot about plants, animals and natural history (esp in the field)"
+http://www.wikidata.org/entity/Q2083925,botanical collector,person who collects plants (or parts thereof) for scientific research
+http://www.wikidata.org/entity/Q2374149,botanist,person who practices botany
+http://www.wikidata.org/entity/Q994779,delegate,individual who speaks or acts on behalf of an organization
+http://www.wikidata.org/entity/Q110954375,indigenous rights activist,advocate for indigenous rights
+http://www.wikidata.org/entity/Q13570226,literary historian,humanist who is engaged in history of literature
+http://www.wikidata.org/entity/Q113961864,comparative literature academic,
+http://www.wikidata.org/entity/Q1051798,statutory auditor,profession
+http://www.wikidata.org/entity/Q2920595,sexologist,specialist in sexology
+http://www.wikidata.org/entity/Q12414919,terrorist,person who practises terrorism
+http://www.wikidata.org/entity/Q8359428,social activist,activist focused on social issues
+http://www.wikidata.org/entity/Q7019111,social worker,person who performs social work
+http://www.wikidata.org/entity/Q15214752,cabaret performer,performing artist specialized in cabaret
+http://www.wikidata.org/entity/Q18576582,metallurgist,person skilled in metallurgy
+http://www.wikidata.org/entity/Q4610556,model,"person employed to display, advertise and promote products, or to serve as a visual aid"
+http://www.wikidata.org/entity/Q5583669,goodwill ambassador,"honorific title, occupational position, and/or designation of a person who advocates for a specific cause or global issue on the basis of their notability"
+http://www.wikidata.org/entity/Q22336956,humanitarian,person dedicated to the help of people
+http://www.wikidata.org/entity/Q18930007,political philosopher,scholar of political philosophy
+http://www.wikidata.org/entity/Q193391,diplomat,person appointed by a state to conduct diplomacy with another state or international organization
+http://www.wikidata.org/entity/Q11063,astronomer,scientist who studies celestial bodies
+http://www.wikidata.org/entity/Q58968,intellectual,person who engages in critical thinking and reasoning
+http://www.wikidata.org/entity/Q191808,nun,member of a religious community of women
+http://www.wikidata.org/entity/Q15924224,internist,physician with medical specialty internal medicine; is skilled in the management of patients who have undifferentiated or multi-system disease processes; cares for hospitalized and ambulatory patients
+http://www.wikidata.org/entity/Q29887242,anti-vaccine activist,person who officially rejects the efficacy or safety of vaccines
+http://www.wikidata.org/entity/Q3282637,film producer,person supervising the making of a film
+http://www.wikidata.org/entity/Q15077007,podcaster,person who creates podcasts
+http://www.wikidata.org/entity/Q191633,mangaka,person who creates manga
+http://www.wikidata.org/entity/Q173950,art dealer,person that buys and sells works of art
+http://www.wikidata.org/entity/Q11569986,printmaker,person who makes prints from plates or blocks
+http://www.wikidata.org/entity/Q212948,partisan,member of a guerrilla movement
+http://www.wikidata.org/entity/Q5716684,dancer,person who uses their body to express themselves through movement and dance
+http://www.wikidata.org/entity/Q2865819,opera singer,singer who sings in operas
+http://www.wikidata.org/entity/Q17391638,art theorist,profession that works in the field of art theory
+http://www.wikidata.org/entity/Q16611574,social reformer,person who works towards social reform
+http://www.wikidata.org/entity/Q20956402,cult leader,leader of a deviant or novel religious group
+http://www.wikidata.org/entity/Q42909,reporter,journalist who collects and reports information on an event
+http://www.wikidata.org/entity/Q808967,barrister,lawyer specialized in court representation in certain jurisdictions
+http://www.wikidata.org/entity/Q2248623,scholar,medieval student or cleric
+http://www.wikidata.org/entity/Q10429346,bibliographer,person who describes and lists books and other publications
+http://www.wikidata.org/entity/Q17351648,newspaper editor,regular editor of a newspaper
+http://www.wikidata.org/entity/Q20826540,scholar,someone who has great knowledge
+http://www.wikidata.org/entity/Q63676514,educational theorist,specialist in the theory of education
+http://www.wikidata.org/entity/Q64711780,spiritual leader,high officer of religious or spiritual movements
+http://www.wikidata.org/entity/Q77844028,constitutionalist,expert in constitutional law
+http://www.wikidata.org/entity/Q753110,songwriter,person who writes the words or music to songs
+http://www.wikidata.org/entity/Q1415090,film score composer,musical profession
+http://www.wikidata.org/entity/Q18533509,medical writer,profession
+http://www.wikidata.org/entity/Q16308156,scholar of English,person who studies English language and literature
+http://www.wikidata.org/entity/Q18930236,philosopher of language,
+http://www.wikidata.org/entity/Q4479442,organizational founder,person who creates an institution intended to perpetuate itself after the founder's association ends
+http://www.wikidata.org/entity/Q1328323,functionary,person with leadership position within an organization
+http://www.wikidata.org/entity/Q3068305,salonnière,person who organizes or hosts a salon
+http://www.wikidata.org/entity/Q635734,archivist,"professional who assesses, collects, organizes, preserves, maintains control over, and provides access to information determined to have long-term value"
+http://www.wikidata.org/entity/Q8142883,criminologist,person engaged in the study of criminal behaviour
+http://www.wikidata.org/entity/Q19829999,cultural studies scholar,profession
+http://www.wikidata.org/entity/Q763779,Protestant reformer,occupation
+http://www.wikidata.org/entity/Q152002,pastor,ordained leader of a Christian congregation
+http://www.wikidata.org/entity/Q267640,independent scholar,scholar not associated with university
+http://www.wikidata.org/entity/Q2059704,television director,person who directs television programs
+http://www.wikidata.org/entity/Q1642960,pundit,someone who offers their opinion via mass media
+http://www.wikidata.org/entity/Q24293741,anarcho-syndicalist,occupation
+http://www.wikidata.org/entity/Q97621558,temperance worker,activist in the social movement against the consumption of alcohol
+http://www.wikidata.org/entity/Q16267607,classical philologist,person studying ancient Greek or Latin texts
+http://www.wikidata.org/entity/Q17488357,historian of religion,humanist who is engaged in history of religion
+http://www.wikidata.org/entity/Q17010072,militant,violent activist
+http://www.wikidata.org/entity/Q40468055,labor historian,historian of labor
+http://www.wikidata.org/entity/Q1162163,director,person who leads a particular area of a company or organization
+http://www.wikidata.org/entity/Q599151,official,someone who holds a government office
+http://www.wikidata.org/entity/Q23833535,French Resistance fighter,member of the French resistance in WWII
+http://www.wikidata.org/entity/Q1900657,marketer,profession of soliciting customers
+http://www.wikidata.org/entity/Q6545506,lifestyle guru,person offering advice on personal development
+http://www.wikidata.org/entity/Q70591255,digital strategist,profession
+http://www.wikidata.org/entity/Q13582652,civil engineer,"engineer specialising in design, construction and maintenance of the built environment"
+http://www.wikidata.org/entity/Q254651,navigator,"crew position responsible for navigation of an aircraft, spacecraft or vessel"
+http://www.wikidata.org/entity/Q47518464,cyberfeminist,
+http://www.wikidata.org/entity/Q6934789,multimedia artist,artist working with different media
+http://www.wikidata.org/entity/Q47064,military personnel,people who serve in an organized armed military force
+http://www.wikidata.org/entity/Q1483433,laboratory technician,profession
+http://www.wikidata.org/entity/Q12013238,ophthalmologist,physician who practices ophthalmology
+http://www.wikidata.org/entity/Q4110598,video blogger,type of blogger; person who makes webcast videos
+http://www.wikidata.org/entity/Q2576499,nutritionist,person who advises on matters of food and nutrition impacts on health
+http://www.wikidata.org/entity/Q4164507,art critic,person who specializes in evaluating art
+http://www.wikidata.org/entity/Q18216771,video artist,person who creates video art
+http://www.wikidata.org/entity/Q7541856,ceramicist,practitioner of ceramic arts
+http://www.wikidata.org/entity/Q19509237,animal rights advocate,
+http://www.wikidata.org/entity/Q212238,civil servant,person employed by a government department or agency
+http://www.wikidata.org/entity/Q24256017,chairman of the Social Democratic Party,party leader in Austria
+http://www.wikidata.org/entity/Q102252389,fourierist,
+http://www.wikidata.org/entity/Q27349,dentist,healthcare occupation
+http://www.wikidata.org/entity/Q10497074,aerospace engineer,engineering profession
+http://www.wikidata.org/entity/Q674426,curator,content specialist charged with a museum's collections and involved with the interpretation of heritage material
+http://www.wikidata.org/entity/Q3387717,theatrical director,person overseeing the mounting of a theatre production
+http://www.wikidata.org/entity/Q589298,editor-in-chief,publication's editorial leader
+http://www.wikidata.org/entity/Q446966,conservator,professional responsible for the preservation of artistic and cultural artifacts
+http://www.wikidata.org/entity/Q3140857,horticulturist,"person who works and conducts research in the science and art of growing flowers, fruits, vegetables or ornamental plants"
+http://www.wikidata.org/entity/Q1900167,psychotherapist,person who practices psychotherapy
+http://www.wikidata.org/entity/Q175151,printer,person involved in manufacturing printed materials; operator of a printing press
+http://www.wikidata.org/entity/Q350979,zoologist,someone who studies or practices zoology
+http://www.wikidata.org/entity/Q16271064,herpetologist,person studying reptiles or amphibians
+http://www.wikidata.org/entity/Q250867,Catholic priest,priest of the Catholic Church
+http://www.wikidata.org/entity/Q1454904,voluntary service,institutionalized form of volunteering with limited time for a non-profit cause
+http://www.wikidata.org/entity/Q12718544,socialist,supporter of socialism
+http://www.wikidata.org/entity/Q217105,political prisoner,someone imprisoned because they have opposed or criticized the government responsible for their imprisonment
+http://www.wikidata.org/entity/Q2251335,school teacher,teacher in primary and secondary education
+http://www.wikidata.org/entity/Q11741603,People's Commissar,political office-holder which is ecquivalent with the position of the government ministers or secretaries
+http://www.wikidata.org/entity/Q5669609,grocer,seller of food
+http://www.wikidata.org/entity/Q876864,editing staff,employee who takes on editorial tasks within the media
+http://www.wikidata.org/entity/Q12327321,ministerial secretary,
+http://www.wikidata.org/entity/Q27431213,cookbook writer,editor who publishes collections of recipes
+http://www.wikidata.org/entity/Q29167936,factory inspector,official who checks that factories meet health and safety regulations
+http://www.wikidata.org/entity/Q80687,secretary,office occupation
+http://www.wikidata.org/entity/Q11995943,Q11995943,
+http://www.wikidata.org/entity/Q1056391,head teacher,most senior teacher at a school
+http://www.wikidata.org/entity/Q2534525,chairman of the executive board,person in charge of an organization or business
+http://www.wikidata.org/entity/Q1251441,leader,someone with the authority to affect the conduct of others; who have the responsibility of leading
+http://www.wikidata.org/entity/Q30461,president,"leader of a country or part of a country, usually in republics"
+http://www.wikidata.org/entity/Q3029421,publication manager,
+http://www.wikidata.org/entity/Q2114605,pharmacologist,"person who studies the manner in which drugs and medications interact with organisms, living systems, and their parts (i.e. cells, tissues, or organs)"
+http://www.wikidata.org/entity/Q18581305,beauty pageant contestant,participant in a beauty contest
+http://www.wikidata.org/entity/Q17337766,theatre critic,person who writes reviews about theatre performances
+http://www.wikidata.org/entity/Q15839134,ecologist,person who works in the scientific field of ecology
+http://www.wikidata.org/entity/Q181043,dissident,"person who actively challenges an established doctrine, policy, or institution"
+http://www.wikidata.org/entity/Q28721657,Q28721657,
+http://www.wikidata.org/entity/Q28948007,Q28948007,
+http://www.wikidata.org/entity/Q242468,tailor,"person who makes, repairs, or alters clothing professionally"
+http://www.wikidata.org/entity/Q656823,in-home tutor,educator at home
+http://www.wikidata.org/entity/Q1662561,paleontologist,scientist specialising in paleontology
+http://www.wikidata.org/entity/Q15958754,broadcaster,person working in broadcasting
+http://www.wikidata.org/entity/Q1227197,social pedagogue,profession
+http://www.wikidata.org/entity/Q125482,imam,Islamic leadership position
+http://www.wikidata.org/entity/Q1662050,industrial management assistant,commercial apprenticeship
+http://www.wikidata.org/entity/Q17221,spokesperson,someone engaged or elected to speak on behalf of others
+http://www.wikidata.org/entity/Q10694573,textile artist,"person who creates art objects using plant, animal, or synthetic fibers"
+http://www.wikidata.org/entity/Q30341438,quiltmaker,artisan who makes quilts
+http://www.wikidata.org/entity/Q4220892,film critic,journalist who is dealing with films
+http://www.wikidata.org/entity/Q11085831,interpreter,person who works with translating and communicating oral texts in different languages
+http://www.wikidata.org/entity/Q60233168,political historian,person who is engaged in political history
+http://www.wikidata.org/entity/Q1294787,artisan,skilled craft worker who makes or creates things by hand
+http://www.wikidata.org/entity/Q4178004,publicist,"person who manages publicity for a public figure, a business or a work"
+http://www.wikidata.org/entity/Q15936497,Africanist,profession; specialist in African studies
+http://www.wikidata.org/entity/Q26759595,communication scholar,occupation
+http://www.wikidata.org/entity/Q13235160,manufacturer,individual or organization that creates goods
+http://www.wikidata.org/entity/Q19827218,ultramarathon runner,long distance runner competing in races longer than 42.195 km
+http://www.wikidata.org/entity/Q267936,executive director,"chief executive officer (CEO) or managing director of an organization, company, or corporation, who serves as a board member"
+http://www.wikidata.org/entity/Q59913751,urban theorist,profession; social scientist specialized in urbanism
+http://www.wikidata.org/entity/Q10355417,advertising person,person concerned with the creation of advertisments
+http://www.wikidata.org/entity/Q26973007,professor of philosophy,teacher of philosophy at a university or college
+http://www.wikidata.org/entity/Q3264451,cardiologist,physician who specializes in cardiology
+http://www.wikidata.org/entity/Q2135469,legal counselor,legal professional providing legal advice
+http://www.wikidata.org/entity/Q131524,entrepreneur,"business legal entity which organizes and operates an enterprise, in order to conduct economic activity"
+http://www.wikidata.org/entity/Q1266283,senior lecturer,academic rank
+http://www.wikidata.org/entity/Q1125292,postdoctoral researcher,person professionally conducting research after the completion of their doctoral studies
+http://www.wikidata.org/entity/Q16314501,encyclopedist,writer or compiler of encyclopedias
+http://www.wikidata.org/entity/Q21993562,cultural activist,occupation
+http://www.wikidata.org/entity/Q828395,social policy,measures by governments or institutions which aim to improve or reform society
+http://www.wikidata.org/entity/Q2297554,history of feminism,chronological narrative of the movements and ideologies aimed at equal rights for women
+http://www.wikidata.org/entity/Q15472169,patron of the arts,person who engages in patronage
+http://www.wikidata.org/entity/Q806798,banker,person who manages or owns a bank
+http://www.wikidata.org/entity/Q56224063,bookkeeper,profession; person who records the accounts or transactions of a business
+http://www.wikidata.org/entity/Q67205775,seamstress,person employed to sew
+http://www.wikidata.org/entity/Q2640827,gynaecologist,physician who specialized in gynecology
+http://www.wikidata.org/entity/Q356139,proofreader,profession
+http://www.wikidata.org/entity/Q47492833,civil libertarian,
+http://www.wikidata.org/entity/Q11079476,digital artist,artist who works in the digital medium
+http://www.wikidata.org/entity/Q1414443,filmmaker,creator of a cinematic work
+http://www.wikidata.org/entity/Q53834886,woman human rights defenders,woman who defends human rights or people who defend women's rights
+http://www.wikidata.org/entity/Q3406834,school teacher,primary school teacher in France
+http://www.wikidata.org/entity/Q16063546,historian of science,humanist who is engaged in history of science
+http://www.wikidata.org/entity/Q736415,conferencier,host of a cabaret or variety show who introduces acts and entertains between them
+http://www.wikidata.org/entity/Q37987929,plant ecologist,scientist specializing in the ecology of plants
+http://www.wikidata.org/entity/Q1650915,researcher,"person who engages in research, professionally or otherwise. If a more specific occupation is known, use that instead"
+http://www.wikidata.org/entity/Q15982858,motivational speaker,speaker intended to motivate the audience
+http://www.wikidata.org/entity/Q66288471,trans activist,person who advocates for the rights of transgender people
+http://www.wikidata.org/entity/Q99761949,anti-racist,person who opposes racism
+http://www.wikidata.org/entity/Q703534,employee,person who works for an employer
+http://www.wikidata.org/entity/Q28528560,communist,person who believes that communism can be accomplished
+http://www.wikidata.org/entity/Q1459149,schoolmaster,male school teacher
+http://www.wikidata.org/entity/Q50940853,school director,the administrative head of a school
+http://www.wikidata.org/entity/Q2024200,telegraphist,operator who uses a telegraph key to send and receive the Morse code
+http://www.wikidata.org/entity/Q388338,treasurer,person responsible for running the treasury of an organization
+http://www.wikidata.org/entity/Q51167455,female supporter of women's right to vote,
+http://www.wikidata.org/entity/Q2085381,publisher,company that prints and distributes pressed goods or electronic media
+http://www.wikidata.org/entity/Q18810149,stenographer,occupation
+http://www.wikidata.org/entity/Q3610436,personal stylist,person who selects or recommends clothing and accessories for a client
+http://www.wikidata.org/entity/Q2873500,adventurer,person who seeks adventures
+http://www.wikidata.org/entity/Q708492,council member,representative of voters to a local government
+http://www.wikidata.org/entity/Q9352089,spy,person engaged obtaining information that is considered secret or confidential
+http://www.wikidata.org/entity/Q780596,exhibition curator,person in charge of organising an exhibition
+http://www.wikidata.org/entity/Q41583,coach,"person involved in directing, instructing and training sportspeople"
+http://www.wikidata.org/entity/Q45217546,Instagram blogger,blogger posting on Instagram
+http://www.wikidata.org/entity/Q627325,graphic designer,"professional who assembles images, typography or motion graphics to create a piece of design"
+http://www.wikidata.org/entity/Q20873384,historian of classical antiquity,
+http://www.wikidata.org/entity/Q22813352,traveler,person who travels or makes voyages
+http://www.wikidata.org/entity/Q384593,police officer,warranted employee of a police force
+http://www.wikidata.org/entity/Q11937692,Mosso d'Esquadra,officer in the Catalan police
+http://www.wikidata.org/entity/Q10297252,crime fiction writer,writer writing fiction about crime
+http://www.wikidata.org/entity/Q10547393,local politician,"politician involved in local, as opposed to national, government"
+http://www.wikidata.org/entity/Q15634281,virologist,scientist who deals with viruses
+http://www.wikidata.org/entity/Q219477,missionary,member of a religious group sent to do evangelism
+http://www.wikidata.org/entity/Q5819949,social educator,person whose profession is social education
+http://www.wikidata.org/entity/Q386854,drummer,percussionist who creates and accompanies music using drums
+http://www.wikidata.org/entity/Q12713481,laborer,low-skilled or unskilled worker in manual-labour occupations and industrial work; usually for a wage
+http://www.wikidata.org/entity/Q48705382,syndicalist,"person who promotes syndicalism, an economic system"
+http://www.wikidata.org/entity/Q5341297,educational psychologist,profession
+http://www.wikidata.org/entity/Q21281706,academic administrator,profession
+http://www.wikidata.org/entity/Q33112378,clubwoman,woman active in club-based social or community affairs
+http://www.wikidata.org/entity/Q98813131,school psychologist,psychologist that investigates processes of learning and teaching and develops psychological principles and techniques applicable to educational problems
+http://www.wikidata.org/entity/Q107983063,women's studies scholar,profession
+http://www.wikidata.org/entity/Q7621877,strategist,person with responsibility for the formulation and implementation of a strategy
+http://www.wikidata.org/entity/Q2252262,rapper,artist who speaks rhymes in a rhythm over music
+http://www.wikidata.org/entity/Q12406482,humorist,intellectual who uses humor in writing or public speaking
+http://www.wikidata.org/entity/Q2309784,sport cyclist,someone who competes in the sport of cycling
+http://www.wikidata.org/entity/Q2145981,restorer,person who repairs damaged works of art
+http://www.wikidata.org/entity/Q5322166,designer,person who designs
+http://www.wikidata.org/entity/Q1771040,stringer,freelance journalist
+http://www.wikidata.org/entity/Q30131998,cultural anthropologist,scholar of cultural anthropology
+http://www.wikidata.org/entity/Q47520669,diplomatician,person who studies the protocols of documents
+http://www.wikidata.org/entity/Q17488363,economic historian,humanist who is engaged in economic history
+http://www.wikidata.org/entity/Q1155838,correspondent,journalist contributing reports from a remote location
+http://www.wikidata.org/entity/Q164236,war correspondent,journalist specializing in coverage of armed conflicts
+http://www.wikidata.org/entity/Q1524582,rancher,person who raises livestock on a ranch
+http://www.wikidata.org/entity/Q37868118,textbook writer,writers of textbooks
+http://www.wikidata.org/entity/Q50768646,labor leader,leader of labor activists
+http://www.wikidata.org/entity/Q10509151,primary school teacher,teachers of primary school students
+http://www.wikidata.org/entity/Q620413,paralegal,professional of legal science that performs  as part of a legal assistance system
+http://www.wikidata.org/entity/Q111535220,nonprofit administrator,profession
+http://www.wikidata.org/entity/Q26481809,sports executive,role concerned with the business side of sports
+http://www.wikidata.org/entity/Q16060693,conservationist,person who seeks to protect natural resources including animal and plant species as well as their habitat for the future
+http://www.wikidata.org/entity/Q5758653,high school teacher,teaching post
+http://www.wikidata.org/entity/Q88202189,language activist,
+http://www.wikidata.org/entity/Q11571698,independence activist,
+http://www.wikidata.org/entity/Q17378128,spoken word artist,writer-performer of spoken word poetry
+http://www.wikidata.org/entity/Q24705156,broadcast journalist,journalist working in a broadcast medium such as television or radio
+http://www.wikidata.org/entity/Q12797895,occultist,occupation; study of occult practices
+http://www.wikidata.org/entity/Q2043121,community service,non-paying job for the benefit of community
+http://www.wikidata.org/entity/Q24266767,newspaper proprietor,person owning or publishing a newspaper
+http://www.wikidata.org/entity/Q1500610,community leader,person perceived to represent a community
+http://www.wikidata.org/entity/Q874894,window dresser,type of retail worker
+http://www.wikidata.org/entity/Q2133309,interior designer,"person who designs the interior decoration of a room or building; who plans, researches, coordinates, and manages such projects"
+http://www.wikidata.org/entity/Q22811707,decorator,person who decorates for a living
+http://www.wikidata.org/entity/Q998550,bookseller,person or other agent selling books
+http://www.wikidata.org/entity/Q3427922,restaurateur,person who opens and runs restaurants professionally
+http://www.wikidata.org/entity/Q10416136,Q10416136,
+http://www.wikidata.org/entity/Q16624872,washerwoman,"service occupation, generally of women"
+http://www.wikidata.org/entity/Q1706722,research fellow,employees or officials at a university or a research institute who undertake research
+http://www.wikidata.org/entity/Q21546011,labor economist,profession
+http://www.wikidata.org/entity/Q116234785,Q116234785,
+http://www.wikidata.org/entity/Q1338119,Freiherr,title of nobility in Germany and Scandinavia
+http://www.wikidata.org/entity/Q123163947,Q123163947,
+http://www.wikidata.org/entity/Q11479517,handicrafter,profession
+http://www.wikidata.org/entity/Q17489339,historian of Modern Age,person who studies modern history
+http://www.wikidata.org/entity/Q5403434,ethicist,moral principle analyst
+http://www.wikidata.org/entity/Q203184,First Lady,honorary title of the wife of a president or head of state
+http://www.wikidata.org/entity/Q5673576,gestor,
+http://www.wikidata.org/entity/Q55187,hairdresser,person whose occupation is to cut or style hair
+http://www.wikidata.org/entity/Q6673651,literary,person who works on literature
+http://www.wikidata.org/entity/Q62082534,parliamentary aide,
+http://www.wikidata.org/entity/Q1235146,documentary filmmaker,director or producer of documentary films
+http://www.wikidata.org/entity/Q6501749,general secretary,leader or chief officer of an organisation
+http://www.wikidata.org/entity/Q2393361,dance teacher,occupation
+http://www.wikidata.org/entity/Q4991371,soldier,member of the armed forces
+http://www.wikidata.org/entity/Q15986539,sports official,official in a sports organization
+http://www.wikidata.org/entity/Q2004963,numismatist,"person studying currencies, coins or paper money"
+http://www.wikidata.org/entity/Q21694753,semiologist,
+http://www.wikidata.org/entity/Q1569495,lecturer,expert who is hired to teach on a full or part time basis
+http://www.wikidata.org/entity/Q16012028,legal scholar,researcher who focuses on legal issues
+http://www.wikidata.org/entity/Q63677188,law professor,university teacher teaching law
+http://www.wikidata.org/entity/Q16626706,family therapist,psychotherapist trained in family therapy
+http://www.wikidata.org/entity/Q16254673,pamphleteer,someone who creates or distributes pamphlets
+http://www.wikidata.org/entity/Q1235152,documentalist,kind of librarian trained in documentation science and specializing in assisting researchers in their search for scientific and technical documentation
+http://www.wikidata.org/entity/Q484876,chief executive officer,highest-ranking corporate officer
+http://www.wikidata.org/entity/Q685433,salesperson,person whose job it is to sell things; for property consultant use Q124728671
+http://www.wikidata.org/entity/Q2070313,teaching assistant,position
+http://www.wikidata.org/entity/Q6817463,mental health counselor,person who works with individuals and groups to promote optimum mental and emotional health
+http://www.wikidata.org/entity/Q24716636,volunteer,participant in voluntary work
+http://www.wikidata.org/entity/Q937857,association football player,person who plays association football (soccer)
+http://www.wikidata.org/entity/Q5803091,shop assistant,occupation
+http://www.wikidata.org/entity/Q2058873,slam poet,creator of slam poetry or participant in a poetry slam
+http://www.wikidata.org/entity/Q16138122,human rights lawyer,
+http://www.wikidata.org/entity/Q19890746,Internet activist,activist whose cause concerns (in part or in whole) the Internet
+http://www.wikidata.org/entity/Q2034021,dressmaker,person who makes custom clothing for men and women
+http://www.wikidata.org/entity/Q215536,merchant,businessperson who trades in commodities that were produced by others
+http://www.wikidata.org/entity/Q486748,pianist,musician who plays the piano
+http://www.wikidata.org/entity/Q14915627,musicologist,person who studies music as a branch of knowledge or field of research as distinct from composition or performance
+http://www.wikidata.org/entity/Q83307,minister,"politician who holds significant civil public office in a national or regional government, generally heading a ministry"
+http://www.wikidata.org/entity/Q85305832,children's rights activist,
+http://www.wikidata.org/entity/Q13416803,epidemiologist,researcher on how diseases are spread
+http://www.wikidata.org/entity/Q2737906,videographer,person who works in the field of videography
+http://www.wikidata.org/entity/Q10265290,Brazilian state deputy,member of a Brazilian federal state Legislative Assembly
+http://www.wikidata.org/entity/Q28532974,community organizer,occupation
+http://www.wikidata.org/entity/Q1350157,music critic,person who writes reviews about music performances or recordings
+http://www.wikidata.org/entity/Q17167049,literary scholar,specialist in study of literature
+http://www.wikidata.org/entity/Q3147441,rector,ecclesiastical profession
+http://www.wikidata.org/entity/Q1366909,soccer commentator,profession
+http://www.wikidata.org/entity/Q2986228,sports commentator,sports broadcaster who comments a live event
+http://www.wikidata.org/entity/Q45725048,anti-nuclear activist,
+http://www.wikidata.org/entity/Q644687,illustrator,narrative artist who makes images for printed and electronic products
+http://www.wikidata.org/entity/Q2419397,therapist,person skilled in a particular kind of therapy
+http://www.wikidata.org/entity/Q3104508,cultural manager,"person who promotes, manages, and executes cultural projects or programs"
+http://www.wikidata.org/entity/Q202883,veterinarian,"professional who treats disease, disorder, and injury in animals"
+http://www.wikidata.org/entity/Q13342461,dog breeder,occupation
+http://www.wikidata.org/entity/Q65274801,militiaman,member of a milita
+http://www.wikidata.org/entity/Q21234364,radio director,profession; agent responsible for the general management and supervision of a radio program
+http://www.wikidata.org/entity/Q2752318,cosmetologist,"person who performs cosmetic treatments to hair, skin, and nails"
+http://www.wikidata.org/entity/Q11122954,waka poet,person who composes Waka or Tanka
+http://www.wikidata.org/entity/Q1328668,gravure idol,"Japanese female model who models for magazines, photobooks or movies, intended to be provocative or suggestive"
+http://www.wikidata.org/entity/Q48282,student,"learner, or someone who attends an educational institution"
+http://www.wikidata.org/entity/Q860918,Esperantist,person speaking or using the international language Esperanto
+http://www.wikidata.org/entity/Q520549,geologist,scientist who studies geology
+http://www.wikidata.org/entity/Q2312637,physical education teacher,occupation
+http://www.wikidata.org/entity/Q11513337,athletics competitor,"sportsperson that competes in athletics (track and field, running, walking)"
+http://www.wikidata.org/entity/Q2599593,germanist,scholar specialising in the German language or culture or literature
+http://www.wikidata.org/entity/Q3640160,marine biologist,scientist specializing in marine biology
+http://www.wikidata.org/entity/Q28004591,professeur des universités,"type of position in French university, that gives the ""professor"" title"
+http://www.wikidata.org/entity/Q822146,lyricist,writer of song lyrics
+http://www.wikidata.org/entity/Q852389,beekeeper,person who keeps honey bees
+http://www.wikidata.org/entity/Q373085,chancellor,executive position in a government
+http://www.wikidata.org/entity/Q1919436,pediatrician,physician with medical specialty pediatrics
+http://www.wikidata.org/entity/Q3332711,medievalist,"historian, scientist or expert in medieval studies"
+http://www.wikidata.org/entity/Q26701778,health administrator,administrator working in the health sector
+http://www.wikidata.org/entity/Q1331070,abortion-rights movement,social movement advocating for legal access to induced abortion services
+http://www.wikidata.org/entity/Q100552979,history-geography teacher,
+http://www.wikidata.org/entity/Q805221,ballet dancer,person who practices the art of ballet
+http://www.wikidata.org/entity/Q1323191,costume designer,"person who designs costumes for a film, stage production or television show"
+http://www.wikidata.org/entity/Q2490358,choreographer,person who creates choreographies
+http://www.wikidata.org/entity/Q1419997,event producer,"person specializing in planning and execution of parties, events, exhibitions, meetings, conventions, weddings and other things"
+http://www.wikidata.org/entity/Q12716775,Marxist,person who supports Marxism
+http://www.wikidata.org/entity/Q48930480,philosophy teacher,teacher of philosophy at any level
+http://www.wikidata.org/entity/Q713200,performing artist,"artist who participates in performing arts in front of an audience: actors, comedians, dancers, magicians, circus artists, musicians, singers"
+http://www.wikidata.org/entity/Q12336252,social entrepreneur,occupation
+http://www.wikidata.org/entity/Q630993,bertsolari,"profession; a singer of bertso, a musical verse in Basque tradition"
+http://www.wikidata.org/entity/Q897359,day labourer,worker hired and paid one day at a time
+http://www.wikidata.org/entity/Q60456278,secularist,"one who, discarding as irrelevant all theories bearing upon the other world, holds that we ought to confine our attention solely to the immediate problems and duties of this, independently of all presumed dependence on revelation from a higher sphere"
+http://www.wikidata.org/entity/Q583271,spiritual medium,person said to mediate communication between spirits of the dead and other human beings
+http://www.wikidata.org/entity/Q1726903,criminalist,profession
+http://www.wikidata.org/entity/Q10272925,agricultural engineer,engineering profession
+http://www.wikidata.org/entity/Q66300521,nurse administrator,nurse professionally qualified in administration
+http://www.wikidata.org/entity/Q106399618,nationalist,person advocating national independence or a strong national government
+http://www.wikidata.org/entity/Q7623053,street protester,person partaking in a public protest against a cause of concern
+http://www.wikidata.org/entity/Q21477194,contemporary artist,artist of the 20th century or in the 21st century
+http://www.wikidata.org/entity/Q7888586,chemical engineer,professional in the field of chemical engineering
+http://www.wikidata.org/entity/Q101067779,environmental defender,individual or group that strives to protect and promote human rights relating to the environment
+http://www.wikidata.org/entity/Q1737057,Q1737057,
+http://www.wikidata.org/entity/Q56404221,holder of the procuration,"person who has power of attorney from a businessman or a company to enter into contracts on their behalf, and cannot transfer the power of attorney to another person"
+http://www.wikidata.org/entity/Q1072363,chief officer,highest-ranked corporate officer of a given type
+http://www.wikidata.org/entity/Q4504549,religious servant,member of a religious community
+http://www.wikidata.org/entity/Q23670153,president of a non-profit organisation,
+http://www.wikidata.org/entity/Q18545066,stand-up comedian,comedian of stand-up comedy
+http://www.wikidata.org/entity/Q101444601,French teacher,person who teaches the French language
+http://www.wikidata.org/entity/Q63619823,abortion rights activist,person who advocates for the right to abortion
+http://www.wikidata.org/entity/Q12008505,academic librarian,librarian of an academic library
+http://www.wikidata.org/entity/Q61857538,disability rights activist,activist or advocate for the civil rights of people with disabilities
+http://www.wikidata.org/entity/Q124516127,para table tennis player,sportsperson taking part in para table tennis competitions
+http://www.wikidata.org/entity/Q1122364,indentured servant,ostensibly temporary slave via contract
+http://www.wikidata.org/entity/Q96036530,health activist,person campaigning in favour of health and access to health care
+http://www.wikidata.org/entity/Q11814411,documentarian,author of documentaries
+http://www.wikidata.org/entity/Q715301,comics artist,person who creates the artwork for comics
+http://www.wikidata.org/entity/Q1906857,mechanical engineer,specialized engineer
+http://www.wikidata.org/entity/Q832136,business manager,"person who manages the business affairs of an individual, institution, organization, or company"
+http://www.wikidata.org/entity/Q12031226,founder,worker specialized in metal casting
+http://www.wikidata.org/entity/Q1954956,musical theatre actor,actor and singer performing in musical theatre
+http://www.wikidata.org/entity/Q7063944,railway worker,occupation related to railroad networking
+http://www.wikidata.org/entity/Q10535290,manufacturing worker,"person which is directly involved in manufacturing, i.e. hands-on"
+http://www.wikidata.org/entity/Q23038345,Wikipedian,contributor to Wikipedia
+http://www.wikidata.org/entity/Q29392795,psychopedagogue,
+http://www.wikidata.org/entity/Q156839,cook,occupation involving cooking food
+http://www.wikidata.org/entity/Q211423,goldsmith,metalworker who specializes in working with gold and other precious metals
+http://www.wikidata.org/entity/Q500251,ship-owner,businessperson who owns or charters ships
+http://www.wikidata.org/entity/Q12307965,debater,person who participates in a debate
+http://www.wikidata.org/entity/Q2468727,classical scholar,"person who studies classics, the culture of (mainly) Ancient Greece and Ancient Rome"
+http://www.wikidata.org/entity/Q140686,chairperson,"leading or presiding officer of an organized group such as a board, committee, or deliberative assembly"
+http://www.wikidata.org/entity/Q1114448,cartoonist,"visual artist who creates cartoons (single images, animation film stills, comics, graphic novels and so on), not necessarily in a humorous style"
+http://www.wikidata.org/entity/Q2055046,physiologist,scientist who studies the function of living systems
+http://www.wikidata.org/entity/Q4531850,endocrinologist,scientist who studies the endocrine system
+http://www.wikidata.org/entity/Q381160,expert,person with broad and profound competence in a particular field
+http://www.wikidata.org/entity/Q15837695,organizational consulting,external guidance to improve the structure and processes in an organization
+http://www.wikidata.org/entity/Q42673468,naturopath,profession
+http://www.wikidata.org/entity/Q1749879,pensioner,"person who collects a pension, most commonly because of a retirement from the workforce"
+http://www.wikidata.org/entity/Q1113899,clinical psychologist,profession
+http://www.wikidata.org/entity/Q17504992,social historian,humanist who is engaged in social history
+http://www.wikidata.org/entity/Q95918159,consumer rights activist,
+http://www.wikidata.org/entity/Q2906862,influencer,person who uses their social media activity to influence buying decisions
+http://www.wikidata.org/entity/Q7886765,union organizer,specific type of trade union member (often elected) or an appointed union official
+http://www.wikidata.org/entity/Q47262408,Q47262408,
+http://www.wikidata.org/entity/Q901222,tutor,instructor who gives private lessons
+http://www.wikidata.org/entity/Q2500638,creator,person who does creative work
+http://www.wikidata.org/entity/Q2313151,house servant,worker within an employer's household
+http://www.wikidata.org/entity/Q466640,horse trainer,"person training horses for racing, riding, show or work"
+http://www.wikidata.org/entity/Q58287519,video game developer,person responsible for developing video games
+http://www.wikidata.org/entity/Q18931911,theorist,person who develops theories in a field
+http://www.wikidata.org/entity/Q19890761,artivist,occupation
+http://www.wikidata.org/entity/Q2478141,aristocrat,a person who either possesses hereditary titles granted by a monarch or is related to such people
+http://www.wikidata.org/entity/Q17048963,advokat,lawyers who practise in the Nordic countries
+http://www.wikidata.org/entity/Q101539,flight attendant,position in an aircrew
+http://www.wikidata.org/entity/Q58209937,history teacher,profession
+http://www.wikidata.org/entity/Q3014296,motorcycle racer,person who for their profession or a hobby participates in competitions with a motorcycle
+http://www.wikidata.org/entity/Q16271261,malacologist,scientist who studies molluscs
+http://www.wikidata.org/entity/Q1502514,cooperative movement,
+http://www.wikidata.org/entity/Q93429096,technical editor,Processing editor of a peer reviewed publication (exact role varies between journals)
+http://www.wikidata.org/entity/Q11986654,lobbyist,person involved in lobbying
+http://www.wikidata.org/entity/Q3406651,radio producer,person who supervises the production of a radio show
+http://www.wikidata.org/entity/Q19607300,television columnist,
+http://www.wikidata.org/entity/Q15978655,consultant,professional who provides advice in their specific field of expertise; for property consultant use Q124728671; for adviser who is part of leadership use Q2994387
+http://www.wikidata.org/entity/Q59071295,Catholic propagandist,
+http://www.wikidata.org/entity/Q22082717,eugenicist,researcher or promoter of eugenics
+http://www.wikidata.org/entity/Q106675732,legal author,occupation
+http://www.wikidata.org/entity/Q53457571,Zionist leader,
+http://www.wikidata.org/entity/Q3408848,lay preacher,preacher who is not a member of the clergy
+http://www.wikidata.org/entity/Q8354948,children's rights,human rights of children
+http://www.wikidata.org/entity/Q1861368,tattoo artist,individual who injects tattoo ink
+http://www.wikidata.org/entity/Q2505739,hispanist,scholar specialising in Hispanic studies
+http://www.wikidata.org/entity/Q16023925,storyteller,one who tells stories (not a narrator)
+http://www.wikidata.org/entity/Q913603,Bachelor of Social Work,entry-level degree in public welfare
+http://www.wikidata.org/entity/Q11993231,Norwegian public servant,"defined within a national Norwegian context, this type of official is employed by the state at a lower level of government"
+http://www.wikidata.org/entity/Q27943370,fashion person,person active in the world of fashion
+http://www.wikidata.org/entity/Q2449921,drama teacher,"educator who teaches one or more aspects of drama (e.g., theatre history, acting, directing)"
+http://www.wikidata.org/entity/Q3127709,harpist,musician who plays the harp
+http://www.wikidata.org/entity/Q98552221,plastic artist,practitioner of plastic arts
+http://www.wikidata.org/entity/Q19513109,Dutch language specialist,
+http://www.wikidata.org/entity/Q3029404,hospital administrator,managerial position responsible for implementing policy and directing the activities of a hospital
+http://www.wikidata.org/entity/Q357813,adjunct professor,academic title or rank typically indicating non-full time employment as a professor
+http://www.wikidata.org/entity/Q28134462,transgender sex workers,
+http://www.wikidata.org/entity/Q901,scientist,person who use scientific methods to study in an area of interest
+http://www.wikidata.org/entity/Q1113838,climatologist,scientist who studies climate
+http://www.wikidata.org/entity/Q1414937,combatant,person who takes a direct part in the hostilities of an armed conflict
+http://www.wikidata.org/entity/Q29381289,user interface designer,person working in the field of user interface design
+http://www.wikidata.org/entity/Q1108818,chartered accountant,occupation
+http://www.wikidata.org/entity/Q816432,project manager,professional in the field of project management
+http://www.wikidata.org/entity/Q19768301,market researcher,profession
