@@ -1,1252 +1,1695 @@
 p,propLabel,eff
-http://www.wikidata.org/prop/direct/P106,occupation,8095
-http://www.wikidata.org/prop/direct/P27,country of citizenship,2685
-http://www.wikidata.org/prop/direct/P569,date of birth,2666
-http://www.wikidata.org/prop/direct/P21,sex or gender,2547
-http://www.wikidata.org/prop/direct/P31,instance of,2545
-http://www.wikidata.org/prop/direct/P735,given name,2471
-http://www.wikidata.org/prop/direct/P19,place of birth,2225
-http://www.wikidata.org/prop/direct/P734,family name,1811
-http://www.wikidata.org/prop/direct/P570,date of death,1745
-http://www.wikidata.org/prop/direct/P1412,"languages spoken, written or signed",1667
-http://www.wikidata.org/prop/direct/P214,VIAF ID,1643
-http://www.wikidata.org/prop/direct/P69,educated at,1510
-http://www.wikidata.org/prop/direct/P7859,WorldCat Identities ID (superseded),1375
-http://www.wikidata.org/prop/direct/P18,image,1374
-http://www.wikidata.org/prop/direct/P2671,Google Knowledge Graph ID,1332
-http://www.wikidata.org/prop/direct/P20,place of death,1309
-http://www.wikidata.org/prop/direct/P1343,described by source,1213
-http://www.wikidata.org/prop/direct/P213,ISNI,1200
-http://www.wikidata.org/prop/direct/P244,Library of Congress authority ID,1096
-http://www.wikidata.org/prop/direct/P373,Commons category,1059
-http://www.wikidata.org/prop/direct/P166,award received,1055
-http://www.wikidata.org/prop/direct/P5008,on focus list of Wikimedia project,981
-http://www.wikidata.org/prop/direct/P227,GND ID,961
-http://www.wikidata.org/prop/direct/P646,Freebase ID,818
-http://www.wikidata.org/prop/direct/P269,IdRef ID,801
-http://www.wikidata.org/prop/direct/P101,field of work,739
-http://www.wikidata.org/prop/direct/P1006,Nationale Thesaurus voor Auteursnamen ID,730
-http://www.wikidata.org/prop/direct/P463,member of,697
-http://www.wikidata.org/prop/direct/P108,employer,646
-http://www.wikidata.org/prop/direct/P268,Bibliothèque nationale de France ID,598
-http://www.wikidata.org/prop/direct/P8189,National Library of Israel J9U ID,550
-http://www.wikidata.org/prop/direct/P2163,FAST ID,545
-http://www.wikidata.org/prop/direct/P1477,birth name,467
-http://www.wikidata.org/prop/direct/P39,position held,452
-http://www.wikidata.org/prop/direct/P26,spouse,451
-http://www.wikidata.org/prop/direct/P1207,NUKAT ID,442
-http://www.wikidata.org/prop/direct/P102,member of political party,434
-http://www.wikidata.org/prop/direct/P1559,name in native language,392
-http://www.wikidata.org/prop/direct/P3373,sibling,383
-http://www.wikidata.org/prop/direct/P3368,Prabook ID,372
-http://www.wikidata.org/prop/direct/P40,child,359
-http://www.wikidata.org/prop/direct/P648,Open Library ID,336
-http://www.wikidata.org/prop/direct/P2600,Geni.com profile ID,333
-http://www.wikidata.org/prop/direct/P691,NL CR AUT ID,300
-http://www.wikidata.org/prop/direct/P119,place of burial,299
-http://www.wikidata.org/prop/direct/P1015,NORAF ID,297
-http://www.wikidata.org/prop/direct/P7293,PLWABN ID,283
-http://www.wikidata.org/prop/direct/P22,father,280
-http://www.wikidata.org/prop/direct/P103,native language,280
-http://www.wikidata.org/prop/direct/P6722,FemBio ID,269
-http://www.wikidata.org/prop/direct/P271,NACSIS-CAT author ID,267
-http://www.wikidata.org/prop/direct/P11496,CiNii Research ID,266
-http://www.wikidata.org/prop/direct/P551,residence,256
-http://www.wikidata.org/prop/direct/P3065,RERO ID (obsolete),251
-http://www.wikidata.org/prop/direct/P3430,SNAC ARK ID,244
-http://www.wikidata.org/prop/direct/P7902,Deutsche Biographie (GND) ID,243
-http://www.wikidata.org/prop/direct/P2949,WikiTree person ID,240
-http://www.wikidata.org/prop/direct/P800,notable work,235
-http://www.wikidata.org/prop/direct/P1315,NLA Trove people ID,228
-http://www.wikidata.org/prop/direct/P7578,DUC ID,226
-http://www.wikidata.org/prop/direct/P485,archives at,220
-http://www.wikidata.org/prop/direct/P2002,X username,209
-http://www.wikidata.org/prop/direct/P11249,KBR person ID,209
-http://www.wikidata.org/prop/direct/P345,IMDb ID,205
-http://www.wikidata.org/prop/direct/P8179,Canadiana Name Authority ID,203
-http://www.wikidata.org/prop/direct/P409,Libraries Australia ID,192
-http://www.wikidata.org/prop/direct/P742,pseudonym,188
-http://www.wikidata.org/prop/direct/P950,National Library of Spain ID,188
-http://www.wikidata.org/prop/direct/P509,cause of death,176
-http://www.wikidata.org/prop/direct/P856,official website,172
-http://www.wikidata.org/prop/direct/P973,described at URL,169
-http://www.wikidata.org/prop/direct/P7763,copyright status as a creator,167
-http://www.wikidata.org/prop/direct/P3987,SHARE Catalogue author ID,166
-http://www.wikidata.org/prop/direct/P2533,WomenWriters ID,164
-http://www.wikidata.org/prop/direct/P6886,writing language,161
-http://www.wikidata.org/prop/direct/P140,religion or worldview,158
-http://www.wikidata.org/prop/direct/P3342,significant person,156
-http://www.wikidata.org/prop/direct/P8687,social media followers,154
-http://www.wikidata.org/prop/direct/P7947,WeChangEd ID,151
-http://www.wikidata.org/prop/direct/P349,NDL Authority ID,149
-http://www.wikidata.org/prop/direct/P5587,Libris-URI,149
-http://www.wikidata.org/prop/direct/P10553,IxTheo authority ID,148
-http://www.wikidata.org/prop/direct/P535,Find a Grave memorial ID,147
-http://www.wikidata.org/prop/direct/P906,SELIBR ID,145
-http://www.wikidata.org/prop/direct/P1196,manner of death,144
-http://www.wikidata.org/prop/direct/P12458,Parsifal cluster ID,143
-http://www.wikidata.org/prop/direct/P3630,Babelio author ID,138
-http://www.wikidata.org/prop/direct/P651,Biografisch Portaal van Nederland ID,134
-http://www.wikidata.org/prop/direct/P25,mother,133
-http://www.wikidata.org/prop/direct/P9984,CANTIC ID,132
-http://www.wikidata.org/prop/direct/P937,work location,131
-http://www.wikidata.org/prop/direct/P3222,NE.se ID,128
-http://www.wikidata.org/prop/direct/P949,National Library of Israel ID (old),125
-http://www.wikidata.org/prop/direct/P1830,owner of,124
-http://www.wikidata.org/prop/direct/P5034,National Library of Korea ID,123
-http://www.wikidata.org/prop/direct/P11686,University of Barcelona authority ID,120
-http://www.wikidata.org/prop/direct/P1280,CONOR.SI ID,119
-http://www.wikidata.org/prop/direct/P1788,DVN ID,116
-http://www.wikidata.org/prop/direct/P1417,Encyclopædia Britannica Online ID,114
-http://www.wikidata.org/prop/direct/P1695,NLP ID (old),113
-http://www.wikidata.org/prop/direct/P2013,Facebook username,113
-http://www.wikidata.org/prop/direct/P7704,Europeana entity,111
-http://www.wikidata.org/prop/direct/P135,movement,110
-http://www.wikidata.org/prop/direct/P3602,candidacy in election,110
-http://www.wikidata.org/prop/direct/P1442,image of grave,107
-http://www.wikidata.org/prop/direct/P1741,GTAA ID,107
-http://www.wikidata.org/prop/direct/P6379,has works in the collection,106
-http://www.wikidata.org/prop/direct/P396,SBN author ID,105
-http://www.wikidata.org/prop/direct/P723,Digitale Bibliotheek voor de Nederlandse Letteren author ID,104
-http://www.wikidata.org/prop/direct/P7939,Dansk kvindebiografisk leksikon ID,103
-http://www.wikidata.org/prop/direct/P1415,Oxford Dictionary of National Biography ID,97
-http://www.wikidata.org/prop/direct/P3762,openMLOL author ID,97
-http://www.wikidata.org/prop/direct/P1344,participant in,95
-http://www.wikidata.org/prop/direct/P9918,Kallías ID,95
-http://www.wikidata.org/prop/direct/P136,genre,92
-http://www.wikidata.org/prop/direct/P1005,Portuguese National Library author ID,92
-http://www.wikidata.org/prop/direct/P4342,Store norske leksikon ID,92
-http://www.wikidata.org/prop/direct/P7699,National Library of Lithuania ID,92
-http://www.wikidata.org/prop/direct/P2963,Goodreads author ID,91
-http://www.wikidata.org/prop/direct/P8313,Den Store Danske ID,91
-http://www.wikidata.org/prop/direct/P1038,relative,90
-http://www.wikidata.org/prop/direct/P2031,work period (start),89
-http://www.wikidata.org/prop/direct/P2003,Instagram username,88
-http://www.wikidata.org/prop/direct/P4629,Online Books Page author ID,87
-http://www.wikidata.org/prop/direct/P910,topic's main category,82
-http://www.wikidata.org/prop/direct/P12098,Kinobox person ID,82
-http://www.wikidata.org/prop/direct/P512,academic degree,81
-http://www.wikidata.org/prop/direct/P737,influenced by,81
-http://www.wikidata.org/prop/direct/P4985,TMDB person ID,81
-http://www.wikidata.org/prop/direct/P4724,Maitron ID,78
-http://www.wikidata.org/prop/direct/P91,sexual orientation,77
-http://www.wikidata.org/prop/direct/P1273,CANTIC ID (former scheme),76
-http://www.wikidata.org/prop/direct/P1950,second family name in Spanish name,76
-http://www.wikidata.org/prop/direct/P109,signature,75
-http://www.wikidata.org/prop/direct/P1368,National Library of Latvia ID,75
-http://www.wikidata.org/prop/direct/P1938,Project Gutenberg author ID,75
-http://www.wikidata.org/prop/direct/P4823,American National Biography ID,74
-http://www.wikidata.org/prop/direct/P793,significant event,73
-http://www.wikidata.org/prop/direct/P5019,Brockhaus Enzyklopädie online ID,73
-http://www.wikidata.org/prop/direct/P1580,University of Barcelona authority ID (former scheme),72
-http://www.wikidata.org/prop/direct/P1263,NNDB people ID,71
-http://www.wikidata.org/prop/direct/P4539,Collective Biographies of Women ID,71
-http://www.wikidata.org/prop/direct/P1375,NSK ID,70
-http://www.wikidata.org/prop/direct/P2734,Unz Review author ID,69
-http://www.wikidata.org/prop/direct/P6104,maintained by WikiProject,69
-http://www.wikidata.org/prop/direct/P6488,Enciclopedia delle donne ID,67
-http://www.wikidata.org/prop/direct/P1953,Discogs artist ID,65
-http://www.wikidata.org/prop/direct/P3417,Quora topic ID,65
-http://www.wikidata.org/prop/direct/P3348,National Library of Greece ID,64
-http://www.wikidata.org/prop/direct/P4359,gravsted.dk ID,64
-http://www.wikidata.org/prop/direct/P1411,nominated for,62
-http://www.wikidata.org/prop/direct/P434,MusicBrainz artist ID,61
-http://www.wikidata.org/prop/direct/P1142,political ideology,61
-http://www.wikidata.org/prop/direct/P7400,LibraryThing author ID,61
-http://www.wikidata.org/prop/direct/P451,unmarried partner,60
-http://www.wikidata.org/prop/direct/P6821,Uppsala University Alvin ID,60
-http://www.wikidata.org/prop/direct/P3154,Runeberg author ID,59
-http://www.wikidata.org/prop/direct/P8168,FactGrid item ID,58
-http://www.wikidata.org/prop/direct/P10069,Tabakalera ID,58
-http://www.wikidata.org/prop/direct/P10302,Film.ru person ID,56
-http://www.wikidata.org/prop/direct/P1284,Munzinger person ID,55
-http://www.wikidata.org/prop/direct/P8034,Vatican Library VcBA ID,55
-http://www.wikidata.org/prop/direct/P1971,number of children,54
-http://www.wikidata.org/prop/direct/P5361,BNB person ID,54
-http://www.wikidata.org/prop/direct/P2605,ČSFD person ID,53
-http://www.wikidata.org/prop/direct/P3029,UK National Archives ID,53
-http://www.wikidata.org/prop/direct/P1871,CERL Thesaurus ID,52
-http://www.wikidata.org/prop/direct/P3280,BAnQ authority ID,52
-http://www.wikidata.org/prop/direct/P3846,DBC author ID,52
-http://www.wikidata.org/prop/direct/P1816,National Portrait Gallery (London) person ID,51
-http://www.wikidata.org/prop/direct/P4619,National Library of Brazil ID,51
-http://www.wikidata.org/prop/direct/P8544,Frauen in Bewegung 1848–1938 ID,51
-http://www.wikidata.org/prop/direct/P1066,student of,50
-http://www.wikidata.org/prop/direct/P10632,OpenSanctions ID,50
-http://www.wikidata.org/prop/direct/P6844,abART person ID,49
-http://www.wikidata.org/prop/direct/P172,ethnic group,48
-http://www.wikidata.org/prop/direct/P1416,affiliation,48
-http://www.wikidata.org/prop/direct/P1248,KulturNav-ID,47
-http://www.wikidata.org/prop/direct/P7847,DigitaltMuseum ID,47
-http://www.wikidata.org/prop/direct/P8341,Dansk Biografisk Leksikon ID,47
-http://www.wikidata.org/prop/direct/P10780,Radio France person ID,47
-http://www.wikidata.org/prop/direct/P902,HDS ID,46
-http://www.wikidata.org/prop/direct/P10227,National Library of Ireland ID,46
-http://www.wikidata.org/prop/direct/P2632,place of detention,45
-http://www.wikidata.org/prop/direct/P9058,Fichier des personnes décédées ID (matchID),45
-http://www.wikidata.org/prop/direct/P10297,Google Arts & Culture entity ID,45
-http://www.wikidata.org/prop/direct/P1617,BBC Things ID,44
-http://www.wikidata.org/prop/direct/P1899,LibriVox author ID,44
-http://www.wikidata.org/prop/direct/P1472,Commons Creator page,43
-http://www.wikidata.org/prop/direct/P1607,Dialnet author ID,43
-http://www.wikidata.org/prop/direct/P1889,different from,43
-http://www.wikidata.org/prop/direct/P2732,Persée author ID,43
-http://www.wikidata.org/prop/direct/P3219,Encyclopædia Universalis ID,43
-http://www.wikidata.org/prop/direct/P5739,Pontificia Università della Santa Croce ID,43
-http://www.wikidata.org/prop/direct/P7369,National Library of Chile ID,43
+http://www.wikidata.org/prop/direct/P106,occupation,20506
+http://www.wikidata.org/prop/direct/P569,date of birth,7413
+http://www.wikidata.org/prop/direct/P27,country of citizenship,7404
+http://www.wikidata.org/prop/direct/P21,sex or gender,7188
+http://www.wikidata.org/prop/direct/P31,instance of,7174
+http://www.wikidata.org/prop/direct/P735,given name,6237
+http://www.wikidata.org/prop/direct/P19,place of birth,5771
+http://www.wikidata.org/prop/direct/P69,educated at,5064
+http://www.wikidata.org/prop/direct/P1412,"languages spoken, written or signed",4679
+http://www.wikidata.org/prop/direct/P734,family name,4537
+http://www.wikidata.org/prop/direct/P166,award received,3866
+http://www.wikidata.org/prop/direct/P214,VIAF ID,3858
+http://www.wikidata.org/prop/direct/P18,image,3800
+http://www.wikidata.org/prop/direct/P2671,Google Knowledge Graph ID,3336
+http://www.wikidata.org/prop/direct/P570,date of death,3281
+http://www.wikidata.org/prop/direct/P7859,WorldCat Identities ID (superseded),3044
+http://www.wikidata.org/prop/direct/P646,Freebase ID,2860
+http://www.wikidata.org/prop/direct/P244,Library of Congress authority ID,2770
+http://www.wikidata.org/prop/direct/P373,Commons category,2726
+http://www.wikidata.org/prop/direct/P213,ISNI,2699
+http://www.wikidata.org/prop/direct/P20,place of death,2366
+http://www.wikidata.org/prop/direct/P227,GND ID,2264
+http://www.wikidata.org/prop/direct/P5008,on focus list of Wikimedia project,2135
+http://www.wikidata.org/prop/direct/P101,field of work,1917
+http://www.wikidata.org/prop/direct/P1343,described by source,1886
+http://www.wikidata.org/prop/direct/P108,employer,1800
+http://www.wikidata.org/prop/direct/P269,IdRef ID,1769
+http://www.wikidata.org/prop/direct/P463,member of,1524
+http://www.wikidata.org/prop/direct/P1006,Nationale Thesaurus voor Auteursnamen ID,1522
+http://www.wikidata.org/prop/direct/P8189,National Library of Israel J9U ID,1342
+http://www.wikidata.org/prop/direct/P39,position held,1296
+http://www.wikidata.org/prop/direct/P2163,FAST ID,1278
+http://www.wikidata.org/prop/direct/P102,member of political party,1223
+http://www.wikidata.org/prop/direct/P268,Bibliothèque nationale de France ID,1175
+http://www.wikidata.org/prop/direct/P1559,name in native language,1160
+http://www.wikidata.org/prop/direct/P1207,NUKAT ID,1015
+http://www.wikidata.org/prop/direct/P3368,Prabook ID,1006
+http://www.wikidata.org/prop/direct/P2002,Twitter (X) username,947
+http://www.wikidata.org/prop/direct/P1477,birth name,869
+http://www.wikidata.org/prop/direct/P26,spouse,819
+http://www.wikidata.org/prop/direct/P103,native language,801
+http://www.wikidata.org/prop/direct/P551,residence,797
+http://www.wikidata.org/prop/direct/P691,NL CR AUT ID,764
+http://www.wikidata.org/prop/direct/P345,IMDb ID,758
+http://www.wikidata.org/prop/direct/P8687,social media followers,724
+http://www.wikidata.org/prop/direct/P7293,PLWABN ID,720
+http://www.wikidata.org/prop/direct/P856,official website,690
+http://www.wikidata.org/prop/direct/P40,child,648
+http://www.wikidata.org/prop/direct/P1015,NORAF ID,646
+http://www.wikidata.org/prop/direct/P3373,sibling,629
+http://www.wikidata.org/prop/direct/P648,Open Library ID,606
+http://www.wikidata.org/prop/direct/P140,religion or worldview,593
+http://www.wikidata.org/prop/direct/P3430,SNAC ARK ID,563
+http://www.wikidata.org/prop/direct/P2013,Facebook username,558
+http://www.wikidata.org/prop/direct/P509,cause of death,552
+http://www.wikidata.org/prop/direct/P2600,Geni.com profile ID,552
+http://www.wikidata.org/prop/direct/P800,notable work,546
+http://www.wikidata.org/prop/direct/P271,NACSIS-CAT author ID,541
+http://www.wikidata.org/prop/direct/P11496,CiNii Research ID,540
+http://www.wikidata.org/prop/direct/P22,father,538
+http://www.wikidata.org/prop/direct/P119,place of burial,535
+http://www.wikidata.org/prop/direct/P1196,manner of death,496
+http://www.wikidata.org/prop/direct/P3065,RERO ID (obsolete),488
+http://www.wikidata.org/prop/direct/P2949,WikiTree person ID,477
+http://www.wikidata.org/prop/direct/P7902,Deutsche Biographie (GND) ID,464
+http://www.wikidata.org/prop/direct/P2003,Instagram username,461
+http://www.wikidata.org/prop/direct/P8179,Canadiana Name Authority ID,435
+http://www.wikidata.org/prop/direct/P950,National Library of Spain ID,434
+http://www.wikidata.org/prop/direct/P6886,writing language,419
+http://www.wikidata.org/prop/direct/P937,work location,417
+http://www.wikidata.org/prop/direct/P1344,participant in,411
+http://www.wikidata.org/prop/direct/P10553,IxTheo authority ID,385
+http://www.wikidata.org/prop/direct/P1315,NLA Trove people ID,384
+http://www.wikidata.org/prop/direct/P91,sexual orientation,379
+http://www.wikidata.org/prop/direct/P11249,KBR person ID,378
+http://www.wikidata.org/prop/direct/P409,Libraries Australia ID,369
+http://www.wikidata.org/prop/direct/P12458,Parsifal cluster ID,360
+http://www.wikidata.org/prop/direct/P6722,FemBio ID,359
+http://www.wikidata.org/prop/direct/P3987,SHARE Catalogue author ID,346
+http://www.wikidata.org/prop/direct/P4985,TMDB person ID,345
+http://www.wikidata.org/prop/direct/P973,described at URL,338
+http://www.wikidata.org/prop/direct/P793,significant event,334
+http://www.wikidata.org/prop/direct/P742,pseudonym,333
+http://www.wikidata.org/prop/direct/P10632,OpenSanctions ID,329
+http://www.wikidata.org/prop/direct/P2031,work period (start),324
+http://www.wikidata.org/prop/direct/P349,NDL Authority ID,322
+http://www.wikidata.org/prop/direct/P7578,DUC ID,317
+http://www.wikidata.org/prop/direct/P485,archives at,311
+http://www.wikidata.org/prop/direct/P535,Find a Grave memorial ID,303
+http://www.wikidata.org/prop/direct/P5587,Libris-URI,301
+http://www.wikidata.org/prop/direct/P906,SELIBR ID,294
+http://www.wikidata.org/prop/direct/P12098,Kinobox person ID,292
+http://www.wikidata.org/prop/direct/P3602,candidacy in election,280
+http://www.wikidata.org/prop/direct/P512,academic degree,279
+http://www.wikidata.org/prop/direct/P5034,National Library of Korea ID,273
+http://www.wikidata.org/prop/direct/P3630,Babelio author ID,271
+http://www.wikidata.org/prop/direct/P25,mother,266
+http://www.wikidata.org/prop/direct/P7763,copyright status as a creator,266
+http://www.wikidata.org/prop/direct/P9984,CANTIC ID,264
+http://www.wikidata.org/prop/direct/P7704,Europeana entity,263
+http://www.wikidata.org/prop/direct/P1417,Encyclopædia Britannica Online ID,261
+http://www.wikidata.org/prop/direct/P1280,CONOR.SI ID,255
+http://www.wikidata.org/prop/direct/P1695,NLP ID (old),252
+http://www.wikidata.org/prop/direct/P10302,Film.ru person ID,249
+http://www.wikidata.org/prop/direct/P136,genre,246
+http://www.wikidata.org/prop/direct/P949,National Library of Israel ID (old),246
+http://www.wikidata.org/prop/direct/P11686,University of Barcelona authority ID,242
+http://www.wikidata.org/prop/direct/P2963,Goodreads author ID,236
+http://www.wikidata.org/prop/direct/P135,movement,232
+http://www.wikidata.org/prop/direct/P1741,GTAA ID,229
+http://www.wikidata.org/prop/direct/P1284,Munzinger person ID,226
+http://www.wikidata.org/prop/direct/P10832,WorldCat Entities ID,220
+http://www.wikidata.org/prop/direct/P434,MusicBrainz artist ID,219
+http://www.wikidata.org/prop/direct/P1950,second family name in Spanish name,219
+http://www.wikidata.org/prop/direct/P3222,NE.se ID,215
+http://www.wikidata.org/prop/direct/P396,SBN author ID,214
+http://www.wikidata.org/prop/direct/P6379,has works in the collection,213
+http://www.wikidata.org/prop/direct/P1263,NNDB people ID,212
+http://www.wikidata.org/prop/direct/P9918,Kallías ID,208
+http://www.wikidata.org/prop/direct/P12582,Oxford Reference overview ID,205
+http://www.wikidata.org/prop/direct/P7699,National Library of Lithuania ID,199
+http://www.wikidata.org/prop/direct/P172,ethnic group,198
+http://www.wikidata.org/prop/direct/P4342,Store norske leksikon ID,197
+http://www.wikidata.org/prop/direct/P910,topic's main category,196
+http://www.wikidata.org/prop/direct/P1038,relative,195
+http://www.wikidata.org/prop/direct/P3342,significant person,194
+http://www.wikidata.org/prop/direct/P3417,Quora topic ID,194
+http://www.wikidata.org/prop/direct/P1953,Discogs artist ID,193
+http://www.wikidata.org/prop/direct/P1005,Portuguese National Library author ID,191
+http://www.wikidata.org/prop/direct/P2605,ČSFD person ID,180
+http://www.wikidata.org/prop/direct/P1442,image of grave,179
+http://www.wikidata.org/prop/direct/P737,influenced by,176
+http://www.wikidata.org/prop/direct/P1368,National Library of Latvia ID,176
+http://www.wikidata.org/prop/direct/P8313,Den Store Danske ID,172
+http://www.wikidata.org/prop/direct/P2533,WomenWriters ID,171
+http://www.wikidata.org/prop/direct/P1273,CANTIC ID (former scheme),166
+http://www.wikidata.org/prop/direct/P1411,nominated for,163
+http://www.wikidata.org/prop/direct/P1889,different from,158
+http://www.wikidata.org/prop/direct/P1971,number of children,157
+http://www.wikidata.org/prop/direct/P2397,YouTube channel ID,157
+http://www.wikidata.org/prop/direct/P6634,LinkedIn personal profile ID,157
+http://www.wikidata.org/prop/direct/P3762,openMLOL author ID,155
+http://www.wikidata.org/prop/direct/P7947,WeChangEd ID,154
+http://www.wikidata.org/prop/direct/P2190,C-SPAN person ID,153
+http://www.wikidata.org/prop/direct/P5019,Brockhaus Enzyklopädie online ID,151
+http://www.wikidata.org/prop/direct/P5361,BNB person ID,151
+http://www.wikidata.org/prop/direct/P1416,affiliation,150
+http://www.wikidata.org/prop/direct/P10660,C-SPAN person numeric ID,150
+http://www.wikidata.org/prop/direct/P8168,FactGrid item ID,149
+http://www.wikidata.org/prop/direct/P109,signature,146
+http://www.wikidata.org/prop/direct/P1375,NSK ID,145
+http://www.wikidata.org/prop/direct/P1580,University of Barcelona authority ID (former scheme),144
+http://www.wikidata.org/prop/direct/P7400,LibraryThing author ID,143
+http://www.wikidata.org/prop/direct/P2604,Kinopoisk person ID,142
+http://www.wikidata.org/prop/direct/P651,Biografisch Portaal van Nederland ID,137
+http://www.wikidata.org/prop/direct/P4823,American National Biography ID,135
+http://www.wikidata.org/prop/direct/P1617,BBC Things ID,134
+http://www.wikidata.org/prop/direct/P1830,owner of,133
+http://www.wikidata.org/prop/direct/P9743,Podchaser creator ID,130
+http://www.wikidata.org/prop/direct/P1142,political ideology,129
+http://www.wikidata.org/prop/direct/P1415,Oxford Dictionary of National Biography ID,129
+http://www.wikidata.org/prop/direct/P2734,Unz Review author ID,127
+http://www.wikidata.org/prop/direct/P1303,instrument,124
+http://www.wikidata.org/prop/direct/P723,Digitale Bibliotheek voor de Nederlandse Letteren author ID,122
+http://www.wikidata.org/prop/direct/P6553,personal pronoun,122
+http://www.wikidata.org/prop/direct/P4666,CineMagia person ID,121
+http://www.wikidata.org/prop/direct/P1788,DVN ID,119
+http://www.wikidata.org/prop/direct/P451,unmarried partner,118
+http://www.wikidata.org/prop/direct/P4629,Online Books Page author ID,118
+http://www.wikidata.org/prop/direct/P1185,Rodovid ID,117
+http://www.wikidata.org/prop/direct/P3846,DBC author ID,115
+http://www.wikidata.org/prop/direct/P4619,National Library of Brazil ID,115
+http://www.wikidata.org/prop/direct/P1266,AlloCiné person ID,114
+http://www.wikidata.org/prop/direct/P3348,National Library of Greece ID,114
+http://www.wikidata.org/prop/direct/P4527,UK Parliament thesaurus ID,111
+http://www.wikidata.org/prop/direct/P2632,place of detention,110
+http://www.wikidata.org/prop/direct/P7305,Online PWN Encyclopedia ID,110
+http://www.wikidata.org/prop/direct/P935,Commons gallery,108
+http://www.wikidata.org/prop/direct/P7939,Dansk kvindebiografisk leksikon ID,106
+http://www.wikidata.org/prop/direct/P1296,Gran Enciclopèdia Catalana ID (former scheme),104
+http://www.wikidata.org/prop/direct/P3280,BAnQ authority ID,104
+http://www.wikidata.org/prop/direct/P12385,Gran Enciclopèdia Catalana ID,104
+http://www.wikidata.org/prop/direct/P866,Perlentaucher ID,102
+http://www.wikidata.org/prop/direct/P3219,Encyclopædia Universalis ID,100
+http://www.wikidata.org/prop/direct/P1938,Project Gutenberg author ID,99
+http://www.wikidata.org/prop/direct/P1050,medical condition,98
+http://www.wikidata.org/prop/direct/P6104,maintained by WikiProject,98
+http://www.wikidata.org/prop/direct/P10069,Tabakalera ID,98
+http://www.wikidata.org/prop/direct/P10780,Radio France person ID,98
+http://www.wikidata.org/prop/direct/P6488,Enciclopedia delle donne ID,96
+http://www.wikidata.org/prop/direct/P2019,AllMovie person ID,95
+http://www.wikidata.org/prop/direct/P4539,Collective Biographies of Women ID,95
+http://www.wikidata.org/prop/direct/P5739,Pontificia Università della Santa Croce ID,95
+http://www.wikidata.org/prop/direct/P10297,Google Arts & Culture entity ID,94
+http://www.wikidata.org/prop/direct/P6844,abART person ID,93
+http://www.wikidata.org/prop/direct/P7982,Hrvatska enciklopedija ID,93
+http://www.wikidata.org/prop/direct/P6394,ELNET ID,92
+http://www.wikidata.org/prop/direct/P7369,National Library of Chile ID,91
+http://www.wikidata.org/prop/direct/P8034,Vatican Library VcBA ID,91
+http://www.wikidata.org/prop/direct/P1607,Dialnet author ID,90
+http://www.wikidata.org/prop/direct/P1066,student of,89
+http://www.wikidata.org/prop/direct/P184,doctoral advisor,85
+http://www.wikidata.org/prop/direct/P4724,Maitron ID,85
+http://www.wikidata.org/prop/direct/P11182,UOM ID,85
+http://www.wikidata.org/prop/direct/P607,conflict,83
+http://www.wikidata.org/prop/direct/P1225,U.S. National Archives Identifier,82
+http://www.wikidata.org/prop/direct/P8849,CONOR.BG ID,82
+http://www.wikidata.org/prop/direct/P9058,Fichier des personnes décédées ID (matchID),82
+http://www.wikidata.org/prop/direct/P1816,National Portrait Gallery (London) person ID,79
+http://www.wikidata.org/prop/direct/P3029,UK National Archives ID,79
+http://www.wikidata.org/prop/direct/P2639,Filmportal ID,77
+http://www.wikidata.org/prop/direct/P185,doctoral student,76
+http://www.wikidata.org/prop/direct/P5731,Angelicum ID,76
+http://www.wikidata.org/prop/direct/P1449,nickname,75
+http://www.wikidata.org/prop/direct/P2435,PORT person ID,75
+http://www.wikidata.org/prop/direct/P1233,Internet Speculative Fiction Database author ID,74
+http://www.wikidata.org/prop/direct/P4293,PM20 folder ID,74
+http://www.wikidata.org/prop/direct/P3154,Runeberg author ID,73
+http://www.wikidata.org/prop/direct/P3847,Open Library subject ID,73
+http://www.wikidata.org/prop/direct/P6262,Fandom article ID,73
+http://www.wikidata.org/prop/direct/P10227,National Library of Ireland ID,73
+http://www.wikidata.org/prop/direct/P1472,Commons Creator page,72
+http://www.wikidata.org/prop/direct/P7029,National Library of Russia ID,72
+http://www.wikidata.org/prop/direct/P4359,gravsted.dk ID,71
+http://www.wikidata.org/prop/direct/P6821,Uppsala University Alvin ID,71
+http://www.wikidata.org/prop/direct/P9037,BHCL UUID,71
+http://www.wikidata.org/prop/direct/P11870,The Literary Encyclopedia person ID,71
+http://www.wikidata.org/prop/direct/P2732,Persée author ID,70
+http://www.wikidata.org/prop/direct/P4431,Google Doodle,70
+http://www.wikidata.org/prop/direct/P6723,BlackPast.org ID,70
+http://www.wikidata.org/prop/direct/P8902,Archives at Yale agent ID,70
+http://www.wikidata.org/prop/direct/P1801,plaque image,68
+http://www.wikidata.org/prop/direct/P1819,genealogics.org person ID,68
+http://www.wikidata.org/prop/direct/P9802,Penguin Random House author ID,68
+http://www.wikidata.org/prop/direct/P2607,BookBrainz author ID,67
+http://www.wikidata.org/prop/direct/P5421,Trading Card Database person ID,67
+http://www.wikidata.org/prop/direct/P496,ORCID iD,66
+http://www.wikidata.org/prop/direct/P1871,CERL Thesaurus ID,66
+http://www.wikidata.org/prop/direct/P2889,FamilySearch person ID,66
+http://www.wikidata.org/prop/direct/P4104,Carnegie Hall agent ID,66
+http://www.wikidata.org/prop/direct/P5617,Evene ID,66
+http://www.wikidata.org/prop/direct/P1977,Les Archives du spectacle person ID,64
+http://www.wikidata.org/prop/direct/P3388,LittleSis people ID,64
+http://www.wikidata.org/prop/direct/P10242,Lur Encyclopedic Dictionary ID,64
+http://www.wikidata.org/prop/direct/P1814,name in kana,63
+http://www.wikidata.org/prop/direct/P4638,The Peerage person ID,62
+http://www.wikidata.org/prop/direct/P2562,married name,61
+http://www.wikidata.org/prop/direct/P5882,Muziekweb performer ID,61
+http://www.wikidata.org/prop/direct/P5905,Comic Vine ID,61
+http://www.wikidata.org/prop/direct/P1309,EGAXA ID,60
+http://www.wikidata.org/prop/direct/P1902,Spotify artist ID,60
+http://www.wikidata.org/prop/direct/P8125,Fandango person ID,60
+http://www.wikidata.org/prop/direct/P8851,CONOR.SR ID,60
+http://www.wikidata.org/prop/direct/P641,sport,59
+http://www.wikidata.org/prop/direct/P1017,Vatican Library ID (former scheme),59
+http://www.wikidata.org/prop/direct/P6868,Hoopla artist ID,59
+http://www.wikidata.org/prop/direct/P8349,Proleksis enciklopedija ID,59
+http://www.wikidata.org/prop/direct/P12597,museum-digital person ID,59
+http://www.wikidata.org/prop/direct/P1899,LibriVox author ID,58
+http://www.wikidata.org/prop/direct/P5909,HKCAN ID,58
+http://www.wikidata.org/prop/direct/P6683,Alexander Turnbull Library ID,58
+http://www.wikidata.org/prop/direct/P7666,Visuotinė lietuvių enciklopedija ID,58
+http://www.wikidata.org/prop/direct/P8094,GeneaStar person ID,58
+http://www.wikidata.org/prop/direct/P3365,Treccani ID,57
+http://www.wikidata.org/prop/direct/P245,Union List of Artist Names ID,56
+http://www.wikidata.org/prop/direct/P4186,Australian Women's Register ID,56
+http://www.wikidata.org/prop/direct/P9995,MYmovies person ID,56
+http://www.wikidata.org/prop/direct/P10565,Encyclopedia of China (Third Edition) ID,56
+http://www.wikidata.org/prop/direct/P1248,KulturNav-ID,55
+http://www.wikidata.org/prop/direct/P5419,NYRB contributor ID,55
+http://www.wikidata.org/prop/direct/P7847,DigitaltMuseum ID,55
+http://www.wikidata.org/prop/direct/P443,pronunciation audio,54
+http://www.wikidata.org/prop/direct/P2168,Swedish Film Database person ID,54
+http://www.wikidata.org/prop/direct/P4514,Africultures person ID,54
+http://www.wikidata.org/prop/direct/P6424,affiliation string,54
+http://www.wikidata.org/prop/direct/P4862,Amazon author ID,53
+http://www.wikidata.org/prop/direct/P6872,has written for,53
+http://www.wikidata.org/prop/direct/P650,RKDartists ID,52
+http://www.wikidata.org/prop/direct/P1907,Australian Dictionary of Biography ID,52
+http://www.wikidata.org/prop/direct/P8544,Frauen in Bewegung 1848–1938 ID,52
+http://www.wikidata.org/prop/direct/P8980,KANTO ID,52
+http://www.wikidata.org/prop/direct/P9159,People Australia ID,51
+http://www.wikidata.org/prop/direct/P9247,Pontifical University of Salamanca ID,51
+http://www.wikidata.org/prop/direct/P12483,PMB – Personen der Moderne Basis person ID,51
+http://www.wikidata.org/prop/direct/P2032,work period (end),50
+http://www.wikidata.org/prop/direct/P2611,TED speaker ID,50
+http://www.wikidata.org/prop/direct/P5341,Poetry Foundation ID,50
+http://www.wikidata.org/prop/direct/P8795,Diamond Catalogue ID for persons and organisations,50
+http://www.wikidata.org/prop/direct/P9430,Encyclopedia of Jewish Women ID,50
+http://www.wikidata.org/prop/direct/P11683,Ivi person ID,50
+http://www.wikidata.org/prop/direct/P1884,hair color,49
+http://www.wikidata.org/prop/direct/P2650,interested in,49
+http://www.wikidata.org/prop/direct/P7085,TikTok username,49
+http://www.wikidata.org/prop/direct/P12386,Dansk Forfatterleksikon ID,49
+http://www.wikidata.org/prop/direct/P1399,convicted of,48
+http://www.wikidata.org/prop/direct/P2188,BiblioNet author ID,48
+http://www.wikidata.org/prop/direct/P2850,Apple Music artist ID (U.S. version),48
+http://www.wikidata.org/prop/direct/P3478,Songkick artist ID,48
+http://www.wikidata.org/prop/direct/P6594,Guggenheim fellows ID,48
+http://www.wikidata.org/prop/direct/P8341,Dansk Biografisk Leksikon ID,48
+http://www.wikidata.org/prop/direct/P902,HDS ID,47
+http://www.wikidata.org/prop/direct/P1327,partner in business or sport,47
+http://www.wikidata.org/prop/direct/P9244,Women Australia ID,47
+http://www.wikidata.org/prop/direct/P361,part of,46
+http://www.wikidata.org/prop/direct/P1890,CCAB ID,46
+http://www.wikidata.org/prop/direct/P5297,Companies House officer ID,46
+http://www.wikidata.org/prop/direct/P6706,De Agostini ID,46
+http://www.wikidata.org/prop/direct/P9171,RILM ID,46
+http://www.wikidata.org/prop/direct/P9371,FranceArchives agent ID,46
+http://www.wikidata.org/prop/direct/P10085,biografiA ID,46
+http://www.wikidata.org/prop/direct/P1340,eye color,45
+http://www.wikidata.org/prop/direct/P2868,subject has role,45
+http://www.wikidata.org/prop/direct/P264,record label,44
+http://www.wikidata.org/prop/direct/P241,military branch,44
+http://www.wikidata.org/prop/direct/P802,student,44
+http://www.wikidata.org/prop/direct/P4963,Svenskt kvinnobiografiskt lexikon ID,44
+http://www.wikidata.org/prop/direct/P5063,Interlingual Index ID,44
+http://www.wikidata.org/prop/direct/P2387,Elonet person ID,43
+http://www.wikidata.org/prop/direct/P2924,Great Russian Encyclopedia Online ID (old version),43
 http://www.wikidata.org/prop/direct/P7646,IISG ID,43
-http://www.wikidata.org/prop/direct/P12483,PMB – Personen der Moderne Basis person ID,43
-http://www.wikidata.org/prop/direct/P1185,Rodovid ID,42
-http://www.wikidata.org/prop/direct/P1296,Gran Enciclopèdia Catalana ID (former scheme),42
-http://www.wikidata.org/prop/direct/P1801,plaque image,42
-http://www.wikidata.org/prop/direct/P1819,genealogics.org person ID,42
-http://www.wikidata.org/prop/direct/P2562,married name,42
-http://www.wikidata.org/prop/direct/P7305,Online PWN Encyclopedia ID,42
-http://www.wikidata.org/prop/direct/P10085,biografiA ID,42
-http://www.wikidata.org/prop/direct/P12385,Gran Enciclopèdia Catalana ID,42
-http://www.wikidata.org/prop/direct/P935,Commons gallery,41
-http://www.wikidata.org/prop/direct/P1907,Australian Dictionary of Biography ID,41
-http://www.wikidata.org/prop/direct/P4186,Australian Women's Register ID,40
-http://www.wikidata.org/prop/direct/P6634,LinkedIn personal profile ID,40
-http://www.wikidata.org/prop/direct/P7982,Hrvatska enciklopedija ID,40
-http://www.wikidata.org/prop/direct/P9159,People Australia ID,40
-http://www.wikidata.org/prop/direct/P866,Perlentaucher ID,39
-http://www.wikidata.org/prop/direct/P4963,Svenskt kvinnobiografiskt lexikon ID,39
-http://www.wikidata.org/prop/direct/P1327,partner in business or sport,38
-http://www.wikidata.org/prop/direct/P4431,Google Doodle,38
-http://www.wikidata.org/prop/direct/P9244,Women Australia ID,38
-http://www.wikidata.org/prop/direct/P9430,Encyclopedia of Jewish Women ID,38
-http://www.wikidata.org/prop/direct/P11870,The Literary Encyclopedia person ID,38
+http://www.wikidata.org/prop/direct/P10,video,42
+http://www.wikidata.org/prop/direct/P1430,Open Plaques subject ID,42
+http://www.wikidata.org/prop/direct/P2048,height,42
+http://www.wikidata.org/prop/direct/P8750,Unione Romana Biblioteche Scientifiche ID,42
+http://www.wikidata.org/prop/direct/P53,family,41
+http://www.wikidata.org/prop/direct/P1728,AllMusic artist ID,41
+http://www.wikidata.org/prop/direct/P7502,Golden ID,41
+http://www.wikidata.org/prop/direct/P1258,Rotten Tomatoes ID,40
+http://www.wikidata.org/prop/direct/P7212,LyricsTranslate ID,40
+http://www.wikidata.org/prop/direct/P1153,Scopus author ID,39
+http://www.wikidata.org/prop/direct/P1670,Canadiana Authorities ID (former scheme),39
+http://www.wikidata.org/prop/direct/P4432,AKL Online artist ID,39
+http://www.wikidata.org/prop/direct/P6005,Muck Rack journalist ID,39
+http://www.wikidata.org/prop/direct/P6178,Dimensions author ID,39
+http://www.wikidata.org/prop/direct/P8814,WordNet 3.1 Synset ID,39
+http://www.wikidata.org/prop/direct/P54,member of sports team,38
+http://www.wikidata.org/prop/direct/P2626,Danish National Filmography person ID,38
+http://www.wikidata.org/prop/direct/P3258,LiveJournal ID,38
+http://www.wikidata.org/prop/direct/P4574,Norwegian historical register of persons ID,38
+http://www.wikidata.org/prop/direct/P9097,American Academy in Rome ID,38
+http://www.wikidata.org/prop/direct/P1960,Google Scholar author ID,37
+http://www.wikidata.org/prop/direct/P2966,National Library of Wales Authority ID,37
+http://www.wikidata.org/prop/direct/P4789,Who's Who UK ID,37
+http://www.wikidata.org/prop/direct/P4839,Wolfram Language entity code,37
+http://www.wikidata.org/prop/direct/P5695,Bibliopoche author ID,37
+http://www.wikidata.org/prop/direct/P7865,CoBiS author ID,37
 http://www.wikidata.org/prop/direct/P7941,Biografisch Woordenboek van Nederland: 1880-2000 ID,37
-http://www.wikidata.org/prop/direct/P650,RKDartists ID,36
-http://www.wikidata.org/prop/direct/P1233,Internet Speculative Fiction Database author ID,36
-http://www.wikidata.org/prop/direct/P2604,Kinopoisk person ID,36
-http://www.wikidata.org/prop/direct/P4574,Norwegian historical register of persons ID,36
-http://www.wikidata.org/prop/direct/P8902,Archives at Yale agent ID,36
-http://www.wikidata.org/prop/direct/P1303,instrument,35
-http://www.wikidata.org/prop/direct/P5731,Angelicum ID,35
-http://www.wikidata.org/prop/direct/P6394,ELNET ID,35
-http://www.wikidata.org/prop/direct/P9037,BHCL UUID,35
-http://www.wikidata.org/prop/direct/P8849,CONOR.BG ID,35
-http://www.wikidata.org/prop/direct/P4638,The Peerage person ID,34
-http://www.wikidata.org/prop/direct/P9743,Podchaser creator ID,34
-http://www.wikidata.org/prop/direct/P3847,Open Library subject ID,33
-http://www.wikidata.org/prop/direct/P6683,Alexander Turnbull Library ID,33
-http://www.wikidata.org/prop/direct/P6745,Orlando author ID,33
-http://www.wikidata.org/prop/direct/P1017,Vatican Library ID (former scheme),32
-http://www.wikidata.org/prop/direct/P2889,FamilySearch person ID,32
-http://www.wikidata.org/prop/direct/P6553,personal pronoun,32
-http://www.wikidata.org/prop/direct/P10660,C-SPAN person numeric ID,32
-http://www.wikidata.org/prop/direct/P184,doctoral advisor,31
-http://www.wikidata.org/prop/direct/P2190,C-SPAN person ID,31
-http://www.wikidata.org/prop/direct/P4293,PM20 folder ID,31
-http://www.wikidata.org/prop/direct/P4819,Swedish Portrait Archive ID,31
-http://www.wikidata.org/prop/direct/P8094,GeneaStar person ID,31
-http://www.wikidata.org/prop/direct/P2607,BookBrainz author ID,30
-http://www.wikidata.org/prop/direct/P6872,has written for,30
-http://www.wikidata.org/prop/direct/P7029,National Library of Russia ID,30
-http://www.wikidata.org/prop/direct/P8851,CONOR.SR ID,30
-http://www.wikidata.org/prop/direct/P245,Union List of Artist Names ID,29
-http://www.wikidata.org/prop/direct/P1266,AlloCiné person ID,29
-http://www.wikidata.org/prop/direct/P5617,Evene ID,29
-http://www.wikidata.org/prop/direct/P6194,Austrian Biographical Encyclopedia ID,29
-http://www.wikidata.org/prop/direct/P8795,Diamond Catalogue ID for persons and organisations,29
-http://www.wikidata.org/prop/direct/P9802,Penguin Random House author ID,29
-http://www.wikidata.org/prop/direct/P1977,Les Archives du spectacle person ID,28
-http://www.wikidata.org/prop/direct/P2966,National Library of Wales Authority ID,28
-http://www.wikidata.org/prop/direct/P8750,Unione Romana Biblioteche Scientifiche ID,28
-http://www.wikidata.org/prop/direct/P8980,KANTO ID,28
-http://www.wikidata.org/prop/direct/P53,family,27
-http://www.wikidata.org/prop/direct/P3388,LittleSis people ID,27
-http://www.wikidata.org/prop/direct/P4104,Carnegie Hall agent ID,27
-http://www.wikidata.org/prop/direct/P4514,Africultures person ID,27
-http://www.wikidata.org/prop/direct/P4666,CineMagia person ID,27
-http://www.wikidata.org/prop/direct/P6868,Hoopla artist ID,27
-http://www.wikidata.org/prop/direct/P9247,Pontifical University of Salamanca ID,27
-http://www.wikidata.org/prop/direct/P1309,EGAXA ID,26
+http://www.wikidata.org/prop/direct/P11386,Listal ID,37
+http://www.wikidata.org/prop/direct/P6745,Orlando author ID,36
+http://www.wikidata.org/prop/direct/P3192,Last.fm ID,35
+http://www.wikidata.org/prop/direct/P4657,The Numbers person ID,35
+http://www.wikidata.org/prop/direct/P5033,Filmweb.pl person ID,35
+http://www.wikidata.org/prop/direct/P9541,MacArthur Fellows Program ID,35
+http://www.wikidata.org/prop/direct/P701,Dodis ID,34
+http://www.wikidata.org/prop/direct/P1581,official blog URL,34
+http://www.wikidata.org/prop/direct/P2038,ResearchGate profile ID,34
+http://www.wikidata.org/prop/direct/P4613,Encyclopedia of Modern Ukraine ID,34
+http://www.wikidata.org/prop/direct/P8974,SAPA ID,34
+http://www.wikidata.org/prop/direct/P9178,Biblioteca Franco Serantini ID,34
+http://www.wikidata.org/prop/direct/P12086,WikiKids ID,34
+http://www.wikidata.org/prop/direct/P2722,Deezer artist ID,33
+http://www.wikidata.org/prop/direct/P3782,Artnet artist ID,33
+http://www.wikidata.org/prop/direct/P3788,BNMM authority ID,33
+http://www.wikidata.org/prop/direct/P4819,Swedish Portrait Archive ID,33
+http://www.wikidata.org/prop/direct/P6385,Krugosvet article,33
+http://www.wikidata.org/prop/direct/P9251,Cyprus University of Technology ID,33
+http://www.wikidata.org/prop/direct/P9600,oral history at,33
+http://www.wikidata.org/prop/direct/P10527,documentation files at,33
+http://www.wikidata.org/prop/direct/P11194,Famous Birthdays ID,33
+http://www.wikidata.org/prop/direct/P2638,TV.com ID,32
+http://www.wikidata.org/prop/direct/P6327,Goodreads character ID,32
+http://www.wikidata.org/prop/direct/P9352,Portrait Archive ID,32
+http://www.wikidata.org/prop/direct/P10266,AdoroCinema person ID,32
+http://www.wikidata.org/prop/direct/P1749,Parlement.com ID,31
+http://www.wikidata.org/prop/direct/P4223,Treccani's Enciclopedia Italiana ID,31
+http://www.wikidata.org/prop/direct/P5343,Poets.org poet ID,31
+http://www.wikidata.org/prop/direct/P11646,Deutsche Synchronkartei person ID,31
+http://www.wikidata.org/prop/direct/P3185,VK ID,30
+http://www.wikidata.org/prop/direct/P6194,Austrian Biographical Encyclopedia ID,30
+http://www.wikidata.org/prop/direct/P6275,copyright representative,30
+http://www.wikidata.org/prop/direct/P11239,DFK Paris person ID,30
+http://www.wikidata.org/prop/direct/P2373,Genius artist ID,29
+http://www.wikidata.org/prop/direct/P2750,Photographers’ Identities Catalog ID,29
+http://www.wikidata.org/prop/direct/P8462,Political Graveyard politician ID,29
+http://www.wikidata.org/prop/direct/P8971,Cinémathèque québécoise person ID,29
+http://www.wikidata.org/prop/direct/P1598,consecrator,28
+http://www.wikidata.org/prop/direct/P2381,Academic Tree ID,28
+http://www.wikidata.org/prop/direct/P2519,Scope.dk person ID,28
+http://www.wikidata.org/prop/direct/P3789,Telegram username,28
+http://www.wikidata.org/prop/direct/P7818,French Vikidia ID,28
+http://www.wikidata.org/prop/direct/P8496,Archive Site Trinity College Cambridge ID,28
+http://www.wikidata.org/prop/direct/P8568,Jewish Virtual Library ID,28
+http://www.wikidata.org/prop/direct/P8951,Order of Canada recipient ID,28
+http://www.wikidata.org/prop/direct/P1556,zbMATH author ID,27
+http://www.wikidata.org/prop/direct/P3973,PIM authority ID,27
+http://www.wikidata.org/prop/direct/P2561,name,26
+http://www.wikidata.org/prop/direct/P3040,SoundCloud ID,26
 http://www.wikidata.org/prop/direct/P3217,Dictionary of Swedish National Biography ID,26
-http://www.wikidata.org/prop/direct/P4432,AKL Online artist ID,26
-http://www.wikidata.org/prop/direct/P9352,Portrait Archive ID,26
-http://www.wikidata.org/prop/direct/P12386,Dansk Forfatterleksikon ID,26
-http://www.wikidata.org/prop/direct/P496,ORCID iD,25
-http://www.wikidata.org/prop/direct/P1670,Canadiana Authorities ID (former scheme),25
-http://www.wikidata.org/prop/direct/P7666,Visuotinė lietuvių enciklopedija ID,25
-http://www.wikidata.org/prop/direct/P8349,Proleksis enciklopedija ID,25
-http://www.wikidata.org/prop/direct/P9371,FranceArchives agent ID,25
-http://www.wikidata.org/prop/direct/P11182,UOM ID,25
-http://www.wikidata.org/prop/direct/P1430,Open Plaques subject ID,24
-http://www.wikidata.org/prop/direct/P2019,AllMovie person ID,24
-http://www.wikidata.org/prop/direct/P10565,Encyclopedia of China (Third Edition) ID,24
-http://www.wikidata.org/prop/direct/P185,doctoral student,23
-http://www.wikidata.org/prop/direct/P2032,work period (end),23
-http://www.wikidata.org/prop/direct/P2868,subject has role,23
-http://www.wikidata.org/prop/direct/P5421,Trading Card Database person ID,23
-http://www.wikidata.org/prop/direct/P10242,Lur Encyclopedic Dictionary ID,23
-http://www.wikidata.org/prop/direct/P1225,U.S. National Archives Identifier,22
-http://www.wikidata.org/prop/direct/P1749,Parlement.com ID,22
-http://www.wikidata.org/prop/direct/P1890,CCAB ID,22
-http://www.wikidata.org/prop/direct/P2397,YouTube channel ID,22
-http://www.wikidata.org/prop/direct/P4862,Amazon author ID,22
-http://www.wikidata.org/prop/direct/P6594,Guggenheim fellows ID,22
-http://www.wikidata.org/prop/direct/P9178,Biblioteca Franco Serantini ID,22
-http://www.wikidata.org/prop/direct/P9097,American Academy in Rome ID,22
-http://www.wikidata.org/prop/direct/P607,conflict,21
-http://www.wikidata.org/prop/direct/P3365,Treccani ID,21
-http://www.wikidata.org/prop/direct/P3782,Artnet artist ID,21
-http://www.wikidata.org/prop/direct/P5341,Poetry Foundation ID,21
-http://www.wikidata.org/prop/direct/P97,noble title,20
-http://www.wikidata.org/prop/direct/P641,sport,20
-http://www.wikidata.org/prop/direct/P2639,Filmportal ID,20
-http://www.wikidata.org/prop/direct/P2924,Great Russian Encyclopedia Online ID (old version),20
-http://www.wikidata.org/prop/direct/P8496,Archive Site Trinity College Cambridge ID,20
-http://www.wikidata.org/prop/direct/P10832,WorldCat Entities ID,20
-http://www.wikidata.org/prop/direct/P1050,medical condition,19
-http://www.wikidata.org/prop/direct/P1814,name in kana,19
-http://www.wikidata.org/prop/direct/P6706,De Agostini ID,19
-http://www.wikidata.org/prop/direct/P8081,WBIS ID,19
-http://www.wikidata.org/prop/direct/P9171,RILM ID,19
-http://www.wikidata.org/prop/direct/P8899,Swedish National Library Arken ID,19
-http://www.wikidata.org/prop/direct/P443,pronunciation audio,18
-http://www.wikidata.org/prop/direct/P1564,At the Circulating Library ID,18
-http://www.wikidata.org/prop/direct/P5063,Interlingual Index ID,18
-http://www.wikidata.org/prop/direct/P5357,Encyclopedia of Science Fiction ID,18
-http://www.wikidata.org/prop/direct/P5905,Comic Vine ID,18
-http://www.wikidata.org/prop/direct/P6520,Lokalhistoriewiki.no article ID,18
-http://www.wikidata.org/prop/direct/P7842,Vienna History Wiki ID,18
-http://www.wikidata.org/prop/direct/P1449,nickname,17
-http://www.wikidata.org/prop/direct/P3051,Kindred Britain ID,17
-http://www.wikidata.org/prop/direct/P5419,NYRB contributor ID,17
-http://www.wikidata.org/prop/direct/P6262,Fandom article ID,17
-http://www.wikidata.org/prop/direct/P7865,CoBiS author ID,17
-http://www.wikidata.org/prop/direct/P11239,DFK Paris person ID,17
-http://www.wikidata.org/prop/direct/P361,part of,16
-http://www.wikidata.org/prop/direct/P701,Dodis ID,16
-http://www.wikidata.org/prop/direct/P2381,Academic Tree ID,16
-http://www.wikidata.org/prop/direct/P2435,PORT person ID,16
-http://www.wikidata.org/prop/direct/P2650,interested in,16
-http://www.wikidata.org/prop/direct/P3233,PhilPeople profile,16
-http://www.wikidata.org/prop/direct/P5306,LONSEA ID,16
-http://www.wikidata.org/prop/direct/P5705,Los Angeles Review of Books author ID,16
-http://www.wikidata.org/prop/direct/P8172,Sejm-Wielki.pl profile ID,16
+http://www.wikidata.org/prop/direct/P4332,Deutsche Synchronkartei actor ID,26
+http://www.wikidata.org/prop/direct/P5404,Rate Your Music artist ID,26
+http://www.wikidata.org/prop/direct/P5705,Los Angeles Review of Books author ID,26
+http://www.wikidata.org/prop/direct/P5534,Open Media Database person ID,26
+http://www.wikidata.org/prop/direct/P7024,Flemish Public Libraries ID,26
+http://www.wikidata.org/prop/direct/P7700,Slovak National Library (VIAF) ID,26
+http://www.wikidata.org/prop/direct/P8234,LiederNet author ID,26
+http://www.wikidata.org/prop/direct/P9463,MovieMeter person ID,26
+http://www.wikidata.org/prop/direct/P9629,Armeniapedia ID,26
+http://www.wikidata.org/prop/direct/P97,noble title,25
+http://www.wikidata.org/prop/direct/P990,audio recording of the subject's spoken voice,25
+http://www.wikidata.org/prop/direct/P1220,Internet Broadway Database person ID,25
+http://www.wikidata.org/prop/direct/P1331,PACE member ID,25
+http://www.wikidata.org/prop/direct/P4033,Mastodon address,25
+http://www.wikidata.org/prop/direct/P5337,Google News topics ID,25
+http://www.wikidata.org/prop/direct/P5357,Encyclopedia of Science Fiction ID,25
+http://www.wikidata.org/prop/direct/P5502,LRB contributor ID,25
+http://www.wikidata.org/prop/direct/P6404,Treccani's Dizionario di Storia ID,25
+http://www.wikidata.org/prop/direct/P7026,Lebanese National Library ID,25
+http://www.wikidata.org/prop/direct/P7545,askArt person ID,25
+http://www.wikidata.org/prop/direct/P7842,Vienna History Wiki ID,25
+http://www.wikidata.org/prop/direct/P10033,Biografija.ru ID,25
+http://www.wikidata.org/prop/direct/P10757,Personality Database profile ID,25
+http://www.wikidata.org/prop/direct/P511,honorific prefix,24
+http://www.wikidata.org/prop/direct/P410,military rank,24
+http://www.wikidata.org/prop/direct/P5284,Douban movie celebrity ID,24
+http://www.wikidata.org/prop/direct/P7105,LezWatch.TV actor ID,24
+http://www.wikidata.org/prop/direct/P7775,RationalWiki ID,24
+http://www.wikidata.org/prop/direct/P8024,Nobel Laureate API ID,24
+http://www.wikidata.org/prop/direct/P8172,Sejm-Wielki.pl profile ID,24
+http://www.wikidata.org/prop/direct/P9807,SNK ID,24
+http://www.wikidata.org/prop/direct/P3901,ADAGP artist ID,23
+http://www.wikidata.org/prop/direct/P4124,Who's Who in France biography ID,23
+http://www.wikidata.org/prop/direct/P6058,Larousse ID,23
+http://www.wikidata.org/prop/direct/P7929,Roglo person ID,23
+http://www.wikidata.org/prop/direct/P8081,WBIS ID,23
+http://www.wikidata.org/prop/direct/P8385,IDU person ID,23
+http://www.wikidata.org/prop/direct/P8899,Swedish National Library Arken ID,23
+http://www.wikidata.org/prop/direct/P611,religious order,22
+http://www.wikidata.org/prop/direct/P1150,Regensburg Classification,22
+http://www.wikidata.org/prop/direct/P1576,lifestyle,22
+http://www.wikidata.org/prop/direct/P1711,British Museum person or institution ID,22
+http://www.wikidata.org/prop/direct/P2001,revised romanization,22
+http://www.wikidata.org/prop/direct/P3051,Kindred Britain ID,22
+http://www.wikidata.org/prop/direct/P6200,BBC News topic ID,22
+http://www.wikidata.org/prop/direct/P7445,Basis Wien person ID,22
+http://www.wikidata.org/prop/direct/P9322,SVKKL authority ID,22
+http://www.wikidata.org/prop/direct/P1942,McCune-Reischauer romanization,21
+http://www.wikidata.org/prop/direct/P2042,Artsy artist ID,21
+http://www.wikidata.org/prop/direct/P2581,BabelNet ID,21
+http://www.wikidata.org/prop/direct/P5306,LONSEA ID,21
+http://www.wikidata.org/prop/direct/P6520,Lokalhistoriewiki.no article ID,21
+http://www.wikidata.org/prop/direct/P9885,Bing entity ID,21
+http://www.wikidata.org/prop/direct/P9965,Musik-Sammler.de artist ID,21
+http://www.wikidata.org/prop/direct/P1026,academic thesis,20
+http://www.wikidata.org/prop/direct/P1317,floruit,20
+http://www.wikidata.org/prop/direct/P1564,At the Circulating Library ID,20
+http://www.wikidata.org/prop/direct/P5395,Canadian Encyclopedia article ID,20
+http://www.wikidata.org/prop/direct/P5715,Academia.edu profile URL,20
+http://www.wikidata.org/prop/direct/P6578,MutualArt artist ID,20
+http://www.wikidata.org/prop/direct/P1553,Yandex Music artist ID,19
+http://www.wikidata.org/prop/direct/P3233,PhilPeople profile,19
+http://www.wikidata.org/prop/direct/P3360,Nobel Prize People Nomination ID,19
+http://www.wikidata.org/prop/direct/P3980,Unifrance person ID,19
+http://www.wikidata.org/prop/direct/P4663,DACS ID (former),19
+http://www.wikidata.org/prop/direct/P5243,Canal-U person ID,19
+http://www.wikidata.org/prop/direct/P7084,related category,19
+http://www.wikidata.org/prop/direct/P7753,Projekt Gutenberg-DE author ID,19
+http://www.wikidata.org/prop/direct/P11615,InfluenceWatch influencer,19
+http://www.wikidata.org/prop/direct/P549,Mathematics Genealogy Project ID,18
+http://www.wikidata.org/prop/direct/P803,professorship,18
+http://www.wikidata.org/prop/direct/P2745,Dictionary of New Zealand Biography ID,18
+http://www.wikidata.org/prop/direct/P3221,New York Times topic ID,18
+http://www.wikidata.org/prop/direct/P3943,Tumblr username,18
+http://www.wikidata.org/prop/direct/P4012,Semantic Scholar author ID,18
+http://www.wikidata.org/prop/direct/P4272,DPLA subject term,18
+http://www.wikidata.org/prop/direct/P5056,patronym or matronym for this person,18
+http://www.wikidata.org/prop/direct/P5080,Norsk biografisk leksikon ID,18
+http://www.wikidata.org/prop/direct/P5355,abgeordnetenwatch.de politician ID,18
+http://www.wikidata.org/prop/direct/P5378,Akadem person ID (former scheme),18
+http://www.wikidata.org/prop/direct/P5489,artist-info artist ID,18
+http://www.wikidata.org/prop/direct/P7214,Allcinema person ID,18
+http://www.wikidata.org/prop/direct/P8445,Our Campaigns candidate ID,18
+http://www.wikidata.org/prop/direct/P10706,DACS ID (2022),18
+http://www.wikidata.org/prop/direct/P12214,Akadem person ID,18
+http://www.wikidata.org/prop/direct/P1299,depicted by,17
+http://www.wikidata.org/prop/direct/P2572,hashtag,17
+http://www.wikidata.org/prop/direct/P3106,Guardian topic ID,17
+http://www.wikidata.org/prop/direct/P3794,Dictionary of Sydney ID,17
+http://www.wikidata.org/prop/direct/P3997,Bait La Zemer Ha-Ivri artist ID,17
+http://www.wikidata.org/prop/direct/P4159,WeRelate person ID,17
+http://www.wikidata.org/prop/direct/P5504,RISM ID,17
+http://www.wikidata.org/prop/direct/P8879,Kinorium person ID,17
+http://www.wikidata.org/prop/direct/P11180,Central Library of Volos authority ID,17
+http://www.wikidata.org/prop/direct/P12614,az.lib.ru author ID,17
+http://www.wikidata.org/prop/direct/P112,founded by,16
+http://www.wikidata.org/prop/direct/P1615,CLARA-ID,16
+http://www.wikidata.org/prop/direct/P1712,Metacritic ID,16
+http://www.wikidata.org/prop/direct/P2799,BVMC person ID,16
+http://www.wikidata.org/prop/direct/P2843,Benezit ID,16
+http://www.wikidata.org/prop/direct/P3569,Cultureel Woordenboek ID,16
+http://www.wikidata.org/prop/direct/P4208,Billboard artist ID,16
+http://www.wikidata.org/prop/direct/P4369,Cairn author ID,16
+http://www.wikidata.org/prop/direct/P5007,Behind The Voice Actors person ID,16
+http://www.wikidata.org/prop/direct/P5101,Swedish Literature Bank Author ID,16
+http://www.wikidata.org/prop/direct/P7444,Rijksmuseum Research Library authority ID,16
 http://www.wikidata.org/prop/direct/P8547,BHF author ID,16
-http://www.wikidata.org/prop/direct/P9251,Cyprus University of Technology ID,16
-http://www.wikidata.org/prop/direct/P12086,WikiKids ID,16
-http://www.wikidata.org/prop/direct/P802,student,15
-http://www.wikidata.org/prop/direct/P1711,British Museum person or institution ID,15
-http://www.wikidata.org/prop/direct/P2038,ResearchGate profile ID,15
-http://www.wikidata.org/prop/direct/P2745,Dictionary of New Zealand Biography ID,15
-http://www.wikidata.org/prop/direct/P4789,Who's Who UK ID,15
-http://www.wikidata.org/prop/direct/P5101,Swedish Literature Bank Author ID,15
-http://www.wikidata.org/prop/direct/P5695,Bibliopoche author ID,15
-http://www.wikidata.org/prop/direct/P5882,Muziekweb performer ID,15
-http://www.wikidata.org/prop/direct/P7024,Flemish Public Libraries ID,15
-http://www.wikidata.org/prop/direct/P7445,Basis Wien person ID,15
-http://www.wikidata.org/prop/direct/P7502,Golden ID,15
-http://www.wikidata.org/prop/direct/P8125,Fandango person ID,15
-http://www.wikidata.org/prop/direct/P7753,Projekt Gutenberg-DE author ID,15
-http://www.wikidata.org/prop/direct/P8234,LiederNet author ID,15
-http://www.wikidata.org/prop/direct/P8814,WordNet 3.1 Synset ID,15
-http://www.wikidata.org/prop/direct/P10,video,14
-http://www.wikidata.org/prop/direct/P1615,CLARA-ID,14
+http://www.wikidata.org/prop/direct/P8796,Film w prasie polskiej press collection ID,16
+http://www.wikidata.org/prop/direct/P9081,SEARCH on line catalogue ID,16
+http://www.wikidata.org/prop/direct/P945,allegiance,15
+http://www.wikidata.org/prop/direct/P1448,official name,15
+http://www.wikidata.org/prop/direct/P4399,Itaú Cultural ID,15
+http://www.wikidata.org/prop/direct/P4602,date of burial or cremation,15
+http://www.wikidata.org/prop/direct/P4927,Invaluable.com person ID,15
+http://www.wikidata.org/prop/direct/P4955,MR Author ID,15
+http://www.wikidata.org/prop/direct/P6517,WhoSampled artist ID,15
+http://www.wikidata.org/prop/direct/P7037,COURAGE ID,15
+http://www.wikidata.org/prop/direct/P9493,artist files at,15
+http://www.wikidata.org/prop/direct/P11120,Rai Teche person ID,15
+http://www.wikidata.org/prop/direct/P12595,National Library of Uruguay authority ID,15
+http://www.wikidata.org/prop/direct/P138,named after,14
+http://www.wikidata.org/prop/direct/P812,academic major,14
+http://www.wikidata.org/prop/direct/P863,InPhO ID,14
+http://www.wikidata.org/prop/direct/P1268,represents,14
+http://www.wikidata.org/prop/direct/P1424,topic's main template,14
+http://www.wikidata.org/prop/direct/P1438,Jewish Encyclopedia ID (Russian),14
+http://www.wikidata.org/prop/direct/P2174,Museum of Modern Art artist ID,14
+http://www.wikidata.org/prop/direct/P2267,PolitiFact people and groups ID,14
+http://www.wikidata.org/prop/direct/P2456,DBLP author ID,14
 http://www.wikidata.org/prop/direct/P2699,URL,14
-http://www.wikidata.org/prop/direct/P2850,Apple Music artist ID (U.S. version),14
-http://www.wikidata.org/prop/direct/P5343,Poets.org poet ID,14
-http://www.wikidata.org/prop/direct/P9995,MYmovies person ID,14
+http://www.wikidata.org/prop/direct/P2909,SecondHandSongs artist ID,14
+http://www.wikidata.org/prop/direct/P3265,Myspace ID,14
+http://www.wikidata.org/prop/direct/P3553,Zhihu topic ID,14
+http://www.wikidata.org/prop/direct/P4174,Wikimedia username,14
+http://www.wikidata.org/prop/direct/P6465,Democracy Club candidate ID,14
+http://www.wikidata.org/prop/direct/P6677,OpenEdition Books author ID,14
 http://www.wikidata.org/prop/direct/P9786,Joods Biografisch Woordenboek ID,14
-http://www.wikidata.org/prop/direct/P1150,Regensburg Classification,13
-http://www.wikidata.org/prop/direct/P1317,floruit,13
-http://www.wikidata.org/prop/direct/P1902,Spotify artist ID,13
+http://www.wikidata.org/prop/direct/P9723,20th Century Chinese Biographical Database ID,14
+http://www.wikidata.org/prop/direct/P10298,Sceneweb artist ID,14
+http://www.wikidata.org/prop/direct/P11514,Great Russian Encyclopedia portal ID,14
+http://www.wikidata.org/prop/direct/P413,position played on team / speciality,13
+http://www.wikidata.org/prop/direct/P640,Léonore ID,13
+http://www.wikidata.org/prop/direct/P839,IMSLP ID,13
+http://www.wikidata.org/prop/direct/P968,email address,13
+http://www.wikidata.org/prop/direct/P1875,represented by,13
+http://www.wikidata.org/prop/direct/P1988,Le Delarge artist ID,13
 http://www.wikidata.org/prop/direct/P2372,ODIS ID,13
-http://www.wikidata.org/prop/direct/P2611,TED speaker ID,13
-http://www.wikidata.org/prop/direct/P4124,Who's Who in France biography ID,13
-http://www.wikidata.org/prop/direct/P4223,Treccani's Enciclopedia Italiana ID,13
-http://www.wikidata.org/prop/direct/P4839,Wolfram Language entity code,13
-http://www.wikidata.org/prop/direct/P5080,Norsk biografisk leksikon ID,13
-http://www.wikidata.org/prop/direct/P5378,Akadem person ID (former scheme),13
-http://www.wikidata.org/prop/direct/P5395,Canadian Encyclopedia article ID,13
+http://www.wikidata.org/prop/direct/P4081,BHL creator ID,13
+http://www.wikidata.org/prop/direct/P4576,Tidal artist ID,13
+http://www.wikidata.org/prop/direct/P4903,New Georgia Encyclopedia ID,13
+http://www.wikidata.org/prop/direct/P5375,BIU Santé person ID,13
 http://www.wikidata.org/prop/direct/P6234,Biographie nationale de Belgique ID,13
-http://www.wikidata.org/prop/direct/P6327,Goodreads character ID,13
-http://www.wikidata.org/prop/direct/P7212,LyricsTranslate ID,13
-http://www.wikidata.org/prop/direct/P8568,Jewish Virtual Library ID,13
-http://www.wikidata.org/prop/direct/P12214,Akadem person ID,13
-http://www.wikidata.org/prop/direct/P511,honorific prefix,12
-http://www.wikidata.org/prop/direct/P1581,official blog URL,12
-http://www.wikidata.org/prop/direct/P2168,Swedish Film Database person ID,12
-http://www.wikidata.org/prop/direct/P2188,BiblioNet author ID,12
-http://www.wikidata.org/prop/direct/P3478,Songkick artist ID,12
-http://www.wikidata.org/prop/direct/P3360,Nobel Prize People Nomination ID,12
-http://www.wikidata.org/prop/direct/P3788,BNMM authority ID,12
-http://www.wikidata.org/prop/direct/P5489,artist-info artist ID,12
-http://www.wikidata.org/prop/direct/P6178,Dimensions author ID,12
-http://www.wikidata.org/prop/direct/P6275,copyright representative,12
+http://www.wikidata.org/prop/direct/P7449,NARCIS researcher ID,13
+http://www.wikidata.org/prop/direct/P7745,Movie Walker Press person ID,13
+http://www.wikidata.org/prop/direct/P8591,Grove Music Online ID,13
+http://www.wikidata.org/prop/direct/P9232,Obituaries Australia ID,13
+http://www.wikidata.org/prop/direct/P10141,Academy of Athens authority ID,13
+http://www.wikidata.org/prop/direct/P10307,CYT/CCS,13
+http://www.wikidata.org/prop/direct/P11152,Léonore Web ID,13
+http://www.wikidata.org/prop/direct/P12160,CECC Political Prisoner ID,13
+http://www.wikidata.org/prop/direct/P358,discography,12
+http://www.wikidata.org/prop/direct/P746,date of disappearance,12
+http://www.wikidata.org/prop/direct/P947,RSL ID (person),12
+http://www.wikidata.org/prop/direct/P1048,NCL ID,12
+http://www.wikidata.org/prop/direct/P1289,Kritisches Lexikon zur fremdsprachigen Gegenwartsliteratur ID,12
+http://www.wikidata.org/prop/direct/P1321,place of origin (Switzerland),12
+http://www.wikidata.org/prop/direct/P1986,Treccani's Biographical Dictionary of Italian People ID,12
+http://www.wikidata.org/prop/direct/P2191,Vegetti Catalog of Fantastic Literature NILF ID,12
+http://www.wikidata.org/prop/direct/P3305,KINENOTE person ID,12
+http://www.wikidata.org/prop/direct/P3544,Te Papa agent ID,12
+http://www.wikidata.org/prop/direct/P3747,SSRN author ID,12
+http://www.wikidata.org/prop/direct/P4175,Patreon ID,12
+http://www.wikidata.org/prop/direct/P5394,Poets & Writers author ID,12
+http://www.wikidata.org/prop/direct/P5491,BD Gest' author ID,12
+http://www.wikidata.org/prop/direct/P5645,Académie française award winner ID,12
+http://www.wikidata.org/prop/direct/P5570,NooSFere author ID,12
+http://www.wikidata.org/prop/direct/P5609,Split This Rock poet ID,12
+http://www.wikidata.org/prop/direct/P6119,Letterboxd actor ID,12
+http://www.wikidata.org/prop/direct/P6325,Critique d'art ID,12
 http://www.wikidata.org/prop/direct/P6342,Dictionnaire des Wallons ID,12
-http://www.wikidata.org/prop/direct/P6723,BlackPast.org ID,12
-http://www.wikidata.org/prop/direct/P6578,MutualArt artist ID,12
-http://www.wikidata.org/prop/direct/P7449,NARCIS researcher ID,12
-http://www.wikidata.org/prop/direct/P7700,Slovak National Library (VIAF) ID,12
-http://www.wikidata.org/prop/direct/P7929,Roglo person ID,12
-http://www.wikidata.org/prop/direct/P9232,Obituaries Australia ID,12
-http://www.wikidata.org/prop/direct/P9600,oral history at,12
-http://www.wikidata.org/prop/direct/P9807,SNK ID,12
-http://www.wikidata.org/prop/direct/P112,founded by,11
-http://www.wikidata.org/prop/direct/P640,Léonore ID,11
-http://www.wikidata.org/prop/direct/P1321,place of origin (Switzerland),11
-http://www.wikidata.org/prop/direct/P2561,name,11
-http://www.wikidata.org/prop/direct/P2799,BVMC person ID,11
-http://www.wikidata.org/prop/direct/P2843,Benezit ID,11
-http://www.wikidata.org/prop/direct/P4527,UK Parliament thesaurus ID,11
-http://www.wikidata.org/prop/direct/P4369,Cairn author ID,11
-http://www.wikidata.org/prop/direct/P4663,DACS ID (former),11
-http://www.wikidata.org/prop/direct/P5243,Canal-U person ID,11
-http://www.wikidata.org/prop/direct/P7026,Lebanese National Library ID,11
-http://www.wikidata.org/prop/direct/P7775,RationalWiki ID,11
-http://www.wikidata.org/prop/direct/P8385,IDU person ID,11
-http://www.wikidata.org/prop/direct/P8974,SAPA ID,11
+http://www.wikidata.org/prop/direct/P6441,Douban author ID,12
+http://www.wikidata.org/prop/direct/P7303,Grammy Awards artist ID,12
+http://www.wikidata.org/prop/direct/P7796,BeWeb person ID,12
+http://www.wikidata.org/prop/direct/P7920,TheTVDB person ID,12
+http://www.wikidata.org/prop/direct/P8013,Trakt.tv ID,12
+http://www.wikidata.org/prop/direct/P8286,Olympedia people ID,12
+http://www.wikidata.org/prop/direct/P8406,Grove Art Online ID,12
+http://www.wikidata.org/prop/direct/P9054,National Historic People ID,12
+http://www.wikidata.org/prop/direct/P9164,Svenska Institutet i Rom ID,12
+http://www.wikidata.org/prop/direct/P9328,Universal Music France artist ID,12
+http://www.wikidata.org/prop/direct/P9404,OFDb person ID,12
+http://www.wikidata.org/prop/direct/P9594,Bodleian Archives & Manuscripts person ID,12
+http://www.wikidata.org/prop/direct/P9770,Knesset member ID,12
+http://www.wikidata.org/prop/direct/P10234,Der Spiegel topic ID,12
+http://www.wikidata.org/prop/direct/P10480,symogih.org ID,12
+http://www.wikidata.org/prop/direct/P10328,ICPSR Personal Names Authority List ID,12
+http://www.wikidata.org/prop/direct/P11155,Municipal Library of Trikala ID,12
+http://www.wikidata.org/prop/direct/P157,killed by,11
+http://www.wikidata.org/prop/direct/P1053,ResearcherID,11
+http://www.wikidata.org/prop/direct/P1186,MEP directory ID,11
+http://www.wikidata.org/prop/direct/P1213,NLC authorities,11
+http://www.wikidata.org/prop/direct/P1532,country for sport,11
+http://www.wikidata.org/prop/direct/P1828,IPI name number,11
+http://www.wikidata.org/prop/direct/P2180,Kansallisbiografia ID,11
+http://www.wikidata.org/prop/direct/P2847,Google+ ID,11
+http://www.wikidata.org/prop/direct/P3114,ISzDb person ID,11
+http://www.wikidata.org/prop/direct/P3204,Ciné-Ressources person ID,11
+http://www.wikidata.org/prop/direct/P3716,social classification,11
+http://www.wikidata.org/prop/direct/P4200,Christie's creator ID,11
+http://www.wikidata.org/prop/direct/P4438,"BFI Films, TV and people ID",11
+http://www.wikidata.org/prop/direct/P4459,Spanish Biographical Dictionary ID,11
+http://www.wikidata.org/prop/direct/P4521,Radio Radicale person ID,11
+http://www.wikidata.org/prop/direct/P5068,Flanders Arts Institute person ID,11
+http://www.wikidata.org/prop/direct/P5503,Poetry Society of America poet ID,11
+http://www.wikidata.org/prop/direct/P6698,Japan Search name ID,11
+http://www.wikidata.org/prop/direct/P7109,Acharts.co artist ID,11
+http://www.wikidata.org/prop/direct/P7918,Médias 19 ID,11
+http://www.wikidata.org/prop/direct/P8730,National Park Service people ID,11
+http://www.wikidata.org/prop/direct/P8992,1914-1918-Online ID,11
+http://www.wikidata.org/prop/direct/P9139,first family name in Portuguese name,11
+http://www.wikidata.org/prop/direct/P9179,Biblioteca Iglesia Nacional Española en Roma ID,11
 http://www.wikidata.org/prop/direct/P9300,Terezín Memorial Database ID,11
-http://www.wikidata.org/prop/direct/P10706,DACS ID (2022),11
-http://www.wikidata.org/prop/direct/P11152,Léonore Web ID,11
-http://www.wikidata.org/prop/direct/P10527,documentation files at,11
-http://www.wikidata.org/prop/direct/P11180,Central Library of Volos authority ID,11
-http://www.wikidata.org/prop/direct/P839,IMSLP ID,10
-http://www.wikidata.org/prop/direct/P1153,Scopus author ID,10
-http://www.wikidata.org/prop/direct/P2180,Kansallisbiografia ID,10
-http://www.wikidata.org/prop/direct/P2638,TV.com ID,10
-http://www.wikidata.org/prop/direct/P2750,Photographers’ Identities Catalog ID,10
-http://www.wikidata.org/prop/direct/P3794,Dictionary of Sydney ID,10
-http://www.wikidata.org/prop/direct/P3973,PIM authority ID,10
-http://www.wikidata.org/prop/direct/P4459,Spanish Biographical Dictionary ID,10
-http://www.wikidata.org/prop/direct/P4657,The Numbers person ID,10
-http://www.wikidata.org/prop/direct/P5502,LRB contributor ID,10
-http://www.wikidata.org/prop/direct/P5715,Academia.edu profile URL,10
-http://www.wikidata.org/prop/direct/P5645,Académie française award winner ID,10
-http://www.wikidata.org/prop/direct/P5909,HKCAN ID,10
-http://www.wikidata.org/prop/direct/P6385,Krugosvet article,10
+http://www.wikidata.org/prop/direct/P9324,BiographySampo person ID,11
+http://www.wikidata.org/prop/direct/P9495,National Historical Museums of Sweden ID,11
+http://www.wikidata.org/prop/direct/P11156,MMB ID,11
+http://www.wikidata.org/prop/direct/P12153,FilmAffinity person ID,11
+http://www.wikidata.org/prop/direct/P1047,Catholic Hierarchy person ID,10
+http://www.wikidata.org/prop/direct/P2450,Encyclopædia Britannica contributor ID,10
+http://www.wikidata.org/prop/direct/P2469,Theatricalia person ID,10
+http://www.wikidata.org/prop/direct/P2558,autores.uy ID,10
+http://www.wikidata.org/prop/direct/P3124,Polish scientist ID (deprecated),10
+http://www.wikidata.org/prop/direct/P4782,Movieplayer person ID,10
+http://www.wikidata.org/prop/direct/P5365,Internet Book Database of Fiction writer ID,10
+http://www.wikidata.org/prop/direct/P6010,Encyclopedia of Alabama ID,10
+http://www.wikidata.org/prop/direct/P6300,Hymnary author ID,10
+http://www.wikidata.org/prop/direct/P6329,Share-VDE 1.0 author ID,10
+http://www.wikidata.org/prop/direct/P6351,Genius artist numeric ID,10
 http://www.wikidata.org/prop/direct/P6815,University of Amsterdam Album Academicum ID,10
-http://www.wikidata.org/prop/direct/P9324,BiographySampo person ID,10
-http://www.wikidata.org/prop/direct/P9322,SVKKL authority ID,10
-http://www.wikidata.org/prop/direct/P9164,Svenska Institutet i Rom ID,10
-http://www.wikidata.org/prop/direct/P9081,SEARCH on line catalogue ID,10
-http://www.wikidata.org/prop/direct/P9493,artist files at,10
-http://www.wikidata.org/prop/direct/P10480,symogih.org ID,10
+http://www.wikidata.org/prop/direct/P6839,TV Tropes ID,10
+http://www.wikidata.org/prop/direct/P7003,ACMI ID,10
+http://www.wikidata.org/prop/direct/P7052,Jaxsta profile ID,10
+http://www.wikidata.org/prop/direct/P7686,Encyclopedia of the Great Plains ID,10
+http://www.wikidata.org/prop/direct/P8317,Philadelphia Museum of Art entity ID,10
+http://www.wikidata.org/prop/direct/P8833,Union Catalog of Armenian Libraries authority ID,10
+http://www.wikidata.org/prop/direct/P8885,Namuwiki ID,10
+http://www.wikidata.org/prop/direct/P8947,Museo Galileo authority ID,10
+http://www.wikidata.org/prop/direct/P8998,Magyar életrajzi lexikon ID,10
+http://www.wikidata.org/prop/direct/P9070,Internet Encyclopedia of Ukraine ID,10
+http://www.wikidata.org/prop/direct/P9141,Portal da Literatura ID,10
+http://www.wikidata.org/prop/direct/P9160,Biographical Dictionary of the Czech Lands ID,10
+http://www.wikidata.org/prop/direct/P9245,Labour Australia ID,10
+http://www.wikidata.org/prop/direct/P9661,EBAF authority ID,10
+http://www.wikidata.org/prop/direct/P10006,AllSides ID,10
+http://www.wikidata.org/prop/direct/P10540,TASS Encyclopedia person ID,10
+http://www.wikidata.org/prop/direct/P11158,Dimitri and Aliki Perrotis Central Library ID,10
 http://www.wikidata.org/prop/direct/P11173,UWIND ID,10
-http://www.wikidata.org/prop/direct/P264,record label,9
-http://www.wikidata.org/prop/direct/P863,InPhO ID,9
-http://www.wikidata.org/prop/direct/P1268,represents,9
-http://www.wikidata.org/prop/direct/P1299,depicted by,9
-http://www.wikidata.org/prop/direct/P1960,Google Scholar author ID,9
-http://www.wikidata.org/prop/direct/P1988,Le Delarge artist ID,9
-http://www.wikidata.org/prop/direct/P2042,Artsy artist ID,9
-http://www.wikidata.org/prop/direct/P2191,Vegetti Catalog of Fantastic Literature NILF ID,9
-http://www.wikidata.org/prop/direct/P2387,Elonet person ID,9
-http://www.wikidata.org/prop/direct/P2626,Danish National Filmography person ID,9
-http://www.wikidata.org/prop/direct/P3569,Cultureel Woordenboek ID,9
-http://www.wikidata.org/prop/direct/P3901,ADAGP artist ID,9
-http://www.wikidata.org/prop/direct/P4081,BHL creator ID,9
-http://www.wikidata.org/prop/direct/P4159,WeRelate person ID,9
-http://www.wikidata.org/prop/direct/P4399,Itaú Cultural ID,9
-http://www.wikidata.org/prop/direct/P5375,BIU Santé person ID,9
-http://www.wikidata.org/prop/direct/P5504,RISM ID,9
-http://www.wikidata.org/prop/direct/P5570,NooSFere author ID,9
+http://www.wikidata.org/prop/direct/P11928,Virksomme ord ID,10
+http://www.wikidata.org/prop/direct/P12173,Newman Numismatics Portal ID,10
+http://www.wikidata.org/prop/direct/P66,ancestral home,9
+http://www.wikidata.org/prop/direct/P94,coat of arms image,9
+http://www.wikidata.org/prop/direct/P951,NSZL (VIAF) ID,9
+http://www.wikidata.org/prop/direct/P989,spoken text audio,9
+http://www.wikidata.org/prop/direct/P1157,US Congress Bio ID,9
+http://www.wikidata.org/prop/direct/P1959,Dutch Senate person ID,9
+http://www.wikidata.org/prop/direct/P2171,TheyWorkForYou ID,9
+http://www.wikidata.org/prop/direct/P2390,Ballotpedia ID,9
+http://www.wikidata.org/prop/direct/P2498,Catalan Biographical Dictionary of Women ID,9
+http://www.wikidata.org/prop/direct/P2522,victory,9
+http://www.wikidata.org/prop/direct/P2741,Tate artist ID,9
+http://www.wikidata.org/prop/direct/P3056,TCM Movie Database person ID,9
+http://www.wikidata.org/prop/direct/P3133,NSZL name authority ID,9
+http://www.wikidata.org/prop/direct/P3144,elFilm person ID,9
+http://www.wikidata.org/prop/direct/P3232,PhilPapers author ID,9
+http://www.wikidata.org/prop/direct/P3509,Dagens Nyheter topic ID,9
+http://www.wikidata.org/prop/direct/P3984,subreddit,9
+http://www.wikidata.org/prop/direct/P4285,Theses.fr person ID,9
+http://www.wikidata.org/prop/direct/P5298,Webb-site person ID,9
+http://www.wikidata.org/prop/direct/P5254,FilmTv.it person ID,9
+http://www.wikidata.org/prop/direct/P5508,archINFORM person/group ID,9
+http://www.wikidata.org/prop/direct/P6023,ResearchGate contributions ID,9
+http://www.wikidata.org/prop/direct/P6173,Bitraga author ID,9
 http://www.wikidata.org/prop/direct/P6231,BDELIS ID,9
-http://www.wikidata.org/prop/direct/P7818,French Vikidia ID,9
-http://www.wikidata.org/prop/direct/P7918,Médias 19 ID,9
-http://www.wikidata.org/prop/direct/P8462,Political Graveyard politician ID,9
-http://www.wikidata.org/prop/direct/P8951,Order of Canada recipient ID,9
-http://www.wikidata.org/prop/direct/P9541,MacArthur Fellows Program ID,9
-http://www.wikidata.org/prop/direct/P54,member of sports team,8
+http://www.wikidata.org/prop/direct/P6276,Amazon Music artist ID,9
+http://www.wikidata.org/prop/direct/P6637,AWARE ID,9
+http://www.wikidata.org/prop/direct/P6829,Dictionary of Irish Biography ID,9
+http://www.wikidata.org/prop/direct/P6746,Paměť národa ID,9
+http://www.wikidata.org/prop/direct/P7574,Swedish Royal Theater Archive,9
+http://www.wikidata.org/prop/direct/P7836,Livelib.ru person ID,9
+http://www.wikidata.org/prop/direct/P8238,Bibliography of the History of Slovakia ID,9
+http://www.wikidata.org/prop/direct/P8309,Yle topic ID,9
+http://www.wikidata.org/prop/direct/P8819,Pitchfork artist ID,9
+http://www.wikidata.org/prop/direct/P9152,CollectieGelderland creator ID,9
+http://www.wikidata.org/prop/direct/P9534,Biblioteche della Custodia di Terra Santa a Gerusalemme ID,9
+http://www.wikidata.org/prop/direct/P10021,UAE University Libraries ID,9
+http://www.wikidata.org/prop/direct/P11245,YouTube handle,9
+http://www.wikidata.org/prop/direct/P10882,Met Constituent ID,9
+http://www.wikidata.org/prop/direct/P11500,United States House of Representatives ID,9
+http://www.wikidata.org/prop/direct/P528,catalog code,8
 http://www.wikidata.org/prop/direct/P1260,Swedish Open Cultural Heritage URI,8
-http://www.wikidata.org/prop/direct/P1331,PACE member ID,8
-http://www.wikidata.org/prop/direct/P1399,convicted of,8
-http://www.wikidata.org/prop/direct/P1576,lifestyle,8
-http://www.wikidata.org/prop/direct/P1986,Treccani's Biographical Dictionary of Italian People ID,8
-http://www.wikidata.org/prop/direct/P2174,Museum of Modern Art artist ID,8
-http://www.wikidata.org/prop/direct/P2498,Catalan Biographical Dictionary of Women ID,8
-http://www.wikidata.org/prop/direct/P3789,Telegram username,8
-http://www.wikidata.org/prop/direct/P3980,Unifrance person ID,8
-http://www.wikidata.org/prop/direct/P4602,date of burial or cremation,8
-http://www.wikidata.org/prop/direct/P5284,Douban movie celebrity ID,8
-http://www.wikidata.org/prop/direct/P6005,Muck Rack journalist ID,8
-http://www.wikidata.org/prop/direct/P6325,Critique d'art ID,8
-http://www.wikidata.org/prop/direct/P6677,OpenEdition Books author ID,8
-http://www.wikidata.org/prop/direct/P6698,Japan Search name ID,8
-http://www.wikidata.org/prop/direct/P6637,AWARE ID,8
-http://www.wikidata.org/prop/direct/P7444,Rijksmuseum Research Library authority ID,8
-http://www.wikidata.org/prop/direct/P8406,Grove Art Online ID,8
-http://www.wikidata.org/prop/direct/P8998,Magyar életrajzi lexikon ID,8
-http://www.wikidata.org/prop/direct/P9160,Biographical Dictionary of the Czech Lands ID,8
-http://www.wikidata.org/prop/direct/P9179,Biblioteca Iglesia Nacional Española en Roma ID,8
-http://www.wikidata.org/prop/direct/P9245,Labour Australia ID,8
-http://www.wikidata.org/prop/direct/P9463,MovieMeter person ID,8
-http://www.wikidata.org/prop/direct/P9495,National Historical Museums of Sweden ID,8
-http://www.wikidata.org/prop/direct/P9594,Bodleian Archives & Manuscripts person ID,8
-http://www.wikidata.org/prop/direct/P1026,academic thesis,7
-http://www.wikidata.org/prop/direct/P1220,Internet Broadway Database person ID,7
-http://www.wikidata.org/prop/direct/P1258,Rotten Tomatoes ID,7
-http://www.wikidata.org/prop/direct/P1289,Kritisches Lexikon zur fremdsprachigen Gegenwartsliteratur ID,7
-http://www.wikidata.org/prop/direct/P1556,zbMATH author ID,7
-http://www.wikidata.org/prop/direct/P1959,Dutch Senate person ID,7
-http://www.wikidata.org/prop/direct/P2048,height,7
+http://www.wikidata.org/prop/direct/P2252,National Gallery of Art artist ID,8
+http://www.wikidata.org/prop/direct/P2280,Austrian Parliament ID,8
+http://www.wikidata.org/prop/direct/P3142,EDb person ID,8
+http://www.wikidata.org/prop/direct/P4343,WBPLN author ID,8
+http://www.wikidata.org/prop/direct/P4515,Prisma ID,8
+http://www.wikidata.org/prop/direct/P4759,Luminous-Lint ID,8
+http://www.wikidata.org/prop/direct/P4854,Uppslagsverket Finland ID,8
+http://www.wikidata.org/prop/direct/P5821,ArhivX LOD,8
+http://www.wikidata.org/prop/direct/P5247,Giant Bomb ID,8
+http://www.wikidata.org/prop/direct/P5509,MAPS poet ID,8
+http://www.wikidata.org/prop/direct/P6081,RIA Novosti reference,8
+http://www.wikidata.org/prop/direct/P6521,Crew United person ID,8
+http://www.wikidata.org/prop/direct/P7300,MUBI person ID,8
+http://www.wikidata.org/prop/direct/P8017,generational suffix,8
+http://www.wikidata.org/prop/direct/P8223,K-Scholar ID,8
+http://www.wikidata.org/prop/direct/P8500,Vietnamese middle name,8
+http://www.wikidata.org/prop/direct/P8848,CONOR.AL ID,8
+http://www.wikidata.org/prop/direct/P9212,Dizionario biografico online degli anarchici italiani ID,8
+http://www.wikidata.org/prop/direct/P10916,Süddeutsche Zeitung topic ID,8
+http://www.wikidata.org/prop/direct/P11831,Alabama Authors ID,8
+http://www.wikidata.org/prop/direct/P412,voice type,7
+http://www.wikidata.org/prop/direct/P898,IPA transcription,7
+http://www.wikidata.org/prop/direct/P1007,Lattes Platform number,7
+http://www.wikidata.org/prop/direct/P1387,political alignment,7
+http://www.wikidata.org/prop/direct/P1455,list of works,7
+http://www.wikidata.org/prop/direct/P1649,KMDb person ID,7
+http://www.wikidata.org/prop/direct/P1979,Righteous Among The Nations ID,7
 http://www.wikidata.org/prop/direct/P2592,Québec cultural heritage directory people ID,7
-http://www.wikidata.org/prop/direct/P2722,Deezer artist ID,7
-http://www.wikidata.org/prop/direct/P3040,SoundCloud ID,7
-http://www.wikidata.org/prop/direct/P3544,Te Papa agent ID,7
-http://www.wikidata.org/prop/direct/P4200,Christie's creator ID,7
-http://www.wikidata.org/prop/direct/P4285,Theses.fr person ID,7
-http://www.wikidata.org/prop/direct/P5068,Flanders Arts Institute person ID,7
-http://www.wikidata.org/prop/direct/P4854,Uppslagsverket Finland ID,7
-http://www.wikidata.org/prop/direct/P4927,Invaluable.com person ID,7
-http://www.wikidata.org/prop/direct/P5491,BD Gest' author ID,7
-http://www.wikidata.org/prop/direct/P6058,Larousse ID,7
-http://www.wikidata.org/prop/direct/P6404,Treccani's Dizionario di Storia ID,7
-http://www.wikidata.org/prop/direct/P6441,Douban author ID,7
-http://www.wikidata.org/prop/direct/P7085,TikTok username,7
-http://www.wikidata.org/prop/direct/P7686,Encyclopedia of the Great Plains ID,7
-http://www.wikidata.org/prop/direct/P8947,Museo Galileo authority ID,7
-http://www.wikidata.org/prop/direct/P8992,1914-1918-Online ID,7
-http://www.wikidata.org/prop/direct/P9152,CollectieGelderland creator ID,7
-http://www.wikidata.org/prop/direct/P9054,National Historic People ID,7
-http://www.wikidata.org/prop/direct/P9885,Bing entity ID,7
-http://www.wikidata.org/prop/direct/P10141,Academy of Athens authority ID,7
-http://www.wikidata.org/prop/direct/P10757,Personality Database profile ID,7
-http://www.wikidata.org/prop/direct/P10882,Met Constituent ID,7
-http://www.wikidata.org/prop/direct/P1340,eye color,6
-http://www.wikidata.org/prop/direct/P1448,official name,6
+http://www.wikidata.org/prop/direct/P3235,PhilPapers topic,7
+http://www.wikidata.org/prop/direct/P3283,Bandcamp profile ID,7
+http://www.wikidata.org/prop/direct/P3829,Publons author ID,7
+http://www.wikidata.org/prop/direct/P3836,Pinterest username,7
+http://www.wikidata.org/prop/direct/P3899,Medium username,7
+http://www.wikidata.org/prop/direct/P4198,Google Play Music artist ID (former scheme),7
+http://www.wikidata.org/prop/direct/P4797,member of the Assembly of Madrid ID,7
+http://www.wikidata.org/prop/direct/P4928,Ricorso author ID,7
+http://www.wikidata.org/prop/direct/P4991,Biographical Dictionary of Georgia ID,7
+http://www.wikidata.org/prop/direct/P5058,Encyklopedia Teatru Polskiego person ID,7
+http://www.wikidata.org/prop/direct/P5340,American Film Institute person ID,7
+http://www.wikidata.org/prop/direct/P5377,Étonnants voyageurs participant ID,7
+http://www.wikidata.org/prop/direct/P5431,setlist.fm artist ID,7
+http://www.wikidata.org/prop/direct/P5478,RPO poet ID,7
+http://www.wikidata.org/prop/direct/P5964,Norwegian Nationaltheatret actor ID,7
+http://www.wikidata.org/prop/direct/P6002,WikiArt ID,7
+http://www.wikidata.org/prop/direct/P6015,Handbook of Texas ID,7
+http://www.wikidata.org/prop/direct/P6616,Library of Parliament of Canada person ID,7
+http://www.wikidata.org/prop/direct/P6802,related image,7
+http://www.wikidata.org/prop/direct/P6764,V&A person ID,7
+http://www.wikidata.org/prop/direct/P7157,The Top Tens ID,7
+http://www.wikidata.org/prop/direct/P7194,AZLyrics.com artist ID,7
+http://www.wikidata.org/prop/direct/P7803,Decine21 person ID,7
+http://www.wikidata.org/prop/direct/P8085,Curran Index contributor ID,7
+http://www.wikidata.org/prop/direct/P8334,MuseScore artist ID,7
+http://www.wikidata.org/prop/direct/P8604,OnlyFans ID,7
+http://www.wikidata.org/prop/direct/P9307,Fancyclopedia 3 ID,7
+http://www.wikidata.org/prop/direct/P9522,Biblioteca di Santa Sabina ID,7
+http://www.wikidata.org/prop/direct/P9545,Encyclopedia of China (Second Edition) ID,7
+http://www.wikidata.org/prop/direct/P11185,Levadia Library ID,7
+http://www.wikidata.org/prop/direct/P11345,Cinematografo.it name or company ID (new),7
+http://www.wikidata.org/prop/direct/P11826,Media Library for Dance and Theatre person ID,7
+http://www.wikidata.org/prop/direct/P11892,Threads username,7
+http://www.wikidata.org/prop/direct/P488,chairperson,6
+http://www.wikidata.org/prop/direct/P1187,Dharma Drum Institute of Liberal Arts person ID,6
+http://www.wikidata.org/prop/direct/P1283,filmography,6
+http://www.wikidata.org/prop/direct/P1341,Italian Chamber of Deputies dati ID,6
 http://www.wikidata.org/prop/direct/P1473,BLPL author ID,6
-http://www.wikidata.org/prop/direct/P1728,AllMusic artist ID,6
-http://www.wikidata.org/prop/direct/P1875,represented by,6
-http://www.wikidata.org/prop/direct/P2373,Genius artist ID,6
-http://www.wikidata.org/prop/direct/P2558,autores.uy ID,6
-http://www.wikidata.org/prop/direct/P2741,Tate artist ID,6
-http://www.wikidata.org/prop/direct/P3232,PhilPapers author ID,6
-http://www.wikidata.org/prop/direct/P4012,Semantic Scholar author ID,6
-http://www.wikidata.org/prop/direct/P4343,WBPLN author ID,6
-http://www.wikidata.org/prop/direct/P5297,Companies House officer ID,6
-http://www.wikidata.org/prop/direct/P5337,Google News topics ID,6
-http://www.wikidata.org/prop/direct/P5821,ArhivX LOD,6
-http://www.wikidata.org/prop/direct/P6173,Bitraga author ID,6
-http://www.wikidata.org/prop/direct/P6300,Hymnary author ID,6
+http://www.wikidata.org/prop/direct/P1766,place name sign,6
+http://www.wikidata.org/prop/direct/P1813,short name,6
+http://www.wikidata.org/prop/direct/P2471,Models.com person ID,6
+http://www.wikidata.org/prop/direct/P2753,Dictionary of Canadian Biography ID,6
+http://www.wikidata.org/prop/direct/P2862,Catalogus Professorum Academiae Rheno-Traiectinae ID,6
+http://www.wikidata.org/prop/direct/P3136,elCinema person ID,6
+http://www.wikidata.org/prop/direct/P3218,Auñamendi ID,6
+http://www.wikidata.org/prop/direct/P3845,TV Guide person ID (former scheme),6
+http://www.wikidata.org/prop/direct/P3919,contributed to creative work,6
+http://www.wikidata.org/prop/direct/P3935,Chamber of Deputies of Italy storia ID,6
+http://www.wikidata.org/prop/direct/P3965,Bridgeman artist ID,6
+http://www.wikidata.org/prop/direct/P4145,Athenaeum person ID,6
+http://www.wikidata.org/prop/direct/P4248,The Black Book ID,6
+http://www.wikidata.org/prop/direct/P4252,All-Russian Mathematical Portal ID,6
+http://www.wikidata.org/prop/direct/P4768,cinematografo.it name or company ID,6
+http://www.wikidata.org/prop/direct/P4936,SFMOMA artist ID,6
+http://www.wikidata.org/prop/direct/P5344,Printemps des poètes poet ID,6
+http://www.wikidata.org/prop/direct/P5380,National Academy of Sciences member ID,6
+http://www.wikidata.org/prop/direct/P5408,Fantastic Fiction author ID,6
+http://www.wikidata.org/prop/direct/P5430,Poetry International Web poet ID,6
+http://www.wikidata.org/prop/direct/P5442,Library of Congress of Chile person ID,6
+http://www.wikidata.org/prop/direct/P5797,Twitch channel ID,6
+http://www.wikidata.org/prop/direct/P5246,Pornhub star ID,6
+http://www.wikidata.org/prop/direct/P6150,Academy Awards Database nominee ID,6
+http://www.wikidata.org/prop/direct/P6213,UK Parliament ID,6
+http://www.wikidata.org/prop/direct/P6228,RegiowikiAT ID,6
+http://www.wikidata.org/prop/direct/P6461,Rock's Backpages artist ID,6
+http://www.wikidata.org/prop/direct/P6621,Le Figaro tag ID,6
+http://www.wikidata.org/prop/direct/P6734,Archaeology Data Service person ID,6
+http://www.wikidata.org/prop/direct/P7023,Biyografya ID,6
+http://www.wikidata.org/prop/direct/P7195,Bandsintown artist ID,6
+http://www.wikidata.org/prop/direct/P7192,TuneIn artist ID,6
+http://www.wikidata.org/prop/direct/P7215,Eiga.com person ID,6
+http://www.wikidata.org/prop/direct/P7311,Aozora Bunko author ID,6
+http://www.wikidata.org/prop/direct/P7480,Brazilian federal deputy ID,6
+http://www.wikidata.org/prop/direct/P7520,Filmový přehled person ID,6
+http://www.wikidata.org/prop/direct/P7695,e-WV: The West Virginia Encyclopedia ID,6
 http://www.wikidata.org/prop/direct/P6944,Bionomia ID,6
-http://www.wikidata.org/prop/direct/P7574,Swedish Royal Theater Archive,6
-http://www.wikidata.org/prop/direct/P8085,Curran Index contributor ID,6
-http://www.wikidata.org/prop/direct/P7796,BeWeb person ID,6
-http://www.wikidata.org/prop/direct/P8833,Union Catalog of Armenian Libraries authority ID,6
-http://www.wikidata.org/prop/direct/P8971,Cinémathèque québécoise person ID,6
-http://www.wikidata.org/prop/direct/P10298,Sceneweb artist ID,6
-http://www.wikidata.org/prop/direct/P11155,Municipal Library of Trikala ID,6
-http://www.wikidata.org/prop/direct/P9723,20th Century Chinese Biographical Database ID,6
-http://www.wikidata.org/prop/direct/P11194,Famous Birthdays ID,6
-http://www.wikidata.org/prop/direct/P11928,Virksomme ord ID,6
+http://www.wikidata.org/prop/direct/P6978,Scandinavian middle family name,6
+http://www.wikidata.org/prop/direct/P8207,The Conversation author ID,6
+http://www.wikidata.org/prop/direct/P8301,Montreux Jazz Festival person ID,6
+http://www.wikidata.org/prop/direct/P8504,Science Fiction Awards Database author ID,6
+http://www.wikidata.org/prop/direct/P8585,FIPRESCI person ID,6
+http://www.wikidata.org/prop/direct/P8718,AVN person ID,6
+http://www.wikidata.org/prop/direct/P8720,xHamster pornstar ID,6
+http://www.wikidata.org/prop/direct/P8748,Rheinland-Pfälzische Personendatenbank ID,6
+http://www.wikidata.org/prop/direct/P8783,AAGM person or institution ID,6
+http://www.wikidata.org/prop/direct/P8935,Encyclopedia of the History of Ukraine ID,6
+http://www.wikidata.org/prop/direct/P9466,Gyldendals Teaterleksikon ID,6
+http://www.wikidata.org/prop/direct/P9720,fotoCH photographer ID,6
+http://www.wikidata.org/prop/direct/P9880,Festivaletteratura person ID,6
+http://www.wikidata.org/prop/direct/P10404,LMHL author ID,6
+http://www.wikidata.org/prop/direct/P10428,parliament.uk member ID,6
+http://www.wikidata.org/prop/direct/P10886,Austria-Forum person ID,6
 http://www.wikidata.org/prop/direct/P12046,ADVN ID,6
-http://www.wikidata.org/prop/direct/P11683,Ivi person ID,6
-http://www.wikidata.org/prop/direct/P66,ancestral home,5
-http://www.wikidata.org/prop/direct/P488,chairperson,5
-http://www.wikidata.org/prop/direct/P1213,NLC authorities,5
-http://www.wikidata.org/prop/direct/P1438,Jewish Encyclopedia ID (Russian),5
-http://www.wikidata.org/prop/direct/P1884,hair color,5
-http://www.wikidata.org/prop/direct/P2252,National Gallery of Art artist ID,5
+http://www.wikidata.org/prop/direct/P17,country,5
+http://www.wikidata.org/prop/direct/P51,audio,5
+http://www.wikidata.org/prop/direct/P270,CALIS ID,5
+http://www.wikidata.org/prop/direct/P552,handedness,5
+http://www.wikidata.org/prop/direct/P553,website account on,5
+http://www.wikidata.org/prop/direct/P1565,Enciclopedia de la Literatura en México ID,5
+http://www.wikidata.org/prop/direct/P1714,Journalisted ID,5
+http://www.wikidata.org/prop/direct/P1713,biography at the Bundestag of Germany URL,5
+http://www.wikidata.org/prop/direct/P1795,Smithsonian American Art Museum person/institution ID,5
+http://www.wikidata.org/prop/direct/P1980,PolSys ID,5
+http://www.wikidata.org/prop/direct/P2011,Cooper-Hewitt person ID,5
+http://www.wikidata.org/prop/direct/P2067,mass,5
 http://www.wikidata.org/prop/direct/P2268,Musée d'Orsay artist ID,5
-http://www.wikidata.org/prop/direct/P2280,Austrian Parliament ID,5
-http://www.wikidata.org/prop/direct/P2862,Catalogus Professorum Academiae Rheno-Traiectinae ID,5
-http://www.wikidata.org/prop/direct/P3185,VK ID,5
-http://www.wikidata.org/prop/direct/P3192,Last.fm ID,5
-http://www.wikidata.org/prop/direct/P3204,Ciné-Ressources person ID,5
-http://www.wikidata.org/prop/direct/P3218,Auñamendi ID,5
+http://www.wikidata.org/prop/direct/P2383,CTHS person ID,5
+http://www.wikidata.org/prop/direct/P3017,Rolling Stone artist ID,5
+http://www.wikidata.org/prop/direct/P3267,Flickr user ID,5
+http://www.wikidata.org/prop/direct/P3351,Adult Film Database actor ID,5
+http://www.wikidata.org/prop/direct/P3344,Vote Smart candidate ID,5
 http://www.wikidata.org/prop/direct/P3595,Biografiskt Lexikon för Finland ID,5
-http://www.wikidata.org/prop/direct/P4248,The Black Book ID,5
-http://www.wikidata.org/prop/direct/P4613,Encyclopedia of Modern Ukraine ID,5
-http://www.wikidata.org/prop/direct/P4928,Ricorso author ID,5
-http://www.wikidata.org/prop/direct/P5344,Printemps des poètes poet ID,5
-http://www.wikidata.org/prop/direct/P5478,RPO poet ID,5
-http://www.wikidata.org/prop/direct/P5964,Norwegian Nationaltheatret actor ID,5
-http://www.wikidata.org/prop/direct/P6002,WikiArt ID,5
-http://www.wikidata.org/prop/direct/P6424,affiliation string,5
-http://www.wikidata.org/prop/direct/P6200,BBC News topic ID,5
-http://www.wikidata.org/prop/direct/P6329,Share-VDE 1.0 author ID,5
-http://www.wikidata.org/prop/direct/P6734,Archaeology Data Service person ID,5
-http://www.wikidata.org/prop/direct/P6802,related image,5
-http://www.wikidata.org/prop/direct/P6829,Dictionary of Irish Biography ID,5
-http://www.wikidata.org/prop/direct/P7003,ACMI ID,5
-http://www.wikidata.org/prop/direct/P8024,Nobel Laureate API ID,5
-http://www.wikidata.org/prop/direct/P8317,Philadelphia Museum of Art entity ID,5
-http://www.wikidata.org/prop/direct/P8445,Our Campaigns candidate ID,5
-http://www.wikidata.org/prop/direct/P8334,MuseScore artist ID,5
-http://www.wikidata.org/prop/direct/P8591,Grove Music Online ID,5
-http://www.wikidata.org/prop/direct/P8783,AAGM person or institution ID,5
+http://www.wikidata.org/prop/direct/P4015,Vimeo ID,5
+http://www.wikidata.org/prop/direct/P4084,MyAnimeList people ID,5
+http://www.wikidata.org/prop/direct/P4439,MNCARS artist ID,5
+http://www.wikidata.org/prop/direct/P4456,Internet Off-Broadway Database ID,5
+http://www.wikidata.org/prop/direct/P4553,RA Collections ID,5
+http://www.wikidata.org/prop/direct/P4682,Eldoblaje original actor ID,5
+http://www.wikidata.org/prop/direct/P4813,PARES ID,5
+http://www.wikidata.org/prop/direct/P5356,Laut.de artist ID,5
+http://www.wikidata.org/prop/direct/P5532,Infocentre littéraire des écrivains ID,5
+http://www.wikidata.org/prop/direct/P5597,Artcyclopedia artist ID,5
+http://www.wikidata.org/prop/direct/P5917,Shazam artist ID,5
+http://www.wikidata.org/prop/direct/P6016,Tennessee Encyclopedia ID,5
+http://www.wikidata.org/prop/direct/P6181,Disney A to Z ID,5
+http://www.wikidata.org/prop/direct/P6284,NCpedia ID,5
+http://www.wikidata.org/prop/direct/P6295,ARTIC artist ID,5
+http://www.wikidata.org/prop/direct/P6573,Klexikon article ID,5
+http://www.wikidata.org/prop/direct/P6817,SVT Play ID,5
+http://www.wikidata.org/prop/direct/P7031,Penguin India author ID,5
+http://www.wikidata.org/prop/direct/P7058,BNRM ID,5
+http://www.wikidata.org/prop/direct/P7208,Liber Liber author ID,5
+http://www.wikidata.org/prop/direct/P7685,CALS Encyclopedia of Arkansas ID,5
+http://www.wikidata.org/prop/direct/P7808,kino-teatr.ru person ID,5
+http://www.wikidata.org/prop/direct/P7993,Treccani's Dizionario di Filosofia ID,5
+http://www.wikidata.org/prop/direct/P8295,AustLit ID,5
+http://www.wikidata.org/prop/direct/P8292,AusStage person ID,5
 http://www.wikidata.org/prop/direct/P8728,Nachlässe in Austria ID,5
-http://www.wikidata.org/prop/direct/P9070,Internet Encyclopedia of Ukraine ID,5
-http://www.wikidata.org/prop/direct/P9141,Portal da Literatura ID,5
-http://www.wikidata.org/prop/direct/P9890,Online Begraafplaatsen person ID,5
-http://www.wikidata.org/prop/direct/P9965,Musik-Sammler.de artist ID,5
-http://www.wikidata.org/prop/direct/P10266,AdoroCinema person ID,5
+http://www.wikidata.org/prop/direct/P8850,CONOR.KS ID,5
+http://www.wikidata.org/prop/direct/P8870,Hyperion Records person ID,5
+http://www.wikidata.org/prop/direct/P9419,personal library at,5
 http://www.wikidata.org/prop/direct/P9625,Dizionario Biografico dell'Educazione (1800–2000) ID,5
+http://www.wikidata.org/prop/direct/P9778,Looted Cultural Assets Database ID,5
+http://www.wikidata.org/prop/direct/P9890,Online Begraafplaatsen person ID,5
+http://www.wikidata.org/prop/direct/P10018,George Eastman Museum people ID,5
+http://www.wikidata.org/prop/direct/P10155,Babesdirectory ID,5
 http://www.wikidata.org/prop/direct/P10713,Biografiskt Lexikon för Finland ID (urn.fi),5
-http://www.wikidata.org/prop/direct/P11156,MMB ID,5
-http://www.wikidata.org/prop/direct/P11386,Listal ID,5
-http://www.wikidata.org/prop/direct/P11514,Great Russian Encyclopedia portal ID,5
-http://www.wikidata.org/prop/direct/P51,audio,4
-http://www.wikidata.org/prop/direct/P358,discography,4
-http://www.wikidata.org/prop/direct/P413,position played on team / speciality,4
-http://www.wikidata.org/prop/direct/P553,website account on,4
-http://www.wikidata.org/prop/direct/P812,academic major,4
-http://www.wikidata.org/prop/direct/P945,allegiance,4
-http://www.wikidata.org/prop/direct/P951,NSZL (VIAF) ID,4
-http://www.wikidata.org/prop/direct/P989,spoken text audio,4
-http://www.wikidata.org/prop/direct/P1053,ResearcherID,4
-http://www.wikidata.org/prop/direct/P1186,MEP directory ID,4
-http://www.wikidata.org/prop/direct/P1424,topic's main template,4
-http://www.wikidata.org/prop/direct/P1553,Yandex Music artist ID,4
-http://www.wikidata.org/prop/direct/P1766,place name sign,4
-http://www.wikidata.org/prop/direct/P2469,Theatricalia person ID,4
-http://www.wikidata.org/prop/direct/P2519,Scope.dk person ID,4
-http://www.wikidata.org/prop/direct/P2581,BabelNet ID,4
-http://www.wikidata.org/prop/direct/P2753,Dictionary of Canadian Biography ID,4
-http://www.wikidata.org/prop/direct/P3133,NSZL name authority ID,4
-http://www.wikidata.org/prop/direct/P3235,PhilPapers topic,4
-http://www.wikidata.org/prop/direct/P3716,social classification,4
-http://www.wikidata.org/prop/direct/P3943,Tumblr username,4
-http://www.wikidata.org/prop/direct/P3965,Bridgeman artist ID,4
-http://www.wikidata.org/prop/direct/P3997,Bait La Zemer Ha-Ivri artist ID,4
-http://www.wikidata.org/prop/direct/P4145,Athenaeum person ID,4
-http://www.wikidata.org/prop/direct/P4174,Wikimedia username,4
-http://www.wikidata.org/prop/direct/P4272,DPLA subject term,4
-http://www.wikidata.org/prop/direct/P4438,"BFI Films, TV and people ID",4
-http://www.wikidata.org/prop/direct/P4991,Biographical Dictionary of Georgia ID,4
-http://www.wikidata.org/prop/direct/P4759,Luminous-Lint ID,4
-http://www.wikidata.org/prop/direct/P4903,New Georgia Encyclopedia ID,4
-http://www.wikidata.org/prop/direct/P4936,SFMOMA artist ID,4
-http://www.wikidata.org/prop/direct/P5365,Internet Book Database of Fiction writer ID,4
-http://www.wikidata.org/prop/direct/P5377,Étonnants voyageurs participant ID,4
-http://www.wikidata.org/prop/direct/P5394,Poets & Writers author ID,4
-http://www.wikidata.org/prop/direct/P5404,Rate Your Music artist ID,4
-http://www.wikidata.org/prop/direct/P5508,archINFORM person/group ID,4
-http://www.wikidata.org/prop/direct/P5509,MAPS poet ID,4
-http://www.wikidata.org/prop/direct/P5532,Infocentre littéraire des écrivains ID,4
-http://www.wikidata.org/prop/direct/P6023,ResearchGate contributions ID,4
-http://www.wikidata.org/prop/direct/P6284,NCpedia ID,4
-http://www.wikidata.org/prop/direct/P6295,ARTIC artist ID,4
-http://www.wikidata.org/prop/direct/P6764,V&A person ID,4
-http://www.wikidata.org/prop/direct/P6978,Scandinavian middle family name,4
-http://www.wikidata.org/prop/direct/P7031,Penguin India author ID,4
-http://www.wikidata.org/prop/direct/P7058,BNRM ID,4
-http://www.wikidata.org/prop/direct/P7084,related category,4
-http://www.wikidata.org/prop/direct/P7208,Liber Liber author ID,4
-http://www.wikidata.org/prop/direct/P7311,Aozora Bunko author ID,4
-http://www.wikidata.org/prop/direct/P8286,Olympedia people ID,4
-http://www.wikidata.org/prop/direct/P8796,Film w prasie polskiej press collection ID,4
-http://www.wikidata.org/prop/direct/P8730,National Park Service people ID,4
-http://www.wikidata.org/prop/direct/P9307,Fancyclopedia 3 ID,4
-http://www.wikidata.org/prop/direct/P9212,Dizionario biografico online degli anarchici italiani ID,4
-http://www.wikidata.org/prop/direct/P8848,CONOR.AL ID,4
+http://www.wikidata.org/prop/direct/P10723,TheGuardian.com profile ID,5
+http://www.wikidata.org/prop/direct/P10849,Beamish peerage database person ID,5
+http://www.wikidata.org/prop/direct/P11271,African American Visual Artists Database ID,5
+http://www.wikidata.org/prop/direct/P11137,Reddit topic ID,5
+http://www.wikidata.org/prop/direct/P11621,Hungarian National Namespace person ID (new),5
+http://www.wikidata.org/prop/direct/P12076,Nordic Women in Film-ID,5
+http://www.wikidata.org/prop/direct/P12137,Linked Open Data Comune Firenze ID,5
+http://www.wikidata.org/prop/direct/P12361,Bluesky handle,5
+http://www.wikidata.org/prop/direct/P276,location,4
+http://www.wikidata.org/prop/direct/P411,canonization status,4
+http://www.wikidata.org/prop/direct/P1254,Slovenska biografija ID,4
+http://www.wikidata.org/prop/direct/P1286,Munzinger Pop ID,4
+http://www.wikidata.org/prop/direct/P1367,Art UK artist ID,4
+http://www.wikidata.org/prop/direct/P1441,present in work,4
+http://www.wikidata.org/prop/direct/P1563,MacTutor biography ID,4
+http://www.wikidata.org/prop/direct/P1596,penalty,4
+http://www.wikidata.org/prop/direct/P2021,Erdős number,4
+http://www.wikidata.org/prop/direct/P2016,Catalogus Professorum Academiae Groninganae ID,4
+http://www.wikidata.org/prop/direct/P2218,net worth,4
+http://www.wikidata.org/prop/direct/P2287,CRIStin ID,4
+http://www.wikidata.org/prop/direct/P2348,time period,4
+http://www.wikidata.org/prop/direct/P2477,BDRC Resource ID,4
+http://www.wikidata.org/prop/direct/P2688,Box Office Mojo person ID,4
+http://www.wikidata.org/prop/direct/P2861,Leidse Hoogleraren ID,4
+http://www.wikidata.org/prop/direct/P2959,permanent duplicated item,4
+http://www.wikidata.org/prop/direct/P3072,Storting person ID,4
+http://www.wikidata.org/prop/direct/P3269,Fotografen.nl ID,4
+http://www.wikidata.org/prop/direct/P3361,PictoRight ID code,4
+http://www.wikidata.org/prop/direct/P3448,stepparent,4
+http://www.wikidata.org/prop/direct/P3579,Weibo user ID,4
+http://www.wikidata.org/prop/direct/P3869,IAFD female performer ID,4
+http://www.wikidata.org/prop/direct/P4381,Soccerdonna player ID,4
+http://www.wikidata.org/prop/direct/P4434,LesBiographies.com ID,4
+http://www.wikidata.org/prop/direct/P4457,DAHR artist ID,4
+http://www.wikidata.org/prop/direct/P4471,Rush Parliamentary Archive ID,4
+http://www.wikidata.org/prop/direct/P4491,Isidore scholar ID,4
+http://www.wikidata.org/prop/direct/P4703,HATVP person ID,4
+http://www.wikidata.org/prop/direct/P4749,Dictionnaire des auteurs luxembourgeois ID,4
+http://www.wikidata.org/prop/direct/P4808,Royal Academy new identifier,4
+http://www.wikidata.org/prop/direct/P5088,Internet Encyclopedia of Philosophy ID,4
+http://www.wikidata.org/prop/direct/P5163,Odnoklassniki ID,4
+http://www.wikidata.org/prop/direct/P5368,National Gallery of Canada artist ID,4
+http://www.wikidata.org/prop/direct/P5392,Poetry Archive poet ID,4
+http://www.wikidata.org/prop/direct/P5414,The Paris Review interviewee ID,4
+http://www.wikidata.org/prop/direct/P5463,AE member ID,4
+http://www.wikidata.org/prop/direct/P5618,LOA ID,4
+http://www.wikidata.org/prop/direct/P5273,Nelson-Atkins Museum of Art person ID,4
+http://www.wikidata.org/prop/direct/P5951,ComiXology creator ID,4
+http://www.wikidata.org/prop/direct/P5981,Encyclopedia Virginia ID,4
+http://www.wikidata.org/prop/direct/P6219,TASS reference,4
+http://www.wikidata.org/prop/direct/P6255,SinemaTürk person ID,4
+http://www.wikidata.org/prop/direct/P6298,bgm.tv person ID,4
+http://www.wikidata.org/prop/direct/P6870,Latvian National Encyclopedia Online ID,4
+http://www.wikidata.org/prop/direct/P6702,Shanghai Library person ID,4
+http://www.wikidata.org/prop/direct/P6714,Whitney Museum of American Art artist ID,4
+http://www.wikidata.org/prop/direct/P6760,Know Your Meme ID,4
+http://www.wikidata.org/prop/direct/P7039,National Library of Iceland ID,4
+http://www.wikidata.org/prop/direct/P7128,Archives Directory for the History of Collecting in America ID,4
+http://www.wikidata.org/prop/direct/P6903,ArtBrokerage artist ID,4
+http://www.wikidata.org/prop/direct/P6984,Rupa Publications author ID,4
+http://www.wikidata.org/prop/direct/P7886,Media Arts Database ID,4
+http://www.wikidata.org/prop/direct/P7972,CVR person ID,4
+http://www.wikidata.org/prop/direct/P8041,DR music artist ID,4
+http://www.wikidata.org/prop/direct/P8116,Encyclopedia of Brno History person ID,4
+http://www.wikidata.org/prop/direct/P8130,Internetowy Polski Słownik Biograficzny ID,4
+http://www.wikidata.org/prop/direct/P8914,ZOBODAT person ID,4
 http://www.wikidata.org/prop/direct/P9109,Holocaust.cz person ID,4
-http://www.wikidata.org/prop/direct/P9139,first family name in Portuguese name,4
-http://www.wikidata.org/prop/direct/P9466,Gyldendals Teaterleksikon ID,4
+http://www.wikidata.org/prop/direct/P9246,Indigenous Australia ID,4
+http://www.wikidata.org/prop/direct/P9459,Rekhta author ID,4
+http://www.wikidata.org/prop/direct/P9575,Australian Music Centre artist ID,4
+http://www.wikidata.org/prop/direct/P9678,Franciscan Center of Christian Oriental Studies ID,4
+http://www.wikidata.org/prop/direct/P9686,Classical Archives composer ID,4
+http://www.wikidata.org/prop/direct/P9863,Gujarati Vishwakosh entry,4
+http://www.wikidata.org/prop/direct/P10372,Offizielle Deutsche Charts person ID,4
+http://www.wikidata.org/prop/direct/P10387,Databazeknih.cz author ID,4
 http://www.wikidata.org/prop/direct/P10525,Italian Women Writers ID,4
-http://www.wikidata.org/prop/direct/P9661,EBAF authority ID,4
-http://www.wikidata.org/prop/direct/P11185,Levadia Library ID,4
-http://www.wikidata.org/prop/direct/P10886,Austria-Forum person ID,4
+http://www.wikidata.org/prop/direct/P10554,BillionGraves grave ID,4
+http://www.wikidata.org/prop/direct/P10347,World Economic Forum ID,4
+http://www.wikidata.org/prop/direct/P10699,FamousFix topic ID,4
+http://www.wikidata.org/prop/direct/P10844,Teresianum authority ID,4
+http://www.wikidata.org/prop/direct/P11227,AniList staff ID,4
+http://www.wikidata.org/prop/direct/P11827,documenta archiv ID,4
+http://www.wikidata.org/prop/direct/P12365,HistoryMakers Maker Directory ID,4
+http://www.wikidata.org/prop/direct/P12363,clerked for,4
+http://www.wikidata.org/prop/direct/P12430,The StoryGraph author ID,4
 http://www.wikidata.org/prop/direct/P195,collection,3
-http://www.wikidata.org/prop/direct/P241,military branch,3
-http://www.wikidata.org/prop/direct/P549,Mathematics Genealogy Project ID,3
 http://www.wikidata.org/prop/direct/P582,end time,3
-http://www.wikidata.org/prop/direct/P803,professorship,3
-http://www.wikidata.org/prop/direct/P990,audio recording of the subject's spoken voice,3
+http://www.wikidata.org/prop/direct/P835,author citation (zoology),3
+http://www.wikidata.org/prop/direct/P1019,web feed URL,3
 http://www.wikidata.org/prop/direct/P1138,Kunstindeks Danmark Artist ID,3
-http://www.wikidata.org/prop/direct/P1367,Art UK artist ID,3
-http://www.wikidata.org/prop/direct/P1387,political alignment,3
-http://www.wikidata.org/prop/direct/P1455,list of works,3
-http://www.wikidata.org/prop/direct/P1532,country for sport,3
-http://www.wikidata.org/prop/direct/P1565,Enciclopedia de la Literatura en México ID,3
+http://www.wikidata.org/prop/direct/P1451,motto text,3
 http://www.wikidata.org/prop/direct/P1610,Dialnet article ID,3
+http://www.wikidata.org/prop/direct/P1636,date of baptism,3
+http://www.wikidata.org/prop/direct/P1651,YouTube video ID,3
+http://www.wikidata.org/prop/direct/P1648,Dictionary of Welsh Biography ID,3
 http://www.wikidata.org/prop/direct/P1707,DAAO ID,3
-http://www.wikidata.org/prop/direct/P1712,Metacritic ID,3
+http://www.wikidata.org/prop/direct/P1782,courtesy name,3
 http://www.wikidata.org/prop/direct/P1787,art name,3
-http://www.wikidata.org/prop/direct/P1795,Smithsonian American Art Museum person/institution ID,3
-http://www.wikidata.org/prop/direct/P1813,short name,3
-http://www.wikidata.org/prop/direct/P1828,IPI name number,3
-http://www.wikidata.org/prop/direct/P1979,Righteous Among The Nations ID,3
-http://www.wikidata.org/prop/direct/P2016,Catalogus Professorum Academiae Groninganae ID,3
-http://www.wikidata.org/prop/direct/P2171,TheyWorkForYou ID,3
-http://www.wikidata.org/prop/direct/P2348,time period,3
-http://www.wikidata.org/prop/direct/P2522,victory,3
-http://www.wikidata.org/prop/direct/P2861,Leidse Hoogleraren ID,3
-http://www.wikidata.org/prop/direct/P2909,SecondHandSongs artist ID,3
-http://www.wikidata.org/prop/direct/P3221,New York Times topic ID,3
-http://www.wikidata.org/prop/direct/P3258,LiveJournal ID,3
-http://www.wikidata.org/prop/direct/P3265,Myspace ID,3
-http://www.wikidata.org/prop/direct/P3283,Bandcamp profile ID,3
-http://www.wikidata.org/prop/direct/P3305,KINENOTE person ID,3
-http://www.wikidata.org/prop/direct/P3553,Zhihu topic ID,3
-http://www.wikidata.org/prop/direct/P3984,subreddit,3
-http://www.wikidata.org/prop/direct/P4015,Vimeo ID,3
-http://www.wikidata.org/prop/direct/P4175,Patreon ID,3
-http://www.wikidata.org/prop/direct/P4208,Billboard artist ID,3
-http://www.wikidata.org/prop/direct/P4491,Isidore scholar ID,3
-http://www.wikidata.org/prop/direct/P4434,LesBiographies.com ID,3
-http://www.wikidata.org/prop/direct/P4576,Tidal artist ID,3
-http://www.wikidata.org/prop/direct/P4749,Dictionnaire des auteurs luxembourgeois ID,3
-http://www.wikidata.org/prop/direct/P5033,Filmweb.pl person ID,3
-http://www.wikidata.org/prop/direct/P4813,PARES ID,3
-http://www.wikidata.org/prop/direct/P4955,MR Author ID,3
-http://www.wikidata.org/prop/direct/P5298,Webb-site person ID,3
-http://www.wikidata.org/prop/direct/P5368,National Gallery of Canada artist ID,3
-http://www.wikidata.org/prop/direct/P5431,setlist.fm artist ID,3
+http://www.wikidata.org/prop/direct/P1839,US Federal Election Commission ID,3
+http://www.wikidata.org/prop/direct/P1853,blood type,3
+http://www.wikidata.org/prop/direct/P2015,Hansard (1803–2005) ID,3
+http://www.wikidata.org/prop/direct/P2266,FMD model ID,3
+http://www.wikidata.org/prop/direct/P2332,Dictionary of Art Historians ID,3
+http://www.wikidata.org/prop/direct/P2538,Nationalmuseum Sweden ID,3
+http://www.wikidata.org/prop/direct/P2984,Snapchat username,3
+http://www.wikidata.org/prop/direct/P3123,Stanford Encyclopedia of Philosophy ID,3
+http://www.wikidata.org/prop/direct/P3183,Wall Street Journal topic ID,3
+http://www.wikidata.org/prop/direct/P3298,Belgian Senate person ID,3
+http://www.wikidata.org/prop/direct/P3346,HKMDB person ID,3
+http://www.wikidata.org/prop/direct/P3391,Verkhovna Rada MP ID,3
+http://www.wikidata.org/prop/direct/P3495,FilmPolski.pl ID,3
+http://www.wikidata.org/prop/direct/P3603,Minneapolis Institute of Art constituent ID,3
+http://www.wikidata.org/prop/direct/P3706,RITVA Person ID,3
+http://www.wikidata.org/prop/direct/P3733,MOOMA artist ID,3
+http://www.wikidata.org/prop/direct/P3790,AnimeCons.com guest ID,3
+http://www.wikidata.org/prop/direct/P3786,Danskefilm person ID,3
+http://www.wikidata.org/prop/direct/P3857,Cinenacional.com person ID,3
+http://www.wikidata.org/prop/direct/P3933,Cinema.de ID,3
+http://www.wikidata.org/prop/direct/P4003,Facebook page ID,3
+http://www.wikidata.org/prop/direct/P4116,JewAge person ID,3
+http://www.wikidata.org/prop/direct/P4112,danskfilmogtv person ID,3
+http://www.wikidata.org/prop/direct/P4123,French National Assembly ID,3
+http://www.wikidata.org/prop/direct/P4158,autores.ar ID,3
+http://www.wikidata.org/prop/direct/P4215,nLab ID,3
+http://www.wikidata.org/prop/direct/P4228,Encyclopedia of Australian Science ID,3
+http://www.wikidata.org/prop/direct/P4727,Deutsche Synchronkartei dubbing voice actor ID,3
+http://www.wikidata.org/prop/direct/P5021,assessment,3
+http://www.wikidata.org/prop/direct/P5327,fernsehserien.de ID,3
 http://www.wikidata.org/prop/direct/P5459,RHE doctor ID,3
-http://www.wikidata.org/prop/direct/P5597,Artcyclopedia artist ID,3
-http://www.wikidata.org/prop/direct/P6228,RegiowikiAT ID,3
-http://www.wikidata.org/prop/direct/P6276,Amazon Music artist ID,3
-http://www.wikidata.org/prop/direct/P6517,WhoSampled artist ID,3
-http://www.wikidata.org/prop/direct/P6702,Shanghai Library person ID,3
-http://www.wikidata.org/prop/direct/P6714,Whitney Museum of American Art artist ID,3
-http://www.wikidata.org/prop/direct/P6903,ArtBrokerage artist ID,3
+http://www.wikidata.org/prop/direct/P5465,Australian Poetry Library poet ID,3
+http://www.wikidata.org/prop/direct/P5477,Les Voix de la poésie poet ID,3
+http://www.wikidata.org/prop/direct/P5714,Tor.com author ID,3
+http://www.wikidata.org/prop/direct/P5239,Artists in Canada record number,3
+http://www.wikidata.org/prop/direct/P5540,RedTube ID,3
+http://www.wikidata.org/prop/direct/P5887,Arkivportalen agent ID,3
+http://www.wikidata.org/prop/direct/P6126,Santiebeati ID,3
+http://www.wikidata.org/prop/direct/P6235,Académie royale de Belgique member ID,3
+http://www.wikidata.org/prop/direct/P6251,catchphrase,3
+http://www.wikidata.org/prop/direct/P6366,Microsoft Academic ID,3
+http://www.wikidata.org/prop/direct/P6414,DIZIE ID,3
+http://www.wikidata.org/prop/direct/P6412,Gran Enciclopèdia de la Música ID,3
+http://www.wikidata.org/prop/direct/P6551,Physics History Network ID,3
+http://www.wikidata.org/prop/direct/P6559,Official Charts artist ID,3
+http://www.wikidata.org/prop/direct/P6585,Directorio Legislativo ID,3
+http://www.wikidata.org/prop/direct/P6645,Stedelijk Museum Amsterdam ID,3
 http://www.wikidata.org/prop/direct/P6851,Biographical Dictionary of Iowa ID,3
-http://www.wikidata.org/prop/direct/P7128,Archives Directory for the History of Collecting in America ID,3
-http://www.wikidata.org/prop/direct/P7194,AZLyrics.com artist ID,3
-http://www.wikidata.org/prop/direct/P7023,Biyografya ID,3
-http://www.wikidata.org/prop/direct/P7214,Allcinema person ID,3
+http://www.wikidata.org/prop/direct/P6849,DR topic ID,3
+http://www.wikidata.org/prop/direct/P6750,CineChile filmmaker ID,3
+http://www.wikidata.org/prop/direct/P7040,NosDéputés.fr identifiant,3
+http://www.wikidata.org/prop/direct/P7145,CHESNO politician ID,3
+http://www.wikidata.org/prop/direct/P7284,The Independent topic ID,3
+http://www.wikidata.org/prop/direct/P7317,iHeart artist ID,3
+http://www.wikidata.org/prop/direct/P7314,TDV İslam Ansiklopedisi ID,3
+http://www.wikidata.org/prop/direct/P7433,FantLab author ID,3
 http://www.wikidata.org/prop/direct/P7466,Edvard Munch's correspondence person ID,3
 http://www.wikidata.org/prop/direct/P7509,Estonian biographical database ID,3
-http://www.wikidata.org/prop/direct/P8116,Encyclopedia of Brno History person ID,3
-http://www.wikidata.org/prop/direct/P7972,CVR person ID,3
-http://www.wikidata.org/prop/direct/P7993,Treccani's Dizionario di Filosofia ID,3
-http://www.wikidata.org/prop/direct/P7745,Movie Walker Press person ID,3
-http://www.wikidata.org/prop/direct/P7886,Media Arts Database ID,3
-http://www.wikidata.org/prop/direct/P8748,Rheinland-Pfälzische Personendatenbank ID,3
+http://www.wikidata.org/prop/direct/P7507,Ben Yehuda author ID,3
+http://www.wikidata.org/prop/direct/P7504,Jeugdliteratuur ID,3
+http://www.wikidata.org/prop/direct/P7522,SK cinema authority ID,3
+http://www.wikidata.org/prop/direct/P7558,Inguma author ID,3
+http://www.wikidata.org/prop/direct/P7687,Kansaspedia ID,3
+http://www.wikidata.org/prop/direct/P6926,Nederlandse Top 40 artist ID,3
+http://www.wikidata.org/prop/direct/P6925,Musicalics composer ID,3
+http://www.wikidata.org/prop/direct/P6960,IMVDb artist ID,3
+http://www.wikidata.org/prop/direct/P7831,NMVW ID,3
+http://www.wikidata.org/prop/direct/P7848,Frick Art Reference Library Artist File ID,3
+http://www.wikidata.org/prop/direct/P7952,The First Amendment Encyclopedia ID,3
+http://www.wikidata.org/prop/direct/P8044,Frankfurter Personenlexikon ID,3
+http://www.wikidata.org/prop/direct/P8214,curriculum vitae URL,3
+http://www.wikidata.org/prop/direct/P8235,LiederNet composer ID,3
+http://www.wikidata.org/prop/direct/P8269,Norwegian prisoner register person ID,3
+http://www.wikidata.org/prop/direct/P8287,Worlds Without End author ID,3
+http://www.wikidata.org/prop/direct/P8446,Gateway to Research person ID,3
+http://www.wikidata.org/prop/direct/P8672,X topic ID,3
 http://www.wikidata.org/prop/direct/P8686,Biographical Dictionary of Fourierism ID,3
-http://www.wikidata.org/prop/direct/P9328,Universal Music France artist ID,3
-http://www.wikidata.org/prop/direct/P8885,Namuwiki ID,3
+http://www.wikidata.org/prop/direct/P8793,Quirinale ID,3
+http://www.wikidata.org/prop/direct/P8805,LIMIS person ID,3
+http://www.wikidata.org/prop/direct/P8977,CITWF person ID,3
 http://www.wikidata.org/prop/direct/P9113,Patrinum ID,3
-http://www.wikidata.org/prop/direct/P9880,Festivaletteratura person ID,3
-http://www.wikidata.org/prop/direct/P10006,AllSides ID,3
-http://www.wikidata.org/prop/direct/P9545,Encyclopedia of China (Second Edition) ID,3
-http://www.wikidata.org/prop/direct/P10387,Databazeknih.cz author ID,3
-http://www.wikidata.org/prop/direct/P10404,LMHL author ID,3
-http://www.wikidata.org/prop/direct/P11003,Scinapse author ID,3
+http://www.wikidata.org/prop/direct/P9772,The New Yorker contributor ID,3
+http://www.wikidata.org/prop/direct/P9871,INAPP author ID,3
+http://www.wikidata.org/prop/direct/P9864,Télé-Loisirs ID,3
+http://www.wikidata.org/prop/direct/P10032,Museu da Pessoa History,3
+http://www.wikidata.org/prop/direct/P10166,Kinobaza person ID,3
+http://www.wikidata.org/prop/direct/P10189,Bloomsbury Fashion Central ID,3
+http://www.wikidata.org/prop/direct/P10231,WikiStrinda article ID,3
+http://www.wikidata.org/prop/direct/P10524,Zvuk artist ID,3
+http://www.wikidata.org/prop/direct/P10268,Kinofilms.ua actor ID,3
+http://www.wikidata.org/prop/direct/P10582,Author ID from the Modern Discussion website,3
+http://www.wikidata.org/prop/direct/P10646,ARTEINFORMADO person ID,3
 http://www.wikidata.org/prop/direct/P10677,Winterthur Glossar ID,3
-http://www.wikidata.org/prop/direct/P11831,Alabama Authors ID,3
-http://www.wikidata.org/prop/direct/P9778,Looted Cultural Assets Database ID,3
-http://www.wikidata.org/prop/direct/P12137,Linked Open Data Comune Firenze ID,3
-http://www.wikidata.org/prop/direct/P12173,Newman Numismatics Portal ID,3
-http://www.wikidata.org/prop/direct/P17,country,2
-http://www.wikidata.org/prop/direct/P138,named after,2
-http://www.wikidata.org/prop/direct/P270,CALIS ID,2
+http://www.wikidata.org/prop/direct/P10698,TEİS ID,3
+http://www.wikidata.org/prop/direct/P11003,Scinapse author ID,3
+http://www.wikidata.org/prop/direct/P11041,kulturstiftung.org person ID,3
+http://www.wikidata.org/prop/direct/P10883,The Encyclopedia of Fantasy ID,3
+http://www.wikidata.org/prop/direct/P11079,Linktree ID,3
+http://www.wikidata.org/prop/direct/P12176,Propylaeum-VITAE ID,3
+http://www.wikidata.org/prop/direct/P12192,SWERIK ID,3
+http://www.wikidata.org/prop/direct/P12299,Digicarmel ID,3
+http://www.wikidata.org/prop/direct/P154,logo image,2
 http://www.wikidata.org/prop/direct/P243,OCLC control number,2
-http://www.wikidata.org/prop/direct/P410,military rank,2
-http://www.wikidata.org/prop/direct/P428,botanist author abbreviation,2
-http://www.wikidata.org/prop/direct/P461,opposite of,2
+http://www.wikidata.org/prop/direct/P495,country of origin,2
 http://www.wikidata.org/prop/direct/P497,CBDB ID,2
-http://www.wikidata.org/prop/direct/P552,handedness,2
+http://www.wikidata.org/prop/direct/P541,office contested,2
+http://www.wikidata.org/prop/direct/P547,commemorates,2
 http://www.wikidata.org/prop/direct/P580,start time,2
 http://www.wikidata.org/prop/direct/P586,IPNI author ID,2
 http://www.wikidata.org/prop/direct/P585,point in time,2
-http://www.wikidata.org/prop/direct/P611,religious order,2
-http://www.wikidata.org/prop/direct/P746,date of disappearance,2
+http://www.wikidata.org/prop/direct/P428,botanist author abbreviation,2
+http://www.wikidata.org/prop/direct/P460,said to be the same as,2
+http://www.wikidata.org/prop/direct/P461,opposite of,2
 http://www.wikidata.org/prop/direct/P805,statement is subject of,2
-http://www.wikidata.org/prop/direct/P835,author citation (zoology),2
+http://www.wikidata.org/prop/direct/P664,organizer,2
+http://www.wikidata.org/prop/direct/P841,feast day,2
 http://www.wikidata.org/prop/direct/P953,full work available at URL,2
-http://www.wikidata.org/prop/direct/P968,email address,2
-http://www.wikidata.org/prop/direct/P1341,Italian Chamber of Deputies dati ID,2
+http://www.wikidata.org/prop/direct/P1027,conferred by,2
 http://www.wikidata.org/prop/direct/P1447,Sports-Reference.com Olympic athlete ID (archived),2
-http://www.wikidata.org/prop/direct/P1563,MacTutor biography ID,2
+http://www.wikidata.org/prop/direct/P1482,Stack Exchange tag,2
+http://www.wikidata.org/prop/direct/P1535,used by,2
+http://www.wikidata.org/prop/direct/P1599,Cambridge Alumni Database ID,2
+http://www.wikidata.org/prop/direct/P1595,charge,2
 http://www.wikidata.org/prop/direct/P1593,defender,2
-http://www.wikidata.org/prop/direct/P1636,date of baptism,2
-http://www.wikidata.org/prop/direct/P1648,Dictionary of Welsh Biography ID,2
-http://www.wikidata.org/prop/direct/P1714,Journalisted ID,2
 http://www.wikidata.org/prop/direct/P1775,follower of,2
-http://www.wikidata.org/prop/direct/P1782,courtesy name,2
-http://www.wikidata.org/prop/direct/P1853,blood type,2
-http://www.wikidata.org/prop/direct/P1942,McCune-Reischauer romanization,2
-http://www.wikidata.org/prop/direct/P1980,PolSys ID,2
-http://www.wikidata.org/prop/direct/P2001,revised romanization,2
-http://www.wikidata.org/prop/direct/P2015,Hansard (1803–2005) ID,2
-http://www.wikidata.org/prop/direct/P2011,Cooper-Hewitt person ID,2
-http://www.wikidata.org/prop/direct/P2266,FMD model ID,2
-http://www.wikidata.org/prop/direct/P2267,PolitiFact people and groups ID,2
-http://www.wikidata.org/prop/direct/P2332,Dictionary of Art Historians ID,2
-http://www.wikidata.org/prop/direct/P2383,CTHS person ID,2
-http://www.wikidata.org/prop/direct/P2390,Ballotpedia ID,2
-http://www.wikidata.org/prop/direct/P2450,Encyclopædia Britannica contributor ID,2
-http://www.wikidata.org/prop/direct/P2456,DBLP author ID,2
-http://www.wikidata.org/prop/direct/P2471,Models.com person ID,2
-http://www.wikidata.org/prop/direct/P2538,Nationalmuseum Sweden ID,2
-http://www.wikidata.org/prop/direct/P2572,hashtag,2
+http://www.wikidata.org/prop/direct/P1989,Encyclopaedia Metallum artist ID,2
+http://www.wikidata.org/prop/direct/P2037,GitHub username,2
+http://www.wikidata.org/prop/direct/P2070,Fellow of the Royal Society ID,2
+http://www.wikidata.org/prop/direct/P2080,AcademiaNet ID,2
+http://www.wikidata.org/prop/direct/P2276,UEFA player ID,2
+http://www.wikidata.org/prop/direct/P2298,NSDAP membership number (1925–1945),2
+http://www.wikidata.org/prop/direct/P2349,Stuttgart Database of Scientific Illustrators ID,2
+http://www.wikidata.org/prop/direct/P2354,has list,2
+http://www.wikidata.org/prop/direct/P2549,Italian Senate of the Republic ID,2
+http://www.wikidata.org/prop/direct/P2686,OpenSecrets people ID,2
+http://www.wikidata.org/prop/direct/P2888,exact match,2
 http://www.wikidata.org/prop/direct/P2977,LBT person ID,2
 http://www.wikidata.org/prop/direct/P2985,DBSE ID,2
-http://www.wikidata.org/prop/direct/P3106,Guardian topic ID,2
-http://www.wikidata.org/prop/direct/P3124,Polish scientist ID (deprecated),2
 http://www.wikidata.org/prop/direct/P3074,Grace's Guide ID,2
-http://www.wikidata.org/prop/direct/P3072,Storting person ID,2
-http://www.wikidata.org/prop/direct/P3269,Fotografen.nl ID,2
+http://www.wikidata.org/prop/direct/P3159,UGentMemorialis professor ID,2
 http://www.wikidata.org/prop/direct/P3277,KANTL member ID,2
-http://www.wikidata.org/prop/direct/P3298,Belgian Senate person ID,2
-http://www.wikidata.org/prop/direct/P3509,Dagens Nyheter topic ID,2
-http://www.wikidata.org/prop/direct/P3351,Adult Film Database actor ID,2
-http://www.wikidata.org/prop/direct/P3361,PictoRight ID code,2
-http://www.wikidata.org/prop/direct/P3603,Minneapolis Institute of Art constituent ID,2
-http://www.wikidata.org/prop/direct/P3747,SSRN author ID,2
-http://www.wikidata.org/prop/direct/P3786,Danskefilm person ID,2
-http://www.wikidata.org/prop/direct/P3829,Publons author ID,2
-http://www.wikidata.org/prop/direct/P3869,IAFD female performer ID,2
-http://www.wikidata.org/prop/direct/P3899,Medium username,2
-http://www.wikidata.org/prop/direct/P3919,contributed to creative work,2
-http://www.wikidata.org/prop/direct/P3935,Chamber of Deputies of Italy storia ID,2
-http://www.wikidata.org/prop/direct/P4084,MyAnimeList people ID,2
-http://www.wikidata.org/prop/direct/P4112,danskfilmogtv person ID,2
-http://www.wikidata.org/prop/direct/P4158,autores.ar ID,2
-http://www.wikidata.org/prop/direct/P4198,Google Play Music artist ID (former scheme),2
+http://www.wikidata.org/prop/direct/P3320,board member,2
+http://www.wikidata.org/prop/direct/P3341,Kvikmyndir person ID,2
+http://www.wikidata.org/prop/direct/P3479,Omni topic ID,2
+http://www.wikidata.org/prop/direct/P3475,SANU member ID,2
+http://www.wikidata.org/prop/direct/P3502,Ameblo username,2
+http://www.wikidata.org/prop/direct/P3537,FootballDatabase.eu person ID,2
+http://www.wikidata.org/prop/direct/P3721,public key fingerprint,2
+http://www.wikidata.org/prop/direct/P3812,Elle.fr person ID,2
+http://www.wikidata.org/prop/direct/P3828,wears,2
+http://www.wikidata.org/prop/direct/P3835,Mendeley person ID,2
+http://www.wikidata.org/prop/direct/P3900,CONICET person ID,2
+http://www.wikidata.org/prop/direct/P3909,last words,2
+http://www.wikidata.org/prop/direct/P3906,Ishim ID,2
+http://www.wikidata.org/prop/direct/P3913,MobyGames person ID,2
+http://www.wikidata.org/prop/direct/P3988,National Library Board Singapore ID,2
+http://www.wikidata.org/prop/direct/P4100,parliamentary group,2
+http://www.wikidata.org/prop/direct/P4114,ADK member ID,2
 http://www.wikidata.org/prop/direct/P4255,Banglapedia ID (English),2
-http://www.wikidata.org/prop/direct/P4332,Deutsche Synchronkartei actor ID,2
-http://www.wikidata.org/prop/direct/P4457,DAHR artist ID,2
-http://www.wikidata.org/prop/direct/P4471,Rush Parliamentary Archive ID,2
-http://www.wikidata.org/prop/direct/P4515,Prisma ID,2
-http://www.wikidata.org/prop/direct/P4521,Radio Radicale person ID,2
-http://www.wikidata.org/prop/direct/P4553,RA Collections ID,2
-http://www.wikidata.org/prop/direct/P4439,MNCARS artist ID,2
-http://www.wikidata.org/prop/direct/P4703,HATVP person ID,2
-http://www.wikidata.org/prop/direct/P5058,Encyklopedia Teatru Polskiego person ID,2
+http://www.wikidata.org/prop/direct/P4265,Reddit username,2
+http://www.wikidata.org/prop/direct/P4286,Nominis saint ID,2
+http://www.wikidata.org/prop/direct/P4283,LUMIERE director ID,2
+http://www.wikidata.org/prop/direct/P4326,BFI Filmography person ID,2
+http://www.wikidata.org/prop/direct/P4411,Quora username,2
+http://www.wikidata.org/prop/direct/P4440,Biblioteca Nacional de México ID,2
+http://www.wikidata.org/prop/direct/P4505,IAFD male performer ID,2
+http://www.wikidata.org/prop/direct/P4590,Atomic Heritage Foundation ID,2
+http://www.wikidata.org/prop/direct/P4779,MYmovies actor ID (former scheme),2
 http://www.wikidata.org/prop/direct/P4811,BWSA ID,2
-http://www.wikidata.org/prop/direct/P4808,Royal Academy new identifier,2
-http://www.wikidata.org/prop/direct/P5088,Internet Encyclopedia of Philosophy ID,2
-http://www.wikidata.org/prop/direct/P5163,Odnoklassniki ID,2
-http://www.wikidata.org/prop/direct/P5239,Artists in Canada record number,2
-http://www.wikidata.org/prop/direct/P5271,Saint Louis Art Museum person ID,2
-http://www.wikidata.org/prop/direct/P5273,Nelson-Atkins Museum of Art person ID,2
+http://www.wikidata.org/prop/direct/P4970,alternative name,2
+http://www.wikidata.org/prop/direct/P4997,National Governors Association biography URL,2
+http://www.wikidata.org/prop/direct/P5002,Orthodox Encyclopedia ID,2
+http://www.wikidata.org/prop/direct/P5035,Lambiek Comiclopedia artist ID,2
+http://www.wikidata.org/prop/direct/P5081,Norsk kunstnerleksikon ID,2
+http://www.wikidata.org/prop/direct/P5145,Bugs! artist ID,2
+http://www.wikidata.org/prop/direct/P5291,Taratata artist ID,2
 http://www.wikidata.org/prop/direct/P5324,Swedish National Archive reference code,2
 http://www.wikidata.org/prop/direct/P5390,Classiques des sciences sociales ID,2
-http://www.wikidata.org/prop/direct/P5414,The Paris Review interviewee ID,2
+http://www.wikidata.org/prop/direct/P5389,permanent resident of,2
+http://www.wikidata.org/prop/direct/P5441,Encyclopaedia Herder person ID,2
 http://www.wikidata.org/prop/direct/P5466,French Academy in Rome resident ID,2
-http://www.wikidata.org/prop/direct/P5477,Les Voix de la poésie poet ID,2
 http://www.wikidata.org/prop/direct/P5488,artist-info curator ID,2
-http://www.wikidata.org/prop/direct/P5503,Poetry Society of America poet ID,2
-http://www.wikidata.org/prop/direct/P5714,Tor.com author ID,2
 http://www.wikidata.org/prop/direct/P5613,Bibliothèque de la Pléiade ID,2
-http://www.wikidata.org/prop/direct/P5609,Split This Rock poet ID,2
-http://www.wikidata.org/prop/direct/P5618,LOA ID,2
 http://www.wikidata.org/prop/direct/P5632,Persons of Indian Studies ID,2
+http://www.wikidata.org/prop/direct/P5643,RSL author ID,2
+http://www.wikidata.org/prop/direct/P5641,PRELIB person ID,2
 http://www.wikidata.org/prop/direct/P5664,Savoirs ENS ID,2
-http://www.wikidata.org/prop/direct/P6015,Handbook of Texas ID,2
-http://www.wikidata.org/prop/direct/P5887,Arkivportalen agent ID,2
-http://www.wikidata.org/prop/direct/P6119,Letterboxd actor ID,2
-http://www.wikidata.org/prop/direct/P6298,bgm.tv person ID,2
-http://www.wikidata.org/prop/direct/P6351,Genius artist numeric ID,2
-http://www.wikidata.org/prop/direct/P6750,CineChile filmmaker ID,2
-http://www.wikidata.org/prop/direct/P6760,Know Your Meme ID,2
-http://www.wikidata.org/prop/direct/P6645,Stedelijk Museum Amsterdam ID,2
-http://www.wikidata.org/prop/direct/P6925,Musicalics composer ID,2
-http://www.wikidata.org/prop/direct/P6921,MangaSeek person ID,2
-http://www.wikidata.org/prop/direct/P6839,TV Tropes ID,2
-http://www.wikidata.org/prop/direct/P7109,Acharts.co artist ID,2
-http://www.wikidata.org/prop/direct/P7157,The Top Tens ID,2
-http://www.wikidata.org/prop/direct/P6988,Hungarian National Namespace person ID (old),2
-http://www.wikidata.org/prop/direct/P6984,Rupa Publications author ID,2
-http://www.wikidata.org/prop/direct/P7300,MUBI person ID,2
-http://www.wikidata.org/prop/direct/P7520,Filmový přehled person ID,2
-http://www.wikidata.org/prop/direct/P7558,Inguma author ID,2
-http://www.wikidata.org/prop/direct/P7507,Ben Yehuda author ID,2
-http://www.wikidata.org/prop/direct/P7504,Jeugdliteratuur ID,2
+http://www.wikidata.org/prop/direct/P5776,Arnet Miner author ID,2
+http://www.wikidata.org/prop/direct/P5801,Academia.edu topic ID,2
+http://www.wikidata.org/prop/direct/P5213,Armenian Parliamentary ID,2
+http://www.wikidata.org/prop/direct/P5233,Filmow ID,2
+http://www.wikidata.org/prop/direct/P5259,Swedish Gravestone ID,2
+http://www.wikidata.org/prop/direct/P5271,Saint Louis Art Museum person ID,2
+http://www.wikidata.org/prop/direct/P5287,Songfacts artist ID,2
+http://www.wikidata.org/prop/direct/P5506,Poetry In Voice poet ID,2
+http://www.wikidata.org/prop/direct/P5871,Norwegian war refugees register ID,2
+http://www.wikidata.org/prop/direct/P5908,Geheugen van de VU person ID,2
+http://www.wikidata.org/prop/direct/P6083,Cineuropa person ID,2
+http://www.wikidata.org/prop/direct/P6828,Czech parliament ID,2
+http://www.wikidata.org/prop/direct/P6874,Musixmatch artist ID,2
+http://www.wikidata.org/prop/direct/P6873,IntraText author ID,2
+http://www.wikidata.org/prop/direct/P7038,Documenta Catholica Omnia author ID,2
+http://www.wikidata.org/prop/direct/P7071,Qobuz artist ID,2
+http://www.wikidata.org/prop/direct/P7140,München Wiki article ID,2
+http://www.wikidata.org/prop/direct/P7200,SongMeanings artist ID,2
+http://www.wikidata.org/prop/direct/P7277,Pandora artist ID,2
+http://www.wikidata.org/prop/direct/P7286,Writers Guild of America writer ID,2
+http://www.wikidata.org/prop/direct/P7349,Gazetteer for Scotland person ID,2
+http://www.wikidata.org/prop/direct/P7374,educational stage,2
+http://www.wikidata.org/prop/direct/P7553,Sinemalar person ID,2
+http://www.wikidata.org/prop/direct/P7604,supervised by,2
+http://www.wikidata.org/prop/direct/P7619,The Cardinals of the Holy Roman Church ID,2
+http://www.wikidata.org/prop/direct/P7627,Artsdata.ca ID,2
+http://www.wikidata.org/prop/direct/P7638,OverDrive creator ID,2
 http://www.wikidata.org/prop/direct/P7676,Vie publique person ID,2
-http://www.wikidata.org/prop/direct/P7687,Kansaspedia ID,2
-http://www.wikidata.org/prop/direct/P8044,Frankfurter Personenlexikon ID,2
-http://www.wikidata.org/prop/direct/P7952,The First Amendment Encyclopedia ID,2
-http://www.wikidata.org/prop/direct/P8207,The Conversation author ID,2
-http://www.wikidata.org/prop/direct/P8214,curriculum vitae URL,2
-http://www.wikidata.org/prop/direct/P8223,K-Scholar ID,2
-http://www.wikidata.org/prop/direct/P8238,Bibliography of the History of Slovakia ID,2
-http://www.wikidata.org/prop/direct/P8235,LiederNet composer ID,2
-http://www.wikidata.org/prop/direct/P8287,Worlds Without End author ID,2
-http://www.wikidata.org/prop/direct/P8295,AustLit ID,2
-http://www.wikidata.org/prop/direct/P8292,AusStage person ID,2
+http://www.wikidata.org/prop/direct/P7690,South Carolina Encyclopedia ID,2
+http://www.wikidata.org/prop/direct/P7691,The Oregon Encyclopedia ID,2
+http://www.wikidata.org/prop/direct/P7688,Mississippi Encyclopedia ID,2
+http://www.wikidata.org/prop/direct/P7709,ScienceOpen author ID,2
+http://www.wikidata.org/prop/direct/P6908,Cameo ID,2
+http://www.wikidata.org/prop/direct/P6914,Gaana artist ID,2
+http://www.wikidata.org/prop/direct/P6921,MangaSeek person ID,2
+http://www.wikidata.org/prop/direct/P6988,Hungarian National Namespace person ID (old),2
+http://www.wikidata.org/prop/direct/P7898,National Aviation Hall of Fame ID,2
+http://www.wikidata.org/prop/direct/P7926,Visual AIDS Artist+ Registry ID,2
+http://www.wikidata.org/prop/direct/P7923,Bollywood Hungama person alphabetic ID,2
+http://www.wikidata.org/prop/direct/P8037,Filmfront person ID (archived),2
+http://www.wikidata.org/prop/direct/P8080,Ökumenisches Heiligenlexikon ID,2
+http://www.wikidata.org/prop/direct/P8155,Republic of Korea Parliamentarian Society ID,2
 http://www.wikidata.org/prop/direct/P8290,Archivio Storico Ricordi person ID,2
-http://www.wikidata.org/prop/direct/P7836,Livelib.ru person ID,2
-http://www.wikidata.org/prop/direct/P7848,Frick Art Reference Library Artist File ID,2
-http://www.wikidata.org/prop/direct/P8446,Gateway to Research person ID,2
+http://www.wikidata.org/prop/direct/P8381,Emmys person ID,2
+http://www.wikidata.org/prop/direct/P8415,Maniadb artist ID,2
+http://www.wikidata.org/prop/direct/P8413,academic appointment,2
+http://www.wikidata.org/prop/direct/P8432,Österreichisches Musiklexikon Online ID,2
 http://www.wikidata.org/prop/direct/P8518,Henrik Ibsen writings ID,2
 http://www.wikidata.org/prop/direct/P8523,Présence Compositrices composer ID,2
+http://www.wikidata.org/prop/direct/P8569,YIVO Encyclopedia of Jews in Eastern Europe ID,2
 http://www.wikidata.org/prop/direct/P8577,ICP artist ID,2
 http://www.wikidata.org/prop/direct/P8590,Jewish Encyclopedia ID,2
 http://www.wikidata.org/prop/direct/P8631,Canadian Women Artists History Initiative ID,2
-http://www.wikidata.org/prop/direct/P8805,LIMIS person ID,2
-http://www.wikidata.org/prop/direct/P8819,Pitchfork artist ID,2
-http://www.wikidata.org/prop/direct/P8999,Lexikon zum Literatur- und Kulturbetrieb im Österreich der Zwischenkriegszeit ID,2
-http://www.wikidata.org/prop/direct/P9044,GEPRIS Historisch person ID,2
+http://www.wikidata.org/prop/direct/P8625,bibliography,2
+http://www.wikidata.org/prop/direct/P8637,L'Officiel des spectacles ID,2
 http://www.wikidata.org/prop/direct/P8643,Dostoyevsky and His Entourage ID,2
-http://www.wikidata.org/prop/direct/P8718,AVN person ID,2
-http://www.wikidata.org/prop/direct/P9285,Stadtlexikon Karlsruhe ID,2
-http://www.wikidata.org/prop/direct/P8850,CONOR.KS ID,2
-http://www.wikidata.org/prop/direct/P8870,Hyperion Records person ID,2
-http://www.wikidata.org/prop/direct/P8879,Kinorium person ID,2
+http://www.wikidata.org/prop/direct/P8826,edition humboldt digital ID,2
+http://www.wikidata.org/prop/direct/P8854,Salzburgwiki ID,2
 http://www.wikidata.org/prop/direct/P8895,All the Tropes ID,2
 http://www.wikidata.org/prop/direct/P8896,Concise Literary Encyclopedia ID,2
-http://www.wikidata.org/prop/direct/P8914,ZOBODAT person ID,2
-http://www.wikidata.org/prop/direct/P9871,INAPP author ID,2
-http://www.wikidata.org/prop/direct/P9864,Télé-Loisirs ID,2
-http://www.wikidata.org/prop/direct/P9419,personal library at,2
-http://www.wikidata.org/prop/direct/P10021,UAE University Libraries ID,2
-http://www.wikidata.org/prop/direct/P10018,George Eastman Museum people ID,2
-http://www.wikidata.org/prop/direct/P10033,Biografija.ru ID,2
-http://www.wikidata.org/prop/direct/P10189,Bloomsbury Fashion Central ID,2
-http://www.wikidata.org/prop/direct/P10231,WikiStrinda article ID,2
-http://www.wikidata.org/prop/direct/P10234,Der Spiegel topic ID,2
-http://www.wikidata.org/prop/direct/P10307,CYT/CCS,2
-http://www.wikidata.org/prop/direct/P10328,ICPSR Personal Names Authority List ID,2
+http://www.wikidata.org/prop/direct/P8982,Pontificio Istituto di Archeologia Cristiana ID,2
+http://www.wikidata.org/prop/direct/P8999,Lexikon zum Literatur- und Kulturbetrieb im Österreich der Zwischenkriegszeit ID,2
+http://www.wikidata.org/prop/direct/P9001,Literary Encyclopedia ID,2
+http://www.wikidata.org/prop/direct/P9020,AV Production person ID,2
+http://www.wikidata.org/prop/direct/P9044,GEPRIS Historisch person ID,2
+http://www.wikidata.org/prop/direct/P9102,CineFanRo person ID,2
+http://www.wikidata.org/prop/direct/P9223,Provenio UUID,2
+http://www.wikidata.org/prop/direct/P9231,Archivo Linz de la Transición Española ID,2
+http://www.wikidata.org/prop/direct/P9256,Diccionari de la traducció catalana ID,2
+http://www.wikidata.org/prop/direct/P9267,ANPI person numeric ID,2
+http://www.wikidata.org/prop/direct/P9287,Cyprus Bibliography ID,2
+http://www.wikidata.org/prop/direct/P9285,Stadtlexikon Karlsruhe ID,2
+http://www.wikidata.org/prop/direct/P9289,Filmitalia person ID,2
+http://www.wikidata.org/prop/direct/P9298,Encyclopedia of Plzeň person ID,2
+http://www.wikidata.org/prop/direct/P9305,Max Movie person ID,2
+http://www.wikidata.org/prop/direct/P9318,Ávvir topic ID,2
+http://www.wikidata.org/prop/direct/P9337,Keratsini-Drapetsona libraries' catalogue authority ID,2
+http://www.wikidata.org/prop/direct/P9484,J! Archive player ID,2
 http://www.wikidata.org/prop/direct/P9482,Catalogue of the General State Archives ID,2
+http://www.wikidata.org/prop/direct/P9510,Forbes Russia profile ID,2
+http://www.wikidata.org/prop/direct/P9520,Auschwitz Prisoners Database ID,2
 http://www.wikidata.org/prop/direct/P9543,Memento Vienna person ID,2
-http://www.wikidata.org/prop/direct/P10646,ARTEINFORMADO person ID,2
+http://www.wikidata.org/prop/direct/P9536,SAIA authority ID,2
+http://www.wikidata.org/prop/direct/P9556,LTit person ID,2
 http://www.wikidata.org/prop/direct/P9564,Biographical Dictionary of Chinese Christianity ID,2
 http://www.wikidata.org/prop/direct/P9579,vedidk ID,2
-http://www.wikidata.org/prop/direct/P11041,kulturstiftung.org person ID,2
-http://www.wikidata.org/prop/direct/P10670,Musik und Gender im Internet ID,2
-http://www.wikidata.org/prop/direct/P10698,TEİS ID,2
-http://www.wikidata.org/prop/direct/P10723,TheGuardian.com profile ID,2
-http://www.wikidata.org/prop/direct/P11120,Rai Teche person ID,2
-http://www.wikidata.org/prop/direct/P11158,Dimitri and Aliki Perrotis Central Library ID,2
-http://www.wikidata.org/prop/direct/P9678,Franciscan Center of Christian Oriental Studies ID,2
-http://www.wikidata.org/prop/direct/P9686,Classical Archives composer ID,2
-http://www.wikidata.org/prop/direct/P11826,Media Library for Dance and Theatre person ID,2
-http://www.wikidata.org/prop/direct/P11271,African American Visual Artists Database ID,2
-http://www.wikidata.org/prop/direct/P10883,The Encyclopedia of Fantasy ID,2
-http://www.wikidata.org/prop/direct/P9756,Schoenberg Database of Manuscripts name ID,2
+http://www.wikidata.org/prop/direct/P9612,Repositório da Produção da USP person ID,2
 http://www.wikidata.org/prop/direct/P9780,The Women's Print History Project person ID,2
-http://www.wikidata.org/prop/direct/P12076,Nordic Women in Film-ID,2
-http://www.wikidata.org/prop/direct/P12192,SWERIK ID,2
-http://www.wikidata.org/prop/direct/P12363,clerked for,2
+http://www.wikidata.org/prop/direct/P9792,Alsharek Archive author ID,2
+http://www.wikidata.org/prop/direct/P9856,Al-Jazeera author ID,2
+http://www.wikidata.org/prop/direct/P9694,VK Music artist ID,2
+http://www.wikidata.org/prop/direct/P9756,Schoenberg Database of Manuscripts name ID,2
+http://www.wikidata.org/prop/direct/P9937,Postimees topic ID,2
+http://www.wikidata.org/prop/direct/P10023,Museu da Pessoa person ID,2
+http://www.wikidata.org/prop/direct/P10086,Australian Prints + Printmaking artist ID,2
+http://www.wikidata.org/prop/direct/P10160,PGM author ID,2
+http://www.wikidata.org/prop/direct/P10373,Mnemosine ID,2
+http://www.wikidata.org/prop/direct/P10452,Renacyt ID,2
+http://www.wikidata.org/prop/direct/P10469,HaBima Archive person ID,2
+http://www.wikidata.org/prop/direct/P10299,Leopoldina member ID (new),2
+http://www.wikidata.org/prop/direct/P10670,Musik und Gender im Internet ID,2
+http://www.wikidata.org/prop/direct/P10707,AccessScience ID,2
+http://www.wikidata.org/prop/direct/P10767,Twitter moment ID,2
+http://www.wikidata.org/prop/direct/P10846,CEU author ID,2
+http://www.wikidata.org/prop/direct/P10861,Springer Nature person ID,2
+http://www.wikidata.org/prop/direct/P10900,Telmore Musik artist ID,2
+http://www.wikidata.org/prop/direct/P10909,Theatrical Index person ID,2
+http://www.wikidata.org/prop/direct/P11090,Boomplay artist ID,2
+http://www.wikidata.org/prop/direct/P11316,BRUZZ topic ID,2
 http://www.wikidata.org/prop/direct/P11613,SACEM Museum artist ID,2
 http://www.wikidata.org/prop/direct/P11626,Vintage Fashion Guild label,2
-http://www.wikidata.org/prop/direct/P11646,Deutsche Synchronkartei person ID,2
+http://www.wikidata.org/prop/direct/P11800,stats.fm artist ID,2
+http://www.wikidata.org/prop/direct/P11819,Netflix person ID,2
+http://www.wikidata.org/prop/direct/P11828,Marsilio Editori author ID,2
+http://www.wikidata.org/prop/direct/P11825,LiteraturPort autorenlexikon ID,2
+http://www.wikidata.org/prop/direct/P11873,parliament.bg MP ID,2
+http://www.wikidata.org/prop/direct/P12060,DBIL ID,2
+http://www.wikidata.org/prop/direct/P12191,Alaska Women’s Hall of Fame ID,2
+http://www.wikidata.org/prop/direct/P12320,Moviebuff ID,2
+http://www.wikidata.org/prop/direct/P12349,NientePopCorn person ID,2
+http://www.wikidata.org/prop/direct/P12355,Merkur author page,2
 http://www.wikidata.org/prop/direct/P6,head of government,1
-http://www.wikidata.org/prop/direct/P94,coat of arms image,1
+http://www.wikidata.org/prop/direct/P98,editor,1
 http://www.wikidata.org/prop/direct/P123,publisher,1
 http://www.wikidata.org/prop/direct/P158,seal image,1
 http://www.wikidata.org/prop/direct/P159,headquarters location,1
-http://www.wikidata.org/prop/direct/P157,killed by,1
-http://www.wikidata.org/prop/direct/P276,location,1
+http://www.wikidata.org/prop/direct/P169,chief executive officer,1
+http://www.wikidata.org/prop/direct/P178,developer,1
 http://www.wikidata.org/prop/direct/P217,inventory number,1
-http://www.wikidata.org/prop/direct/P412,voice type,1
-http://www.wikidata.org/prop/direct/P460,said to be the same as,1
-http://www.wikidata.org/prop/direct/P528,catalog code,1
-http://www.wikidata.org/prop/direct/P547,commemorates,1
+http://www.wikidata.org/prop/direct/P248,stated in,1
 http://www.wikidata.org/prop/direct/P577,publication date,1
 http://www.wikidata.org/prop/direct/P599,ITF player ID before 2020 (archived),1
+http://www.wikidata.org/prop/direct/P417,patron saint,1
+http://www.wikidata.org/prop/direct/P452,industry,1
+http://www.wikidata.org/prop/direct/P474,country calling code,1
 http://www.wikidata.org/prop/direct/P741,playing hand,1
+http://www.wikidata.org/prop/direct/P767,contributor to the creative work or subject,1
+http://www.wikidata.org/prop/direct/P823,speaker,1
+http://www.wikidata.org/prop/direct/P708,diocese,1
 http://www.wikidata.org/prop/direct/P860,e-archiv.li ID,1
+http://www.wikidata.org/prop/direct/P861,PremiershipRugby.com player ID (obsolete),1
+http://www.wikidata.org/prop/direct/P858,ESPNscrum player ID,1
+http://www.wikidata.org/prop/direct/P864,ACM Digital Library author ID,1
 http://www.wikidata.org/prop/direct/P886,Lexicon istoric retic ID,1
 http://www.wikidata.org/prop/direct/P888,JSTOR article ID,1
-http://www.wikidata.org/prop/direct/P898,IPA transcription,1
-http://www.wikidata.org/prop/direct/P921,main subject,1
+http://www.wikidata.org/prop/direct/P941,inspired by,1
 http://www.wikidata.org/prop/direct/P972,catalog,1
-http://www.wikidata.org/prop/direct/P1007,Lattes Platform number,1
+http://www.wikidata.org/prop/direct/P998,Curlie ID,1
+http://www.wikidata.org/prop/direct/P1039,kinship to subject,1
 http://www.wikidata.org/prop/direct/P1035,honorific suffix,1
-http://www.wikidata.org/prop/direct/P1048,NCL ID,1
-http://www.wikidata.org/prop/direct/P1157,US Congress Bio ID,1
-http://www.wikidata.org/prop/direct/P1187,Dharma Drum Institute of Liberal Arts person ID,1
+http://www.wikidata.org/prop/direct/P1045,Sycomore ID,1
+http://www.wikidata.org/prop/direct/P1056,product or material produced or service provided,1
+http://www.wikidata.org/prop/direct/P1149,Library of Congress Classification,1
 http://www.wikidata.org/prop/direct/P1214,Riksdagen person-ID,1
+http://www.wikidata.org/prop/direct/P1229,Openpolis ID,1
+http://www.wikidata.org/prop/direct/P1255,HelveticArchives ID,1
 http://www.wikidata.org/prop/direct/P1291,Association Authors of Switzerland ID (former scheme),1
 http://www.wikidata.org/prop/direct/P1288,Kritisches Lexikon der Gegenwartsliteratur ID,1
-http://www.wikidata.org/prop/direct/P1599,Cambridge Alumni Database ID,1
+http://www.wikidata.org/prop/direct/P1307,Swiss parliament ID,1
+http://www.wikidata.org/prop/direct/P1346,winner,1
+http://www.wikidata.org/prop/direct/P1362,Theaterlexikon der Schweiz ID,1
+http://www.wikidata.org/prop/direct/P1392,ComicBookDB Creator ID,1
+http://www.wikidata.org/prop/direct/P1469,FIFA player ID (archived),1
 http://www.wikidata.org/prop/direct/P1608,Dialnet book ID,1
 http://www.wikidata.org/prop/direct/P1618,sport number,1
-http://www.wikidata.org/prop/direct/P1651,YouTube video ID,1
 http://www.wikidata.org/prop/direct/P1807,Great Aragonese Encyclopedia ID,1
 http://www.wikidata.org/prop/direct/P1842,Global Anabaptist Mennonite Encyclopedia Online ID,1
 http://www.wikidata.org/prop/direct/P1869,Hall of Valor ID,1
-http://www.wikidata.org/prop/direct/P2021,Erdős number,1
+http://www.wikidata.org/prop/direct/P1883,Declarator.org ID,1
+http://www.wikidata.org/prop/direct/P1982,Anime News Network person ID,1
+http://www.wikidata.org/prop/direct/P2006,ZooBank author ID,1
+http://www.wikidata.org/prop/direct/P2020,WorldFootball.net person ID,1
 http://www.wikidata.org/prop/direct/P2029,Dictionary of Ulster Biography ID,1
 http://www.wikidata.org/prop/direct/P2041,National Gallery of Victoria artist ID,1
 http://www.wikidata.org/prop/direct/P2071,Mémoire des hommes ID,1
 http://www.wikidata.org/prop/direct/P2087,Crunchbase person ID,1
+http://www.wikidata.org/prop/direct/P2094,competition class,1
+http://www.wikidata.org/prop/direct/P2093,author name string,1
 http://www.wikidata.org/prop/direct/P2181,Finnish MP ID,1
-http://www.wikidata.org/prop/direct/P2276,UEFA player ID,1
-http://www.wikidata.org/prop/direct/P2287,CRIStin ID,1
-http://www.wikidata.org/prop/direct/P2298,NSDAP membership number (1925–1945),1
-http://www.wikidata.org/prop/direct/P2349,Stuttgart Database of Scientific Illustrators ID,1
+http://www.wikidata.org/prop/direct/P2194,PSS-archi architect ID,1
+http://www.wikidata.org/prop/direct/P2283,uses,1
+http://www.wikidata.org/prop/direct/P2342,AGORHA person/institution ID,1
+http://www.wikidata.org/prop/direct/P2369,Soccerway person ID,1
 http://www.wikidata.org/prop/direct/P2389,organization directed by the office or position,1
 http://www.wikidata.org/prop/direct/P2416,sports discipline competed in,1
-http://www.wikidata.org/prop/direct/P2477,BDRC Resource ID,1
+http://www.wikidata.org/prop/direct/P2485,FMD photographer ID,1
+http://www.wikidata.org/prop/direct/P2492,MTMT author ID,1
+http://www.wikidata.org/prop/direct/P2510,National Discography of Italian Song artist/group ID,1
+http://www.wikidata.org/prop/direct/P2578,is the study of,1
+http://www.wikidata.org/prop/direct/P2652,partnership with,1
+http://www.wikidata.org/prop/direct/P2729,BWF.tournamentsoftware.com player ID,1
 http://www.wikidata.org/prop/direct/P2789,connects with,1
-http://www.wikidata.org/prop/direct/P2888,exact match,1
-http://www.wikidata.org/prop/direct/P2959,permanent duplicated item,1
-http://www.wikidata.org/prop/direct/P3123,Stanford Encyclopedia of Philosophy ID,1
-http://www.wikidata.org/prop/direct/P3136,elCinema person ID,1
-http://www.wikidata.org/prop/direct/P3144,elFilm person ID,1
-http://www.wikidata.org/prop/direct/P3159,UGentMemorialis professor ID,1
-http://www.wikidata.org/prop/direct/P3017,Rolling Stone artist ID,1
+http://www.wikidata.org/prop/direct/P2798,Loop ID,1
+http://www.wikidata.org/prop/direct/P2943,warheroes.ru ID,1
+http://www.wikidata.org/prop/direct/P3018,located in protected area,1
+http://www.wikidata.org/prop/direct/P3045,HanCinema person ID,1
 http://www.wikidata.org/prop/direct/P3055,NAQ elected person ID,1
-http://www.wikidata.org/prop/direct/P3056,TCM Movie Database person ID,1
-http://www.wikidata.org/prop/direct/P3267,Flickr user ID,1
+http://www.wikidata.org/prop/direct/P3058,Architectuurgids architect ID,1
+http://www.wikidata.org/prop/direct/P3075,official religion,1
+http://www.wikidata.org/prop/direct/P3150,birthday,1
+http://www.wikidata.org/prop/direct/P3162,Rock and Roll Hall of Fame ID,1
+http://www.wikidata.org/prop/direct/P3160,Minnesota legislator ID,1
+http://www.wikidata.org/prop/direct/P3241,Catholic Encyclopedia ID,1
 http://www.wikidata.org/prop/direct/P3307,Galiciana authority ID,1
-http://www.wikidata.org/prop/direct/P3320,board member,1
+http://www.wikidata.org/prop/direct/P3325,student register of the University of Helsinki ID (1853–1899),1
+http://www.wikidata.org/prop/direct/P3366,GECD person ID,1
+http://www.wikidata.org/prop/direct/P3372,Auckland Art Gallery artist ID,1
+http://www.wikidata.org/prop/direct/P3390,NLB authority ID,1
+http://www.wikidata.org/prop/direct/P3389,Royal Swedish Academy of Letters member ID,1
+http://www.wikidata.org/prop/direct/P3413,Leopoldina member ID (superseded),1
 http://www.wikidata.org/prop/direct/P3429,Electronic Enlightenment ID,1
 http://www.wikidata.org/prop/direct/P3436,AELG ID,1
+http://www.wikidata.org/prop/direct/P3445,Cinema of Israel ID,1
+http://www.wikidata.org/prop/direct/P3455,CircleID writer ID,1
 http://www.wikidata.org/prop/direct/P3453,IPI base code,1
-http://www.wikidata.org/prop/direct/P3448,stepparent,1
 http://www.wikidata.org/prop/direct/P3468,National Inventors Hall of Fame ID,1
-http://www.wikidata.org/prop/direct/P3502,Ameblo username,1
-http://www.wikidata.org/prop/direct/P3325,student register of the University of Helsinki ID (1853–1899),1
-http://www.wikidata.org/prop/direct/P3346,HKMDB person ID,1
-http://www.wikidata.org/prop/direct/P3344,Vote Smart candidate ID,1
-http://www.wikidata.org/prop/direct/P3372,Auckland Art Gallery artist ID,1
-http://www.wikidata.org/prop/direct/P3389,Royal Swedish Academy of Letters member ID,1
-http://www.wikidata.org/prop/direct/P3579,Weibo user ID,1
-http://www.wikidata.org/prop/direct/P3706,RITVA Person ID,1
+http://www.wikidata.org/prop/direct/P3620,BWFbadminton.com player ID,1
+http://www.wikidata.org/prop/direct/P3660,FootballFacts.ru person ID,1
+http://www.wikidata.org/prop/direct/P3666,EPCR player ID,1
+http://www.wikidata.org/prop/direct/P3708,PhDTree person ID,1
+http://www.wikidata.org/prop/direct/P3730,next higher rank,1
+http://www.wikidata.org/prop/direct/P3729,next lower rank,1
 http://www.wikidata.org/prop/direct/P3748,Israel Football Association player ID,1
-http://www.wikidata.org/prop/direct/P3828,wears,1
+http://www.wikidata.org/prop/direct/P3769,It's Rugby player ID,1
+http://www.wikidata.org/prop/direct/P3814,BoF person ID,1
+http://www.wikidata.org/prop/direct/P3831,object has role,1
+http://www.wikidata.org/prop/direct/P3888,Boijmans artist ID,1
+http://www.wikidata.org/prop/direct/P3910,Bollywood Hungama person numeric ID,1
 http://www.wikidata.org/prop/direct/P3956,National Academy of Medicine (France) member ID,1
 http://www.wikidata.org/prop/direct/P3964,BDCYL authority ID,1
-http://www.wikidata.org/prop/direct/P3988,National Library Board Singapore ID,1
-http://www.wikidata.org/prop/direct/P4033,Mastodon address,1
-http://www.wikidata.org/prop/direct/P3845,TV Guide person ID (former scheme),1
-http://www.wikidata.org/prop/direct/P3857,Cinenacional.com person ID,1
-http://www.wikidata.org/prop/direct/P3888,Boijmans artist ID,1
-http://www.wikidata.org/prop/direct/P3900,CONICET person ID,1
-http://www.wikidata.org/prop/direct/P3913,MobyGames person ID,1
-http://www.wikidata.org/prop/direct/P3933,Cinema.de ID,1
-http://www.wikidata.org/prop/direct/P4100,parliamentary group,1
-http://www.wikidata.org/prop/direct/P4123,French National Assembly ID,1
+http://www.wikidata.org/prop/direct/P4013,Giphy username,1
+http://www.wikidata.org/prop/direct/P4008,Early Aviators people ID,1
+http://www.wikidata.org/prop/direct/P4026,Cullum number,1
+http://www.wikidata.org/prop/direct/P4101,dissertation submitted to,1
+http://www.wikidata.org/prop/direct/P4138,Treasury of Lives ID,1
+http://www.wikidata.org/prop/direct/P4139,National Assembly of Nigeria ID,1
 http://www.wikidata.org/prop/direct/P4169,YCBA agent ID,1
 http://www.wikidata.org/prop/direct/P4177,Finnish National Gallery artist ID,1
+http://www.wikidata.org/prop/direct/P4204,The Times of India topic ID,1
 http://www.wikidata.org/prop/direct/P4212,PACTOLS thesaurus ID,1
-http://www.wikidata.org/prop/direct/P4228,Encyclopedia of Australian Science ID,1
+http://www.wikidata.org/prop/direct/P4226,Cyworld ID,1
 http://www.wikidata.org/prop/direct/P4254,Banglapedia ID (Bengali),1
-http://www.wikidata.org/prop/direct/P4252,All-Russian Mathematical Portal ID,1
-http://www.wikidata.org/prop/direct/P4286,Nominis saint ID,1
 http://www.wikidata.org/prop/direct/P4300,YouTube playlist ID,1
+http://www.wikidata.org/prop/direct/P4351,Cravo Albin artist ID,1
 http://www.wikidata.org/prop/direct/P4357,Musikverket person ID,1
 http://www.wikidata.org/prop/direct/P4353,nominated by,1
 http://www.wikidata.org/prop/direct/P4361,ExecutedToday ID,1
-http://www.wikidata.org/prop/direct/P4381,Soccerdonna player ID,1
-http://www.wikidata.org/prop/direct/P4440,Biblioteca Nacional de México ID,1
+http://www.wikidata.org/prop/direct/P4391,The-Sports.org athlete ID,1
+http://www.wikidata.org/prop/direct/P4454,Argentine Chamber of Deputies ID,1
+http://www.wikidata.org/prop/direct/P4473,Melon artist ID,1
+http://www.wikidata.org/prop/direct/P4493,Barbarian F.C. ID,1
 http://www.wikidata.org/prop/direct/P4563,Art Museum of Estonia artist ID,1
 http://www.wikidata.org/prop/direct/P4581,Städel Museum artist ID,1
 http://www.wikidata.org/prop/direct/P4607,Swedish Musical Heritage ID,1
 http://www.wikidata.org/prop/direct/P4601,Lives of WWI ID,1
 http://www.wikidata.org/prop/direct/P4620,Merkelstiftung person ID,1
 http://www.wikidata.org/prop/direct/P4660,CPDOC ID,1
+http://www.wikidata.org/prop/direct/P4667,Buenos Aires legislator ID,1
 http://www.wikidata.org/prop/direct/P4687,Dictionnaire des peintres belges ID,1
-http://www.wikidata.org/prop/direct/P4970,alternative name,1
-http://www.wikidata.org/prop/direct/P4992,DBA ID,1
-http://www.wikidata.org/prop/direct/P5007,Behind The Voice Actors person ID,1
-http://www.wikidata.org/prop/direct/P5021,assessment,1
-http://www.wikidata.org/prop/direct/P4768,cinematografo.it name or company ID,1
-http://www.wikidata.org/prop/direct/P4782,Movieplayer person ID,1
+http://www.wikidata.org/prop/direct/P4747,Line Music artist ID,1
 http://www.wikidata.org/prop/direct/P4785,MYmovies name ID (former scheme),1
-http://www.wikidata.org/prop/direct/P4797,member of the Assembly of Madrid ID,1
+http://www.wikidata.org/prop/direct/P4869,Operabase ID,1
+http://www.wikidata.org/prop/direct/P4931,Todotango.com person ID,1
 http://www.wikidata.org/prop/direct/P4939,VERIF ID,1
-http://www.wikidata.org/prop/direct/P5081,Norsk kunstnerleksikon ID,1
+http://www.wikidata.org/prop/direct/P4992,DBA ID,1
+http://www.wikidata.org/prop/direct/P5029,Researchmap ID,1
+http://www.wikidata.org/prop/direct/P5121,All About Jazz musician ID,1
 http://www.wikidata.org/prop/direct/P5142,Chinese Political Elites Database ID,1
 http://www.wikidata.org/prop/direct/P5147,Dictionary of Swedish Translators ID,1
+http://www.wikidata.org/prop/direct/P5154,KKBox artist ID,1
 http://www.wikidata.org/prop/direct/P5175,Univ-droit jurist ID,1
 http://www.wikidata.org/prop/direct/P5184,Daum Encyclopedia ID,1
-http://www.wikidata.org/prop/direct/P5246,Pornhub star ID,1
-http://www.wikidata.org/prop/direct/P5254,FilmTv.it person ID,1
-http://www.wikidata.org/prop/direct/P5259,Swedish Gravestone ID,1
-http://www.wikidata.org/prop/direct/P5267,YouPorn performer ID,1
-http://www.wikidata.org/prop/direct/P5287,Songfacts artist ID,1
+http://www.wikidata.org/prop/direct/P5301,France Culture person ID (DEPRECATED),1
 http://www.wikidata.org/prop/direct/P5319,César Award person ID,1
+http://www.wikidata.org/prop/direct/P5312,Kino-teatr.ua person ID,1
 http://www.wikidata.org/prop/direct/P5320,IUF member ID,1
+http://www.wikidata.org/prop/direct/P5333,Bérose ID,1
+http://www.wikidata.org/prop/direct/P5346,Playboy Plus ID,1
 http://www.wikidata.org/prop/direct/P5359,Operone composer ID,1
-http://www.wikidata.org/prop/direct/P5356,Laut.de artist ID,1
 http://www.wikidata.org/prop/direct/P5370,Entomologists of the World ID,1
-http://www.wikidata.org/prop/direct/P5392,Poetry Archive poet ID,1
-http://www.wikidata.org/prop/direct/P5408,Fantastic Fiction author ID,1
+http://www.wikidata.org/prop/direct/P5393,cipM poet ID,1
 http://www.wikidata.org/prop/direct/P5409,Île en île author ID,1
-http://www.wikidata.org/prop/direct/P5430,Poetry International Web poet ID,1
-http://www.wikidata.org/prop/direct/P5441,Encyclopaedia Herder person ID,1
-http://www.wikidata.org/prop/direct/P5463,AE member ID,1
-http://www.wikidata.org/prop/direct/P5465,Australian Poetry Library poet ID,1
-http://www.wikidata.org/prop/direct/P5506,Poetry In Voice poet ID,1
-http://www.wikidata.org/prop/direct/P5534,Open Media Database person ID,1
-http://www.wikidata.org/prop/direct/P5540,RedTube ID,1
-http://www.wikidata.org/prop/direct/P5776,Arnet Miner author ID,1
-http://www.wikidata.org/prop/direct/P5796,Internet Game Database person ID,1
-http://www.wikidata.org/prop/direct/P5801,Academia.edu topic ID,1
-http://www.wikidata.org/prop/direct/P5643,RSL author ID,1
-http://www.wikidata.org/prop/direct/P5641,PRELIB person ID,1
+http://www.wikidata.org/prop/direct/P5435,pixiv user ID,1
+http://www.wikidata.org/prop/direct/P5450,Biographisches Archiv der Psychiatrie  ID,1
+http://www.wikidata.org/prop/direct/P5469,Mormon Literature and Creative Arts Database artist ID,1
+http://www.wikidata.org/prop/direct/P5631,Canal Académies ID,1
+http://www.wikidata.org/prop/direct/P5640,Read NZ Te Pou Muramura writer ID,1
 http://www.wikidata.org/prop/direct/P5657,National Humanities Medal winner ID,1
+http://www.wikidata.org/prop/direct/P5665,Cartooning for Peace cartoonist ID,1
 http://www.wikidata.org/prop/direct/P5710,Recours au poème ID,1
-http://www.wikidata.org/prop/direct/P5951,ComiXology creator ID,1
-http://www.wikidata.org/prop/direct/P5985,Literaturaren Zubitegia ID,1
-http://www.wikidata.org/prop/direct/P6010,Encyclopedia of Alabama ID,1
-http://www.wikidata.org/prop/direct/P6016,Tennessee Encyclopedia ID,1
+http://www.wikidata.org/prop/direct/P5719,National Medal of Arts winner ID,1
+http://www.wikidata.org/prop/direct/P5750,FBref player ID,1
+http://www.wikidata.org/prop/direct/P5773,Television Academy Foundation interviewee ID,1
+http://www.wikidata.org/prop/direct/P5796,Internet Game Database person ID,1
+http://www.wikidata.org/prop/direct/P5212,Armenian National Academy of Sciences ID,1
+http://www.wikidata.org/prop/direct/P5267,YouPorn performer ID,1
 http://www.wikidata.org/prop/direct/P5832,political coalition,1
-http://www.wikidata.org/prop/direct/P5871,Norwegian war refugees register ID,1
-http://www.wikidata.org/prop/direct/P5917,Shazam artist ID,1
+http://www.wikidata.org/prop/direct/P5859,Adelphi author ID,1
+http://www.wikidata.org/prop/direct/P5927,Ultimate Guitar artist ID,1
+http://www.wikidata.org/prop/direct/P5985,Literaturaren Zubitegia ID,1
 http://www.wikidata.org/prop/direct/P6059,Biographie vosgienne ID,1
-http://www.wikidata.org/prop/direct/P6083,Cineuropa person ID,1
 http://www.wikidata.org/prop/direct/P6107,Winterthur Glossar URL (DEPRECATED),1
-http://www.wikidata.org/prop/direct/P6366,Microsoft Academic ID,1
-http://www.wikidata.org/prop/direct/P6412,Gran Enciclopèdia de la Música ID,1
-http://www.wikidata.org/prop/direct/P6150,Academy Awards Database nominee ID,1
-http://www.wikidata.org/prop/direct/P6181,Disney A to Z ID,1
-http://www.wikidata.org/prop/direct/P6213,UK Parliament ID,1
 http://www.wikidata.org/prop/direct/P6226,ARLLFB member ID,1
-http://www.wikidata.org/prop/direct/P6235,Académie royale de Belgique member ID,1
-http://www.wikidata.org/prop/direct/P6255,SinemaTürk person ID,1
 http://www.wikidata.org/prop/direct/P6264,Harvard Index of Botanists ID,1
+http://www.wikidata.org/prop/direct/P6282,French Academy of Sciences member ID,1
 http://www.wikidata.org/prop/direct/P6291,advertises,1
 http://www.wikidata.org/prop/direct/P6350,Doctrine ID,1
-http://www.wikidata.org/prop/direct/P6461,Rock's Backpages artist ID,1
-http://www.wikidata.org/prop/direct/P6465,Democracy Club candidate ID,1
+http://www.wikidata.org/prop/direct/P6375,street address,1
+http://www.wikidata.org/prop/direct/P6371,Archives of Maryland Biographical Series ID,1
+http://www.wikidata.org/prop/direct/P6446,Douban musician ID,1
+http://www.wikidata.org/prop/direct/P6464,Mtime people ID (archived),1
+http://www.wikidata.org/prop/direct/P6476,castingvideos ID,1
+http://www.wikidata.org/prop/direct/P6482,"Image Archive, Herder Institute",1
 http://www.wikidata.org/prop/direct/P6492,BVPH authority ID,1
 http://www.wikidata.org/prop/direct/P6496,Biblioteca Virtual Andalucía authority ID,1
-http://www.wikidata.org/prop/direct/P6559,Official Charts artist ID,1
+http://www.wikidata.org/prop/direct/P6552,Twitter (X) numeric user ID,1
+http://www.wikidata.org/prop/direct/P6579,National Book Foundation author ID,1
+http://www.wikidata.org/prop/direct/P6603,film-documentaire.fr author ID,1
+http://www.wikidata.org/prop/direct/P6600,Resident Advisor artist ID,1
+http://www.wikidata.org/prop/direct/P6620,L'Express person ID,1
+http://www.wikidata.org/prop/direct/P6791,The Atlantic author ID,1
+http://www.wikidata.org/prop/direct/P6784,Harper's author ID,1
+http://www.wikidata.org/prop/direct/P6792,Find NZ Artists ID,1
+http://www.wikidata.org/prop/direct/P6804,Art Gallery of South Australia creator ID,1
+http://www.wikidata.org/prop/direct/P6813,Mediapart tag ID,1
+http://www.wikidata.org/prop/direct/P6858,Réunionnais du monde ID,1
 http://www.wikidata.org/prop/direct/P6682,Motorsports Hall of Fame of America ID,1
 http://www.wikidata.org/prop/direct/P6705,Academia Sinica authority ID,1
 http://www.wikidata.org/prop/direct/P6715,SIUSA archive producer person ID,1
 http://www.wikidata.org/prop/direct/P6735,Watercolour World artist ID,1
-http://www.wikidata.org/prop/direct/P6573,Klexikon article ID,1
-http://www.wikidata.org/prop/direct/P6603,film-documentaire.fr author ID,1
-http://www.wikidata.org/prop/direct/P6620,L'Express person ID,1
-http://www.wikidata.org/prop/direct/P6621,Le Figaro tag ID,1
-http://www.wikidata.org/prop/direct/P6616,Library of Parliament of Canada person ID,1
-http://www.wikidata.org/prop/direct/P6792,Find NZ Artists ID,1
-http://www.wikidata.org/prop/direct/P6804,Art Gallery of South Australia creator ID,1
-http://www.wikidata.org/prop/direct/P6813,Mediapart tag ID,1
-http://www.wikidata.org/prop/direct/P6817,SVT Play ID,1
-http://www.wikidata.org/prop/direct/P6849,DR topic ID,1
-http://www.wikidata.org/prop/direct/P6858,Réunionnais du monde ID,1
-http://www.wikidata.org/prop/direct/P6870,Latvian National Encyclopedia Online ID,1
-http://www.wikidata.org/prop/direct/P6874,Musixmatch artist ID,1
-http://www.wikidata.org/prop/direct/P6873,IntraText author ID,1
+http://www.wikidata.org/prop/direct/P6758,supported sports team,1
+http://www.wikidata.org/prop/direct/P7028,National Library of Luxembourg ID,1
+http://www.wikidata.org/prop/direct/P7050,Album of the Year artist ID,1
 http://www.wikidata.org/prop/direct/P7106,LezWatch.TV character ID,1
-http://www.wikidata.org/prop/direct/P7105,LezWatch.TV actor ID,1
+http://www.wikidata.org/prop/direct/P7119,AMPAS collections person ID,1
 http://www.wikidata.org/prop/direct/P7142,Poincaré Papers person ID,1
-http://www.wikidata.org/prop/direct/P7140,München Wiki article ID,1
-http://www.wikidata.org/prop/direct/P7195,Bandsintown artist ID,1
-http://www.wikidata.org/prop/direct/P7192,TuneIn artist ID,1
-http://www.wikidata.org/prop/direct/P7039,National Library of Iceland ID,1
-http://www.wikidata.org/prop/direct/P7037,COURAGE ID,1
-http://www.wikidata.org/prop/direct/P7040,NosDéputés.fr identifiant,1
-http://www.wikidata.org/prop/direct/P7052,Jaxsta profile ID,1
-http://www.wikidata.org/prop/direct/P7071,Qobuz artist ID,1
-http://www.wikidata.org/prop/direct/P7215,Eiga.com person ID,1
-http://www.wikidata.org/prop/direct/P7284,The Independent topic ID,1
-http://www.wikidata.org/prop/direct/P7303,Grammy Awards artist ID,1
-http://www.wikidata.org/prop/direct/P7317,iHeart artist ID,1
-http://www.wikidata.org/prop/direct/P7314,TDV İslam Ansiklopedisi ID,1
-http://www.wikidata.org/prop/direct/P7349,Gazetteer for Scotland person ID,1
-http://www.wikidata.org/prop/direct/P7522,SK cinema authority ID,1
-http://www.wikidata.org/prop/direct/P7604,supervised by,1
-http://www.wikidata.org/prop/direct/P7614,Dictionary of Wisconsin History ID,1
-http://www.wikidata.org/prop/direct/P7433,FantLab author ID,1
-http://www.wikidata.org/prop/direct/P7480,Brazilian federal deputy ID,1
+http://www.wikidata.org/prop/direct/P7151,Wynk artist ID,1
+http://www.wikidata.org/prop/direct/P7159,Plus Music artist ID,1
+http://www.wikidata.org/prop/direct/P7153,significant place,1
+http://www.wikidata.org/prop/direct/P7190,RMF FM artist ID,1
+http://www.wikidata.org/prop/direct/P7191,Supraphonline artist ID,1
+http://www.wikidata.org/prop/direct/P7189,Mora Artist ID,1
+http://www.wikidata.org/prop/direct/P7187,Jango artist ID,1
+http://www.wikidata.org/prop/direct/P7193,YesAsia author ID,1
+http://www.wikidata.org/prop/direct/P7205,jog.fm artist ID,1
+http://www.wikidata.org/prop/direct/P7201,SoundHound artist ID,1
+http://www.wikidata.org/prop/direct/P7206,Lyrics007 artist ID,1
+http://www.wikidata.org/prop/direct/P7210,GreatSong artist ID,1
+http://www.wikidata.org/prop/direct/P7275,Naver VIBE artist ID,1
+http://www.wikidata.org/prop/direct/P7324,iHeart podcast ID,1
+http://www.wikidata.org/prop/direct/P7356,DC Books author ID,1
+http://www.wikidata.org/prop/direct/P7425,Rotterdam City Archives actor ID,1
+http://www.wikidata.org/prop/direct/P7483,CinemaRX person ID (archived),1
 http://www.wikidata.org/prop/direct/P7498,Women Film Pioneers ID,1
-http://www.wikidata.org/prop/direct/P7627,Artsdata.ca ID,1
-http://www.wikidata.org/prop/direct/P7638,OverDrive creator ID,1
-http://www.wikidata.org/prop/direct/P7685,CALS Encyclopedia of Arkansas ID,1
+http://www.wikidata.org/prop/direct/P7594,CinePT person ID,1
+http://www.wikidata.org/prop/direct/P7614,Dictionary of Wisconsin History ID,1
+http://www.wikidata.org/prop/direct/P7612,Taiwan Cinema person ID,1
+http://www.wikidata.org/prop/direct/P7620,Treccani's Enciclopedia dei Papi ID,1
+http://www.wikidata.org/prop/direct/P7653,MovieGe person ID,1
+http://www.wikidata.org/prop/direct/P7672,Musiikkituottajat artist ID (chart),1
 http://www.wikidata.org/prop/direct/P7682,National Library of New Zealand ID,1
-http://www.wikidata.org/prop/direct/P7695,e-WV: The West Virginia Encyclopedia ID,1
-http://www.wikidata.org/prop/direct/P7690,South Carolina Encyclopedia ID,1
-http://www.wikidata.org/prop/direct/P7691,The Oregon Encyclopedia ID,1
 http://www.wikidata.org/prop/direct/P7697,Maine: An Encyclopedia ID,1
 http://www.wikidata.org/prop/direct/P7711,Joconde author ID,1
-http://www.wikidata.org/prop/direct/P7944,DoME artist ID,1
-http://www.wikidata.org/prop/direct/P7962,Dictionnaire des femmes de l’ancienne France ID,1
+http://www.wikidata.org/prop/direct/P7737,DeviantArt username,1
+http://www.wikidata.org/prop/direct/P7783,J-GLOBAL ID,1
 http://www.wikidata.org/prop/direct/P7779,military unit,1
-http://www.wikidata.org/prop/direct/P7803,Decine21 person ID,1
-http://www.wikidata.org/prop/direct/P7808,kino-teatr.ru person ID,1
-http://www.wikidata.org/prop/direct/P8155,Republic of Korea Parliamentarian Society ID,1
-http://www.wikidata.org/prop/direct/P8269,Norwegian prisoner register person ID,1
-http://www.wikidata.org/prop/direct/P8301,Montreux Jazz Festival person ID,1
-http://www.wikidata.org/prop/direct/P8309,Yle topic ID,1
-http://www.wikidata.org/prop/direct/P7831,NMVW ID,1
+http://www.wikidata.org/prop/direct/P7815,textove.com artist ID,1
+http://www.wikidata.org/prop/direct/P7822,Italian Vikidia ID,1
+http://www.wikidata.org/prop/direct/P7820,Punjabipedia ID,1
+http://www.wikidata.org/prop/direct/P7827,Spanish Vikidia ID,1
+http://www.wikidata.org/prop/direct/P6894,Beatport artist ID,1
+http://www.wikidata.org/prop/direct/P6891,National Film Board of Canada director ID,1
+http://www.wikidata.org/prop/direct/P6911,Dutch Charts artist ID,1
+http://www.wikidata.org/prop/direct/P6909,Charts in France artist ID,1
+http://www.wikidata.org/prop/direct/P6918,hitparade.ch artist ID,1
+http://www.wikidata.org/prop/direct/P6917,Historical Archives of the European Union ID,1
+http://www.wikidata.org/prop/direct/P6945,Steam profile ID,1
+http://www.wikidata.org/prop/direct/P6955,El portal de Música artist ID,1
+http://www.wikidata.org/prop/direct/P6972,Napster artist ID,1
+http://www.wikidata.org/prop/direct/P6980,LB.ua dossier ID,1
+http://www.wikidata.org/prop/direct/P7832,Basque Vikidia ID,1
 http://www.wikidata.org/prop/direct/P7874,EFIS person ID,1
 http://www.wikidata.org/prop/direct/P7882,ft.dk politician ID,1
-http://www.wikidata.org/prop/direct/P7898,National Aviation Hall of Fame ID,1
-http://www.wikidata.org/prop/direct/P7920,TheTVDB person ID,1
-http://www.wikidata.org/prop/direct/P8432,Österreichisches Musiklexikon Online ID,1
-http://www.wikidata.org/prop/direct/P8467,Wiki-Rennes ID,1
+http://www.wikidata.org/prop/direct/P7928,BioLexSOE ID,1
+http://www.wikidata.org/prop/direct/P7944,DoME artist ID,1
+http://www.wikidata.org/prop/direct/P7962,Dictionnaire des femmes de l’ancienne France ID,1
+http://www.wikidata.org/prop/direct/P8007,US Bureau of Prisons Inmate Register Number,1
+http://www.wikidata.org/prop/direct/P8022,RFI Musique artist ID,1
+http://www.wikidata.org/prop/direct/P8031,perpetrator,1
+http://www.wikidata.org/prop/direct/P8036,m3db.com person ID,1
+http://www.wikidata.org/prop/direct/P8122,DLL Catalog author ID,1
+http://www.wikidata.org/prop/direct/P8197,PragerU presenter ID,1
+http://www.wikidata.org/prop/direct/P8222,rating.chgk.info ID,1
+http://www.wikidata.org/prop/direct/P8248,Colon Classification,1
+http://www.wikidata.org/prop/direct/P8259,Flashscore.com player ID,1
+http://www.wikidata.org/prop/direct/P8256,Super Mario Wiki ID,1
+http://www.wikidata.org/prop/direct/P8305,LongTake person ID,1
+http://www.wikidata.org/prop/direct/P8314,Noovie person ID,1
 http://www.wikidata.org/prop/direct/P8332,Dansk litteraturs historie ID,1
+http://www.wikidata.org/prop/direct/P8367,Legacy.com person ID,1
 http://www.wikidata.org/prop/direct/P8388,Swedish Parliament person GUID,1
-http://www.wikidata.org/prop/direct/P8569,YIVO Encyclopedia of Jews in Eastern Europe ID,1
-http://www.wikidata.org/prop/direct/P8585,FIPRESCI person ID,1
+http://www.wikidata.org/prop/direct/P8408,KBpedia ID,1
+http://www.wikidata.org/prop/direct/P8440,Personendatenbank Germania Sacra ID,1
+http://www.wikidata.org/prop/direct/P8467,Wiki-Rennes ID,1
+http://www.wikidata.org/prop/direct/P8511,Fototeka person ID,1
+http://www.wikidata.org/prop/direct/P8581,Hrvatski biografski leksikon ID,1
+http://www.wikidata.org/prop/direct/P8578,TracesOfWar person ID,1
 http://www.wikidata.org/prop/direct/P8618,ITF player ID 2020,1
-http://www.wikidata.org/prop/direct/P8625,bibliography,1
-http://www.wikidata.org/prop/direct/P8637,L'Officiel des spectacles ID,1
+http://www.wikidata.org/prop/direct/P8669,Encyclopaedia Beliana ID,1
+http://www.wikidata.org/prop/direct/P8689,ITHL author ID,1
+http://www.wikidata.org/prop/direct/P8713,Stadtwiki Dresden article,1
+http://www.wikidata.org/prop/direct/P8759,Polski Słownik Judaistyczny ID,1
 http://www.wikidata.org/prop/direct/P8809,AIWARDS ID,1
-http://www.wikidata.org/prop/direct/P8826,edition humboldt digital ID,1
+http://www.wikidata.org/prop/direct/P8816,Zen ID,1
+http://www.wikidata.org/prop/direct/P8839,hairstyle / hairlength,1
+http://www.wikidata.org/prop/direct/P8852,facial hair,1
+http://www.wikidata.org/prop/direct/P8880,AstroGen ID,1
+http://www.wikidata.org/prop/direct/P8943,Artfacts ID,1
 http://www.wikidata.org/prop/direct/P8953,Students of Prague Universities ID,1
-http://www.wikidata.org/prop/direct/P8982,Pontificio Istituto di Archeologia Cristiana ID,1
+http://www.wikidata.org/prop/direct/P8969,CINE21 person ID,1
+http://www.wikidata.org/prop/direct/P8985,Dizionario bio-bibliografico dei bibliotecari italiani del XX secolo ID,1
 http://www.wikidata.org/prop/direct/P8993,JAD ID,1
 http://www.wikidata.org/prop/direct/P9000,World History Encyclopedia ID,1
-http://www.wikidata.org/prop/direct/P9001,Literary Encyclopedia ID,1
 http://www.wikidata.org/prop/direct/P9029,Viceversa Letteratura author ID,1
-http://www.wikidata.org/prop/direct/P8713,Stadtwiki Dresden article,1
-http://www.wikidata.org/prop/direct/P8720,xHamster pornstar ID,1
-http://www.wikidata.org/prop/direct/P9248,EEVA author ID,1
-http://www.wikidata.org/prop/direct/P9256,Diccionari de la traducció catalana ID,1
-http://www.wikidata.org/prop/direct/P9267,ANPI person numeric ID,1
-http://www.wikidata.org/prop/direct/P9287,Cyprus Bibliography ID,1
-http://www.wikidata.org/prop/direct/P9289,Filmitalia person ID,1
-http://www.wikidata.org/prop/direct/P9298,Encyclopedia of Plzeň person ID,1
-http://www.wikidata.org/prop/direct/P9304,Encyclopedia of Melbourne ID,1
-http://www.wikidata.org/prop/direct/P9332,Oxford African American Studies Center ID,1
-http://www.wikidata.org/prop/direct/P9331,Storiaememoriadibologna.it ID,1
-http://www.wikidata.org/prop/direct/P9223,Provenio UUID,1
-http://www.wikidata.org/prop/direct/P9231,Archivo Linz de la Transición Española ID,1
-http://www.wikidata.org/prop/direct/P9226,ARAE ID,1
-http://www.wikidata.org/prop/direct/P8854,Salzburgwiki ID,1
-http://www.wikidata.org/prop/direct/P8935,Encyclopedia of the History of Ukraine ID,1
 http://www.wikidata.org/prop/direct/P9046,A*dS Encyclopedia ID,1
 http://www.wikidata.org/prop/direct/P9129,Data Collection of the Hungarian Peerage ID,1
-http://www.wikidata.org/prop/direct/P9863,Gujarati Vishwakosh entry,1
+http://www.wikidata.org/prop/direct/P9226,ARAE ID,1
+http://www.wikidata.org/prop/direct/P9239,affiliated worker organisation,1
+http://www.wikidata.org/prop/direct/P9248,EEVA author ID,1
+http://www.wikidata.org/prop/direct/P9304,Encyclopedia of Melbourne ID,1
+http://www.wikidata.org/prop/direct/P9316,MyMusic artist ID,1
+http://www.wikidata.org/prop/direct/P9315,Enslaved.org person ID,1
+http://www.wikidata.org/prop/direct/P9332,Oxford African American Studies Center ID,1
+http://www.wikidata.org/prop/direct/P9331,Storiaememoriadibologna.it ID,1
+http://www.wikidata.org/prop/direct/P9366,Rombase ID (English),1
 http://www.wikidata.org/prop/direct/P9365,Modernist Commons ID,1
+http://www.wikidata.org/prop/direct/P9368,CNA topic ID,1
 http://www.wikidata.org/prop/direct/P9391,Česká divadelní encyklopedie ID,1
-http://www.wikidata.org/prop/direct/P9404,OFDb person ID,1
-http://www.wikidata.org/prop/direct/P10155,Babesdirectory ID,1
-http://www.wikidata.org/prop/direct/P10196,Norgeshistorie ID,1
-http://www.wikidata.org/prop/direct/P10207,Folketinget actor ID,1
-http://www.wikidata.org/prop/direct/P10347,World Economic Forum ID,1
-http://www.wikidata.org/prop/direct/P9459,Rekhta author ID,1
+http://www.wikidata.org/prop/direct/P9468,LIMA media artist ID,1
 http://www.wikidata.org/prop/direct/P9477,Trap Danmark ID,1
 http://www.wikidata.org/prop/direct/P9474,Oregon Poetic Voices poet ID,1
-http://www.wikidata.org/prop/direct/P9510,Forbes Russia profile ID,1
+http://www.wikidata.org/prop/direct/P9475,Encyclopedia of Korean Culture ID,1
+http://www.wikidata.org/prop/direct/P9511,am.hayazg.info ID,1
 http://www.wikidata.org/prop/direct/P9507,NBM authority ID,1
-http://www.wikidata.org/prop/direct/P9520,Auschwitz Prisoners Database ID,1
-http://www.wikidata.org/prop/direct/P9536,SAIA authority ID,1
-http://www.wikidata.org/prop/direct/P10554,BillionGraves grave ID,1
-http://www.wikidata.org/prop/direct/P10582,Author ID from the Modern Discussion website,1
-http://www.wikidata.org/prop/direct/P10618,Salzburger Literatur Netz ID,1
-http://www.wikidata.org/prop/direct/P10373,Mnemosine ID,1
-http://www.wikidata.org/prop/direct/P10428,parliament.uk member ID,1
-http://www.wikidata.org/prop/direct/P10436,Drammen city encyclopedia ID,1
-http://www.wikidata.org/prop/direct/P10452,Renacyt ID,1
+http://www.wikidata.org/prop/direct/P9528,Digital Library of Armenian Literature author ID,1
+http://www.wikidata.org/prop/direct/P9539,Secondary Archive artist ID,1
+http://www.wikidata.org/prop/direct/P9588,causesanti.va ID,1
 http://www.wikidata.org/prop/direct/P9589,Muziekencyclopedie ID,1
-http://www.wikidata.org/prop/direct/P9629,Armeniapedia ID,1
 http://www.wikidata.org/prop/direct/P9627,Romanistenlexikon ID,1
-http://www.wikidata.org/prop/direct/P10699,FamousFix topic ID,1
-http://www.wikidata.org/prop/direct/P10707,AccessScience ID,1
-http://www.wikidata.org/prop/direct/P10715,Investopedia term ID,1
-http://www.wikidata.org/prop/direct/P11111,Female Physicians in the German Empire and the Weimar Republic ID,1
-http://www.wikidata.org/prop/direct/P11137,Reddit topic ID,1
-http://www.wikidata.org/prop/direct/P10469,HaBima Archive person ID,1
-http://www.wikidata.org/prop/direct/P9660,not found in,1
-http://www.wikidata.org/prop/direct/P9694,VK Music artist ID,1
-http://www.wikidata.org/prop/direct/P9715,Room of Names ID,1
-http://www.wikidata.org/prop/direct/P9720,fotoCH photographer ID,1
-http://www.wikidata.org/prop/direct/P10844,Teresianum authority ID,1
-http://www.wikidata.org/prop/direct/P10849,Beamish peerage database person ID,1
-http://www.wikidata.org/prop/direct/P11825,LiteraturPort autorenlexikon ID,1
-http://www.wikidata.org/prop/direct/P12003,ANPI person ID,1
-http://www.wikidata.org/prop/direct/P11345,Cinematografo.it name or company ID (new),1
-http://www.wikidata.org/prop/direct/P10880,Catalogus Professorum (TU Berlin) person ID,1
-http://www.wikidata.org/prop/direct/P10900,Telmore Musik artist ID,1
-http://www.wikidata.org/prop/direct/P10911,Bilbaopedia ID,1
-http://www.wikidata.org/prop/direct/P10916,Süddeutsche Zeitung topic ID,1
+http://www.wikidata.org/prop/direct/P9640,PAS member ID,1
 http://www.wikidata.org/prop/direct/P9765,Great Ukrainian Encyclopedia Online ID,1
-http://www.wikidata.org/prop/direct/P9772,The New Yorker contributor ID,1
-http://www.wikidata.org/prop/direct/P9770,Knesset member ID,1
+http://www.wikidata.org/prop/direct/P9760,Treccani's Enciclopedia del Cinema ID,1
+http://www.wikidata.org/prop/direct/P9775,Treccani's Lessico del XXI Secolo ID,1
 http://www.wikidata.org/prop/direct/P9768,Women Also Know History ID,1
+http://www.wikidata.org/prop/direct/P9776,e-Rad researcher number,1
 http://www.wikidata.org/prop/direct/P9791,ASEE person ID,1
-http://www.wikidata.org/prop/direct/P9792,Alsharek Archive author ID,1
+http://www.wikidata.org/prop/direct/P9855,Edizioni Ares author ID,1
+http://www.wikidata.org/prop/direct/P9662,LdiF person ID,1
+http://www.wikidata.org/prop/direct/P9660,not found in,1
+http://www.wikidata.org/prop/direct/P9695,Legie 100 legionary ID,1
+http://www.wikidata.org/prop/direct/P9710,Lexikon Westfälischer Autorinnen und Autoren person ID,1
+http://www.wikidata.org/prop/direct/P9715,Room of Names ID,1
+http://www.wikidata.org/prop/direct/P9879,Encyclopaedia of Islam (third edition) ID,1
+http://www.wikidata.org/prop/direct/P9943,Hill Museum & Manuscript Library ID,1
+http://www.wikidata.org/prop/direct/P9938,Densho Encyclopedia ID,1
+http://www.wikidata.org/prop/direct/P9944,Database of Czech Amateur Theater person ID,1
+http://www.wikidata.org/prop/direct/P9964,Kalliope-Verbund (GND) ID,1
+http://www.wikidata.org/prop/direct/P9975,Vokrug sveta article ID,1
+http://www.wikidata.org/prop/direct/P9980,NLI Archive (bibliographic) ID,1
+http://www.wikidata.org/prop/direct/P10020,Parliament of Australia MP ID,1
+http://www.wikidata.org/prop/direct/P10031,Enciclopedia di Roma person ID,1
+http://www.wikidata.org/prop/direct/P10052,Vokrug.tv person ID,1
+http://www.wikidata.org/prop/direct/P10059,Philosophica ID,1
+http://www.wikidata.org/prop/direct/P10057,IRIS UNIMI author ID,1
+http://www.wikidata.org/prop/direct/P10097,7 Days person ID,1
+http://www.wikidata.org/prop/direct/P10116,Music of Armenia ID,1
+http://www.wikidata.org/prop/direct/P10163,Kinomania.ru actor ID,1
+http://www.wikidata.org/prop/direct/P10180,Genie artist ID,1
+http://www.wikidata.org/prop/direct/P10196,Norgeshistorie ID,1
+http://www.wikidata.org/prop/direct/P10207,Folketinget actor ID,1
+http://www.wikidata.org/prop/direct/P10410,QQ Music artist ID,1
+http://www.wikidata.org/prop/direct/P10417,Culture.ru person ID,1
+http://www.wikidata.org/prop/direct/P10436,Drammen city encyclopedia ID,1
+http://www.wikidata.org/prop/direct/P10445,NetEase Music artist ID,1
+http://www.wikidata.org/prop/direct/P10489,LDT @ Library Name Authority ID,1
+http://www.wikidata.org/prop/direct/P10283,OpenAlex ID,1
+http://www.wikidata.org/prop/direct/P10291,Wikisimpsons article ID,1
+http://www.wikidata.org/prop/direct/P10288,Muz-TV ID,1
+http://www.wikidata.org/prop/direct/P10289,Podchaser numeric creator ID,1
+http://www.wikidata.org/prop/direct/P10305,StarHit ID,1
+http://www.wikidata.org/prop/direct/P10337,doollee.com playwright ID,1
+http://www.wikidata.org/prop/direct/P10571,Le Monde journalist ID,1
+http://www.wikidata.org/prop/direct/P10606,notable role,1
+http://www.wikidata.org/prop/direct/P10618,Salzburger Literatur Netz ID,1
+http://www.wikidata.org/prop/direct/P10715,Investopedia term ID,1
+http://www.wikidata.org/prop/direct/P10741,dance style,1
+http://www.wikidata.org/prop/direct/P10789,Lithuania Minor Encyclopedia ID,1
+http://www.wikidata.org/prop/direct/P10820,Kino.mail.ru person ID,1
+http://www.wikidata.org/prop/direct/P11188,Conspiracy Watch person ID,1
+http://www.wikidata.org/prop/direct/P11193,Piraeus Bank Group Cultural Foundation Library (B) ID,1
+http://www.wikidata.org/prop/direct/P11014,Belarus in persons and events ID,1
+http://www.wikidata.org/prop/direct/P11047,Odnoklassniki artist ID,1
+http://www.wikidata.org/prop/direct/P10879,Hamburger Professorinnen- und Professorenkatalog ID,1
+http://www.wikidata.org/prop/direct/P10874,gov.uk person ID,1
+http://www.wikidata.org/prop/direct/P10880,Catalogus Professorum (TU Berlin) person ID,1
+http://www.wikidata.org/prop/direct/P10897,ORKG ID,1
+http://www.wikidata.org/prop/direct/P10911,Bilbaopedia ID,1
+http://www.wikidata.org/prop/direct/P11434,ComingSoon.it person ID,1
+http://www.wikidata.org/prop/direct/P11446,Strazha ID,1
+http://www.wikidata.org/prop/direct/P11449,TV Maze person ID,1
+http://www.wikidata.org/prop/direct/P11111,Female Physicians in the German Empire and the Weimar Republic ID,1
+http://www.wikidata.org/prop/direct/P11107,SR-Archiv person ID,1
+http://www.wikidata.org/prop/direct/P11518,Oroklini Library ID,1
+http://www.wikidata.org/prop/direct/P11587,Iowa legislator ID,1
+http://www.wikidata.org/prop/direct/P11619,Full Fact ID,1
+http://www.wikidata.org/prop/direct/P11628,Biographical Dictionary of Emigrants of Georgia ID,1
+http://www.wikidata.org/prop/direct/P11625,Spotify user ID,1
+http://www.wikidata.org/prop/direct/P11664,Wise Music Classical composer ID,1
+http://www.wikidata.org/prop/direct/P11730,Warsaw Uprising insurgent ID,1
+http://www.wikidata.org/prop/direct/P11769,Bohemian Lands MP ID,1
+http://www.wikidata.org/prop/direct/P11822,PM20 film section ID,1
+http://www.wikidata.org/prop/direct/P11835,Numista ruling authority ID,1
+http://www.wikidata.org/prop/direct/P11954,Unidades de Conservação no Brasil ID,1
+http://www.wikidata.org/prop/direct/P11962,Rumble channel,1
+http://www.wikidata.org/prop/direct/P11999,Dictionary of Czech literature after 1945 ID,1
+http://www.wikidata.org/prop/direct/P12003,ANPI person ID,1
+http://www.wikidata.org/prop/direct/P12126,HBL topic ID,1
+http://www.wikidata.org/prop/direct/P12129,Encyklopedia Teatru Polskiego author ID,1
 http://www.wikidata.org/prop/direct/P12141,Fondazione Fiera ID,1
-http://www.wikidata.org/prop/direct/P12176,Propylaeum-VITAE ID,1
-http://www.wikidata.org/prop/direct/P12299,Digicarmel ID,1
+http://www.wikidata.org/prop/direct/P12195,Theapolis person ID,1
+http://www.wikidata.org/prop/direct/P12288,Cathopedia article ID,1
 http://www.wikidata.org/prop/direct/P12330,Philippine middle name,1
-http://www.wikidata.org/prop/direct/P12365,HistoryMakers Maker Directory ID,1
-http://www.wikidata.org/prop/direct/P12361,Bluesky handle,1
+http://www.wikidata.org/prop/direct/P12337,Nebula channel ID,1
 http://www.wikidata.org/prop/direct/P12404,Kalliope.org author ID,1
 http://www.wikidata.org/prop/direct/P12408,XWord Info author ID,1
-http://www.wikidata.org/prop/direct/P12430,The StoryGraph author ID,1
-http://www.wikidata.org/prop/direct/P11500,United States House of Representatives ID,1
-http://www.wikidata.org/prop/direct/P11615,InfluenceWatch influencer,1
-http://www.wikidata.org/prop/direct/P11621,Hungarian National Namespace person ID (new),1
-http://www.wikidata.org/prop/direct/P11664,Wise Music Classical composer ID,1
+http://www.wikidata.org/prop/direct/P12596,museum-digital tag ID,1
+http://www.wikidata.org/prop/direct/P12615,Hanslick Online person ID,1
