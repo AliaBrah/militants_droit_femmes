@@ -7,16 +7,29 @@ SELECT p.pk
 FROM personne p 
 WHERE genre = 'non-binary'  ;
 
+-- nettoyer les tables : vérifier qu'il n'y ait pas de doublon
+-- table personne
+SELECT p.pk , count(*) AS eff, p.nom 
+FROM personne p 
+GROUP BY p.pk 
+ORDER BY eff DESC;
+
+-- nettoyer occupation
+
+SELECT o.pk , count(*) AS eff, o.nom  
+FROM occupation o 
+GROUP BY o.pk 
+ORDER BY eff DESC;
+
 
 -- création d'une vue qui compte les effectif par occupation
 
-CREATE VIEW effectif_occupation
-AS
+--CREATE VIEW effectif_occupation
+--AS
 SELECT lpo.fk_occupation, COUNT(*) AS eff,  lpo.occupation 
 FROM liaison_personne_occupation lpo 
 GROUP by lpo.fk_occupation
-HAVING count(*) > 1
-ORDER BY lpo.occupation;
+ORDER BY eff DESC ;
 
 -- essais pour avoir les effectifs par occupations
 
@@ -104,6 +117,99 @@ FROM effectif_occupation eo
 WHERE (eo.eff > 9)
 ORDER BY eff; 
 
+-- compter le nombre de personne qui ont une activités et combien d'occurence ça concerne (passé en CSV et utilisé sur python)
+WITH tw1 AS (
+SELECT LOWER(TRIM(occupation)) occupation, COUNT(*) as occurence
+FROM liaison_personne_occupation 
+GROUP BY TRIM(occupation), LOWER(TRIM(occupation)) )
+SELECT occurence, count(*) as nombre_occ, group_concat(occupation, '; ') AS labels_occ
+FROM tw1
+GROUP BY occurence
+ORDER BY nombre_occ DESC, occurence ASC;
+
+
+-- Nationalite
+SELECT win.id_nationalite  ,count(*) AS eff, win.nationalite 
+FROM wiki_import_nationalite win 
+GROUP BY win.id_nationalite  
+ORDER BY eff DESC ;
+
+-- insertion des pays de la table nationalité dans la table pays.
+-- INSERT INTO pays (pk_pays,nom_pays)
+SELECT DISTINCT TRIM(id_nationalite), TRIM(nationalite)
+FROM wiki_import_nationalite;
+
+SELECT DISTINCT win.id_nationalite, win.nationalite 
+FROM wiki_import_nationalite win ;
+
+-- association des domaines NATIONALITE et effectif !!!
+WITH TW1 AS (
+SELECT win.id_nationalite, COUNT(*) AS eff 
+FROM wiki_import_nationalite win 
+GROUP BY win.id_nationalite)
+SELECT p.pk_pays , nom_pays , eff, p.fk_zone_geographique
+FROM TW1 JOIN pays p 
+ON p.pk_pays = TW1.id_nationalite
+ORDER BY eff DESC;
+
+-- compter les effectif de personne par pays. 
+SELECT zg.nom_zone , COUNT(*) AS eff 
+FROM wiki_import_nationalite win 
+JOIN pays p 
+ON p.pk_pays = win.id_nationalite 
+JOIN zone_geographique zg 
+ON zg.pk_zone = p.fk_zone_geographique
+GROUP BY zg.nom_zone
+ORDER BY eff DESC ;
+
+-- création d'une table à importer pou pouvoir faire une analyse qualitative multivariée --> table utilisée lors des statistique sur le genre, zone géo et période:
+CREATE VIEW analyse_personne_geo
+AS
+SELECT p.pk, p.nom,
+CASE 
+	WHEN p.genre = 'male'
+	THEN 'M'
+	WHEN p.genre='female'
+	THEN 'F'
+	ELSE 'LGBTQ'
+	END AS gender,
+MAX(zg.nom_zone) AS zone_geo, MAX(p.annee_naissance) AS annee_naissance 
+FROM personne p
+    JOIN wiki_import_nationalite win 
+    ON win.fk_personne =p.pk 
+    JOIN pays p2 
+    ON p2.pk_pays = win.id_nationalite 
+    JOIN zone_geographique zg 
+    ON zg.pk_zone = p2.fk_zone_geographique 
+    GROUP BY p.pk , p.nom ;
+
+    
+    -- marche pas 
+   WITH tw1 as(
+   SELECT p.pk, p.nom, max(zg.nom_zone) AS nom_zones, max(p.annee_naissance) AS Birthyear
+    FROM personne p 
+    JOIN wiki_import_nationalite win
+ON win.fk_personne = p.pk 
+JOIN pays p2 
+ON p2.pk_pays = win.id_nationalite 
+JOIN zone_geographique zg 
+ON p2.fk_zone_geographique = zg.pk_zone 
+GROUP BY p.pk , p.nom )
+SELECT pk,nom
+FROM tw1 
+GROUP BY pk, nom
+HAVING COUNT(*) > 1;
+
+-- vérification si quelqu'un pas de zone associée --> y en a 0
+SELECT COUNT(*) 
+FROM personne p 
+JOIN wiki_import_nationalite win 
+ON win.fk_personne = p.pk 
+JOIN pays p2 
+ON p2.pk_pays = win.id_nationalite 
+LEFT JOIN zone_geographique zg 
+ON zg.pk_zone = p2.fk_zone_geographique 
+WHERE zg.nom_zone IS NULL ;
 
 
 
