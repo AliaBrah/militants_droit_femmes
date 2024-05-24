@@ -31,63 +31,6 @@ FROM liaison_personne_occupation lpo
 GROUP by lpo.fk_occupation
 ORDER BY eff DESC ;
 
--- essais pour avoir les effectifs par occupations
-
-SELECT COUNT (DISTINCT Fk_personne)
-FROM liaison_personne_occupation   lpo ;
-
-SELECT lpo.occupation, count(*)AS eff, lpo.occupation 
-FROM liaison_personne_occupation   lpo 
-GROUP BY lpo.occupation
-ORDER BY lpo.occupation ;
-
--- regrouper tous les enseignants ensemble
-SELECT
-SUM(eff) AS enseignant
-FROM effectif_occupation eo 
-WHERE (eo.occupation  = 'teacher')OR (eo.occupation ='university teacher') OR (eo.occupation = 'professor') OR (eo.occupation = 'professeur des universités') ;
-
--- regrouper tous les écrivain.es ensemble
-SELECT
-SUM(eff) AS writers
-FROM effectif_occupation eo 
-WHERE (eo.occupation  = 'writer')OR (eo.occupation ='journalist') OR (eo.occupation = 'poet') OR (eo.occupation = 'novelist') OR (eo.occupation = 'essayist') OR (eo.occupation = 'author') ;
-
-
--- essai pour additionner les effectifs dans des classes d'occupation qui se ressemble, fonctionne pas, mais va dans le bon sens
-SELECT
-    CASE 
-        WHEN occupation  LIKE 'teacher' THEN 'Teacher'
-         WHEN occupation  LIKE 'university teacher' THEN 'Teacher'
-        WHEN occupation LIKE 'painter' THEN 'Artist'
-         WHEN occupation  LIKE 'actor' THEN 'Artist'
-         WHEN occupation  LIKE 'artist' THEN 'Artist'
-        -- Add more WHEN conditions for other classes as needed
-        ELSE 'Other'
-    END AS occupation_class,
-    COUNT(*) AS total_occupations
-FROM
-   effectif_occupation eo 
-GROUP BY
-    CASE 
-        WHEN occupation  LIKE 'teacher' THEN 'Teacher'
-         WHEN occupation  LIKE 'university teacher' THEN 'Teacher'
-        WHEN occupation LIKE 'painter' THEN 'Artist'
-         WHEN occupation  LIKE 'actor' THEN 'Artist'
-         WHEN occupation  LIKE 'artist' THEN 'Artist'
-        -- Add more WHEN conditions for other classes as needed
-        ELSE 'Other'
-    END;
--- Autre essai ne fonctionne pas
-SELECT
-SUM(eff) AS enseignant
-FROM effectif_occupation eo 
-WHERE (eo.occupation  = 'teacher')OR (eo.occupation ='university teacher') -- les enseignants ensemble
-UNION
-SELECT
-SUM(eff) AS artistes
-FROM effectif_occupation eo 
-WHERE (eo.occupation  = 'painter')OR (eo.occupation ='artist') OR (eo.occupation ='actor'); -- les artistes ensemble /problème création d'une ligne et non d'une colonne
 
 SELECT win.column1, count(*) AS eff  --757 qui ont plusieurs nationalités
 FROM wiki_import_nationalite win  
@@ -99,14 +42,14 @@ FROM wiki_import_nationalite win
 GROUP BY win.column1 
 HAVING count(*) > 1; --757 qui ont plusieurs nationalités
 
-SELECT lpo.Fk_personne, count(*) AS eff  --2173 qui ont plusieurs occupations
-FROM liaison_pers_occup lpo 
+SELECT lpo.Fk_personne, count(*) AS eff, lpo.personne  --2173 qui ont plusieurs occupations
+FROM liaison_personne_occupation lpo 
 GROUP BY lpo.Fk_personne 
 HAVING count(*) > 1; 
 
 -- requête pour démontrer les combinaisons d'occupations
 
-SELECT lpo.Fk_personne, count(*) AS eff, GROUP_CONCAT(lpo.occupation) as occupations --2173 qui ont plusieurs occupations
+SELECT lpo.Fk_personne, count(*) AS eff, lpo.personne , GROUP_CONCAT(lpo.occupation) as occupations --2173 qui ont plusieurs occupations
 FROM liaison_personne_occupation   lpo 
 GROUP BY lpo.Fk_personne 
 HAVING count(*) > 1; 
@@ -162,7 +105,7 @@ ON zg.pk_zone = p.fk_zone_geographique
 GROUP BY zg.nom_zone
 ORDER BY eff DESC ;
 
--- création d'une table à importer pou pouvoir faire une analyse qualitative multivariée --> table utilisée lors des statistique sur le genre, zone géo et période:
+-- création d'une table à importer pou pouvoir faire une analyse qualitative bivariée --> table utilisée lors des statistique sur le genre, zone géo et période:
 CREATE VIEW analyse_personne_geo
 AS
 SELECT p.pk, p.nom,
@@ -182,23 +125,28 @@ FROM personne p
     JOIN zone_geographique zg 
     ON zg.pk_zone = p2.fk_zone_geographique 
     GROUP BY p.pk , p.nom ;
+   
+   -- OCCUPATION Création de la table pour l'analyse multivariée des occupations. 
+   -- essaie de démontrer les différent domaine de l'occupation pour chaque personne
+ CREATE VIEW analyse_personne_occupation
+ AS
+   SELECT DISTINCT  lpo.Fk_personne, lpo.personne , apg.gender , apg.zone_geo, apg.annee_naissance, GROUP_CONCAT(domaine) as domaines, COUNT(*) as eff--2173 qui ont plusieurs occupations
+FROM liaison_personne_occupation lpo
+   JOIN occupation o ON o.pk= lpo.fk_occupation
+   JOIN analyse_personne_geo apg ON apg.pk =lpo.fk_personne
+   JOIN domaine_occupation do ON do.pk_domaine = o.fk_domaine_occupation
+GROUP BY lpo.Fk_personne
+ORDER BY eff DESC ;
 
-    
-    -- marche pas 
-   WITH tw1 as(
-   SELECT p.pk, p.nom, max(zg.nom_zone) AS nom_zones, max(p.annee_naissance) AS Birthyear
-    FROM personne p 
-    JOIN wiki_import_nationalite win
-ON win.fk_personne = p.pk 
-JOIN pays p2 
-ON p2.pk_pays = win.id_nationalite 
-JOIN zone_geographique zg 
-ON p2.fk_zone_geographique = zg.pk_zone 
-GROUP BY p.pk , p.nom )
-SELECT pk,nom
-FROM tw1 
-GROUP BY pk, nom
-HAVING COUNT(*) > 1;
+-- effectif des domaines :
+SELECT DISTINCT do.domaine, COUNT(*) as eff
+FROM domaine_occupation do 
+JOIN occupation o 
+ 	ON o.fk_domaine_occupation = do.pk_domaine 
+JOIN liaison_personne_occupation lpo 
+	ON lpo.fk_occupation = o.pk 
+GROUP BY do.domaine 
+ORDER BY eff DESC ;
 
 -- vérification si quelqu'un pas de zone associée --> y en a 0
 SELECT COUNT(*) 
@@ -211,6 +159,22 @@ LEFT JOIN zone_geographique zg
 ON zg.pk_zone = p2.fk_zone_geographique 
 WHERE zg.nom_zone IS NULL ;
 
+
+
+
+-- UNIVERSITE : ANALYSE DE RESEAUX
+-- effectif par universités
+SELECT wpu.column4 , COUNT(*) as eff, wpu.column5
+FROM wiki_personne_universite wpu 
+GROUP BY wpu.column4 
+ORDER BY eff DESC; -- 2294 université différentes
+
+-- code pour voir si des personnes ont étudiés dans diverse universités. 
+SELECT wpu.column1 , count(*) AS eff, GROUP_CONCAT(wpu.column5) as universites, wpu.column2 
+FROM wiki_personne_universite wpu  
+GROUP BY wpu.column1  
+HAVING count(*) > 1
+ORDER BY eff DESC ; -- 1233 personne sont allées dans des universités différentes !!!!!! potentiel de réseaux
 
 
 
