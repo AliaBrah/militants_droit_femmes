@@ -159,14 +159,20 @@ LEFT JOIN zone_geographique zg
 ON zg.pk_zone = p2.fk_zone_geographique 
 WHERE zg.nom_zone IS NULL ;
 
+-- NATIONALITE: 
+SELECT win.nationalite , COUNT(*) as eff
+FROM wiki_import_nationalite win 
+GROUP BY win.nationalite 
+ORDER BY eff DESC;
+
 
 
 
 -- UNIVERSITE : ANALYSE DE RESEAUX
 -- effectif par universités
-SELECT wpu.column4 , COUNT(*) as eff, wpu.column5
+SELECT wpu.fk_uni  , COUNT(*) as eff, wpu.universite 
 FROM wiki_personne_universite wpu 
-GROUP BY wpu.column4 
+GROUP BY wpu.fk_uni  
 ORDER BY eff DESC; -- 2294 université différentes
 
 -- code pour voir si des personnes ont étudiés dans diverse universités. 
