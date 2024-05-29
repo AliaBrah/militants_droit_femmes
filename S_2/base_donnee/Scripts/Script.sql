@@ -148,6 +148,7 @@ JOIN liaison_personne_occupation lpo
 GROUP BY do.domaine 
 ORDER BY eff DESC ;
 
+
 -- vérification si quelqu'un pas de zone associée --> y en a 0
 SELECT COUNT(*) 
 FROM personne p 
@@ -182,6 +183,32 @@ GROUP BY wpu.column1
 HAVING count(*) > 1
 ORDER BY eff DESC ; -- 1233 personne sont allées dans des universités différentes !!!!!! potentiel de réseaux
 
+
+
+
+-- LIEU DE NAISSANCE ANALYSE SPATIALE CREATION DE LA TABLE POUR FAIRE L'ANALYSE.
+CREATE VIEW analyse_spatiale_1
+AS 
+SELECT fk_lieu , lieu_naissance , COUNT(*) eff, MAX(coordinates) geo_coord
+FROM wiki_import_lieu_naissance wiln 
+WHERE coordinates  LIKE 'Point(%'
+GROUP BY fk_lieu , lieu_naissance 
+-- exlu valeurs vides
+HAVING LENGTH(MAX(coordinates)) > 7
+ORDER BY eff DESC;
+
+CREATE VIEW analyse_spatiale_2
+AS
+SELECT annee_naissance ,fk_lieu , lieu_naissance , coordinates  AS geo_coord
+FROM wiki_import_lieu_naissance wiln  
+-- il y a des erreurs dans Wikidata
+WHERE wiln.coordinates LIKE 'Point(%';
+
+CREATE VIEW analyse_spatiale_3
+AS
+SELECT generations, lieu_naissance , geo_coord, COUNT(*) as effectif
+FROM wdt_generations_birth_place wgbp
+GROUP BY generations, fk_lieu , lieu_naissance , geo_coord;
 
 
 
