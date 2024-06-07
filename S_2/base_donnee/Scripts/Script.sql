@@ -31,6 +31,18 @@ FROM liaison_personne_occupation lpo
 GROUP by lpo.fk_occupation
 ORDER BY eff DESC ;
 
+-- analyse_personne_occupation source
+
+CREATE VIEW analyse_personnes_occupation
+AS
+   SELECT DISTINCT  lpo.Fk_personne, lpo.personne , apg.gender , apg.zone_geo, apg.annee_naissance, GROUP_CONCAT(domaine) as domaines, COUNT(*) as eff--2173 qui ont plusieurs occupations
+FROM liaison_personne_occupation lpo
+   JOIN occupation o ON o.pk= lpo.fk_occupation
+   JOIN analyse_personne_geo apg ON apg.pk =lpo.fk_personne
+   JOIN domaine_occupation do ON do.pk_domaine = o.fk_domaine_occupation
+GROUP BY lpo.Fk_personne
+ORDER BY eff DESC;
+
 
 SELECT win.column1, count(*) AS eff  --757 qui ont plusieurs nationalités
 FROM wiki_import_nationalite win  
