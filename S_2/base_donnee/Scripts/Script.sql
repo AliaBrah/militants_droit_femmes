@@ -216,10 +216,16 @@ FROM wiki_import_lieu_naissance wiln
 -- il y a des erreurs dans Wikidata
 WHERE wiln.coordinates LIKE 'Point(%';
 
-CREATE VIEW analyse_spatiale_3
-AS
+-- CREATE VIEW analyse_spatiale_3
+-- AS
 SELECT generations, lieu_naissance , geo_coord, COUNT(*) as effectif
 FROM wdt_generations_birth_place wgbp
+GROUP BY generations, fk_lieu , lieu_naissance , geo_coord;
+
+CREATE VIEW analyse_spatiale_4
+AS
+SELECT generations, lieu_naissance, geo_coord, count(*) AS effectif
+FROM wdt_generations_birth_place2 wgbp 
 GROUP BY generations, fk_lieu , lieu_naissance , geo_coord;
 
 
